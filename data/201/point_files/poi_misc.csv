@@ -1,0 +1,621 @@
+osm_id,code,fclass,name,lon,lat
+356799265,2082,school,Academy of Houston,-95.52545,29.67937
+356802620,2082,school,Girls and Boys Prep Academy,-95.5252,29.65602
+356804887,2082,school,Valley West Elementary School,-95.52656,29.66358
+498326886,2303,cafe,Caribbean Cuisine,-95.5125,29.68416
+2752822192,2501,supermarket,Food Town,-95.50767,29.67402
+3275418261,2501,supermarket,Fiesta,-95.53004,29.67233
+4138933719,2402,motel,America's Inn,-95.52822,29.68898
+4138933721,2402,motel,Plainfield Inn Southwest,-95.5464,29.67334
+5315598265,2501,supermarket,Walmart Neighborhood Market,-95.53002,29.65701
+356709337,2082,school,Kelso School,-95.33355,29.68217
+356720554,2082,school,Saint Augustine School,-95.23716,29.67856
+356799033,2082,school,Bastian Elementary School,-95.35323,29.68026
+356799279,2082,school,Alcott Elementary School,-95.32972,29.66715
+356805380,2082,school,Raul Yzaguirre School for Success,-95.31049,29.66579
+356805694,2082,school,Mount Hebron Academy,-95.35383,29.67468
+2661120726,2402,motel,Crystal Inn,-95.357,29.68136
+2661120856,2402,motel,Palace Inn,-95.34807,29.68423
+2661121270,2501,supermarket,Fiesta,-95.32845,29.69335
+2825549801,2402,motel,La Quinta Inn & Suites Houston Hobby Airport,-95.26159,29.6524
+2825549802,2402,motel,Downtowner Inn and Suites Monroe Rd,-95.26248,29.66673
+2825551501,2402,motel,Camelot Inn & Suites,-95.27233,29.67908
+2936765502,2402,motel,Cullen Inn,-95.35547,29.67937
+3042034936,2402,motel,Palace Inn,-95.37111,29.6438
+3042063233,2402,motel,Bestway Inn,-95.37992,29.67484
+3799590576,2303,cafe,Starbucks,-95.29777,29.69781
+4139503013,2402,motel,Island Suites Hobby Airport,-95.22964,29.62948
+4139503014,2402,motel,Knights Inn Houston Hobby Airport,-95.24848,29.65524
+4139503015,2402,motel,Days Inn and Suites Houston Hobby Airport,-95.25595,29.65151
+4139503016,2402,motel,Comfort Suites Hobby Airport Houston,-95.25537,29.65134
+4139503017,2402,motel,Econo Lodge Houston Lobby,-95.25711,29.65168
+4139503018,2402,motel,Hobby Airport Inn,-95.26102,29.65282
+4139503021,2402,motel,Lee's Inn Motel,-95.25785,29.66084
+4139503023,2402,motel,Moonlight Inn and Suites,-95.27064,29.67718
+5315598308,2501,supermarket,Walmart Supercenter,-95.23762,29.63081
+356749204,2082,school,Bowie School,-95.33827,29.82717
+356749536,2082,school,East Houston School,-95.26827,29.83745
+356749553,2082,school,Elmore High School,-95.27521,29.80939
+356749763,2082,school,Hilliard School,-95.28466,29.82245
+356750120,2082,school,McReynolds Junior High School,-95.31188,29.77189
+356750302,2082,school,Our Mother of Mercy School,-95.3291,29.78051
+356750404,2082,school,Resurrection School,-95.30244,29.77189
+356750517,2082,school,Saint Francis of Assisi School,-95.31021,29.80606
+356750641,2082,school,Settegast School,-95.27688,29.80884
+356750681,2082,school,Smith Junior High School,-95.33549,29.77662
+356797671,2082,school,Elmore Middle School,-95.27605,29.81023
+356798732,2082,school,E O Smith Elementary School,-95.33412,29.77715
+356798736,2082,school,East Houston Elementary School,-95.26771,29.83661
+356798991,2082,school,Crawford Elementary School,-95.34188,29.77467
+356799014,2082,school,Barbara Jordan High School,-95.33292,29.81474
+356799150,2082,school,Bowie Elementary School,-95.33771,29.82745
+356801383,2082,school,McCardell Academy,-95.34188,29.77189
+356801390,2082,school,McDade Elementary School;Kashmere Gardens High School,-95.33024,29.81232
+356801428,2082,school,McReynolds Middle School,-95.31188,29.77212
+356801468,2082,school,Langston Early Child Development Center,-95.34139,29.78303
+356801615,2082,school,Key Middle School,-95.32638,29.81379
+356802075,2082,school,Houston Gardens Elementary School,-95.30109,29.82069
+356802292,2082,school,Hilliard Elementary School,-95.28438,29.82217
+356802421,2082,school,H P Carter High School,-95.33605,29.77634
+356804988,2082,school,Smith E O Middle School,-95.33421,29.77716
+356805339,2082,school,Scott Elementary School,-95.33058,29.79109
+356805596,2082,school,Oates Elementary School,-95.25605,29.79328
+4139523840,2402,motel,Palace Inn I-10 East,-95.23752,29.77451
+4139523841,2402,motel,Days Inn Houston East,-95.23816,29.77451
+4139523842,2402,motel,Hampton Inn Houston I-10 East,-95.24363,29.77571
+4139523843,2402,motel,Premier Inn,-95.24412,29.77445
+4139523844,2402,motel,Quality Inn,-95.24826,29.77489
+4139523845,2402,motel,Motel 7,-95.24857,29.77441
+4139537999,2402,motel,Lexus Inn,-95.28309,29.82622
+4139538000,2402,motel,Super 8 Houston/Downtown/I-610,-95.30065,29.80851
+4139538032,2402,motel,Scottish Inn & Suites Houston - Eastex Freeway,-95.33896,29.79957
+5654070247,2303,cafe,Taqueria El Zocalo,-95.33551,29.76787
+5734612280,2303,cafe,Ortega's Kitchen,-95.34074,29.76658
+2642333041,2012,community_centre,Club Summerwood,-95.18572,29.92112
+2704186654,2303,cafe,Starbucks,-95.25007,29.93611
+3310014516,2501,supermarket,Walmart Supercenter,-95.25269,29.93646
+4709604946,2303,cafe,Starbucks,-95.19712,29.92544
+356798875,2082,school,Cherry Street School,-95.61535,30.0951
+763424822,2303,cafe,Starbucks,-95.55414,30.03401
+1184643083,2501,supermarket,Kroger,-95.63427,30.09205
+1748702815,2501,supermarket,H-E-B,-95.52733,30.02223
+2605582194,2303,cafe,Starbucks,-95.62159,29.99438
+2615158230,2014,arts_centre,Vino Artino,-95.59191,29.99714
+3203992082,2501,supermarket,Kroger,-95.55271,30.1146
+3353169580,2501,supermarket,Walmart Supercenter,-95.62493,30.07582
+3374926474,2303,cafe,Starbucks,-95.55467,30.11271
+4398172561,2501,supermarket,H-E-B,-95.63899,30.00304
+5260570955,2303,cafe,Starbucks,-95.57293,29.99643
+5315598276,2501,supermarket,Walmart Supercenter,-95.5506,30.1343
+6078588223,2110,hospital,Copas Dental,-95.63353,30.08895
+6299518385,2501,supermarket,H-E-B,-95.57703,30.05375
+6887378342,2084,college,Lone Star College - Creekside Center,-95.5535,30.14148
+6970641071,2012,community_centre,The Lodge,-95.65473,30.05465
+356714070,2082,school,Our Lady of Fatima School,-95.23842,29.73951
+356798643,2082,school,,-95.28927,29.73751
+356802948,2082,school,Gallegos Elementary School,-95.29281,29.73379
+356803034,2082,school,George I Sanchez - Alternative School,-95.31799,29.74301
+356805241,2082,school,Ripley House Alternative School,-95.32882,29.7515
+2723953871,2504,mall,David Center,-95.34022,29.73704
+3679718633,2303,cafe,The Nook Cafe,-95.33724,29.72253
+3708629757,2501,supermarket,Sellers Bros Food Market,-95.31285,29.71171
+3818254202,2303,cafe,Chocolate Wasted Ice Cream,-95.33094,29.73454
+3832800108,2501,supermarket,99 Cent Only Store,-95.29571,29.71822
+356707514,2082,school,Harris County Youth Village,-95.06793,29.57049
+356859368,2082,school,Saint Thomas the Apostle Episcopal School,-95.08797,29.5462
+356859921,2082,school,Gloria Dei Christian School,-95.08889,29.54777
+356867239,2082,school,Lunar and Planetary Institute Rice University,-95.0752,29.5615
+356867243,2082,school,Lunar Science Institute Rice University,-95.0747,29.561
+2336544962,2082,school,Robinson Elementary School,-95.05982,29.57118
+4405245689,2012,community_centre,Seabrook Community House,-95.02478,29.56407
+4534248983,2501,supermarket,Arlan's Market,-95.05941,29.56732
+3761874088,2082,school,Saint Martha Catholic School,-95.20961,30.0645
+3802417675,2083,kindergarten,La Petite Academy,-95.2169,30.06966
+3903671109,2501,supermarket,Kroger,-95.18713,30.06668
+3903671110,2303,cafe,Starbucks,-95.18744,30.06685
+4252070152,2303,cafe,Starbucks,-95.21634,30.06967
+4252070153,2501,supermarket,Walmart Neighborhood Market,-95.21451,30.06933
+4274826138,2303,cafe,Citizen Donuts,-95.18895,30.06587
+6183318294,2110,hospital,"Westbridge Recovery Center, Inc",-95.17228,30.07227
+356704784,2082,school,Dominion Montessori School,-95.37966,29.73606
+356705541,2082,school,Fannin School,-95.37895,29.74497
+356708255,2082,school,Holy Rosary School,-95.38049,29.73995
+356711352,2082,school,Miller Junior High School,-95.37411,29.73078
+356798947,2082,school,Contemporary Learning Center High School,-95.37427,29.73087
+356798950,2082,school,Contemporary Learning Center Middle School,-95.37418,29.73121
+356802064,2082,school,Houston Can! Academy Charter School,-95.37299,29.74745
+3335371394,2303,cafe,Starbucks,-95.37673,29.74657
+3789917424,2014,arts_centre,Aerosol Warfare,-95.35998,29.74465
+4139503024,2402,motel,Scott Inn & Suites,-95.34628,29.73674
+5263007753,2303,cafe,Cafe 4212,-95.37617,29.73108
+356720507,2082,school,,-95.36932,29.74905
+356804727,2082,school,Young Scholars Academy,-95.37246,29.7521
+3335384117,2303,cafe,Starbucks,-95.37453,29.74881
+3529370900,2303,cafe,Starbucks,-95.3747,29.75053
+5218653931,2303,cafe,Cafeza,-95.37221,29.77361
+5744444930,2303,cafe,Catalina Coffee,-95.38064,29.76801
+6879700338,2303,cafe,Mademoiselle Louise,-95.36936,29.75098
+6879700341,2303,cafe,Cafe Cosmopolita,-95.36794,29.7519
+356718805,2082,school,Pilgrim School,-95.47522,29.68801
+356801925,2082,school,Jumpstart Academy,-95.47328,29.66968
+356802113,2082,school,Impact Charter School,-95.50105,29.63829
+356802414,2082,school,Gulf Shores Alternative School,-95.46669,29.6554
+356804714,2082,school,Wyndam Charter School,-95.46714,29.65544
+356805439,2082,school,Parker Elementary School,-95.48284,29.66562
+356866906,2082,school,Westbury Christian School,-95.49431,29.66773
+1573661275,2082,school,Robert M. Beren Academy,-95.4522,29.65413
+2051347349,2303,cafe,Starbucks,-95.46211,29.68887
+2408012587,2501,supermarket,Foodarama,-95.49134,29.68755
+2802443617,2082,school,The Shlenker School,-95.4885,29.67749
+2819459101,2110,hospital,Menninger Clinic,-95.45671,29.64971
+4711368241,2303,cafe,Berripop Frozen Yogurt,-95.46211,29.68877
+6790672428,2501,supermarket,Aldi,-95.50155,29.68949
+356719350,2082,school,Ralph Waldo Emerson School,-95.53439,29.72662
+356802660,2082,school,Emerson Elementary School,-95.53383,29.72717
+356805514,2082,school,Piney Point Elementary School,-95.52105,29.72662
+629511742,2013,nursing_home,Treemont,-95.53099,29.73807
+3308391695,2303,cafe,Krispy Kreme,-95.5182,29.73695
+3845830309,2303,cafe,Starbucks,-95.55046,29.73653
+4535586640,2303,cafe,Java Coffee & Tea Co.,-95.52013,29.73645
+5256551718,2501,supermarket,Jusgo,-95.54689,29.70585
+5315600724,2501,supermarket,Walmart Supercenter,-95.51169,29.73548
+6580896141,2083,kindergarten,,-95.5293,29.76825
+356799298,2082,school,Alief Montessori Community School,-95.59189,29.71273
+356805171,2082,school,Shadowbriar Elementary School,-95.59828,29.7369
+356805176,2082,school,Shadowbriar Middle School,-95.59828,29.7369
+356805323,2082,school,Sandpoint Elementary School,-95.553,29.72106
+356866884,2082,school,Alexander Smith Senior High School,-95.5548,29.72414
+2626629156,2501,supermarket,H-E-B,-95.64166,29.7057
+2702097350,2501,supermarket,Walmart Supercenter,-95.64746,29.72124
+4725183390,2501,supermarket,,-95.62617,29.73409
+4725188790,2012,community_centre,the commons,-95.62417,29.7377
+4728685193,2012,community_centre,Ahead 29 Apartments,-95.62815,29.69057
+5256569179,2501,supermarket,Vishala Grocery,-95.62479,29.73812
+5280612996,2501,supermarket,Hong Kong Food Market,-95.5774,29.70137
+5315598277,2501,supermarket,Walmart Neighborhood Market,-95.58607,29.6874
+2673374332,2402,motel,La Quinta,-95.7614,29.78419
+3911060265,2501,supermarket,Fiesta Mart,-95.7491,29.78097
+3916915531,2303,cafe,Marble Slab Creamery,-95.75123,29.77792
+3916915535,2303,cafe,Starbucks,-95.75033,29.77684
+3917249546,2303,cafe,Begal Cafe,-95.75038,29.77304
+4138864449,2402,motel,Days Inn & Suites Katy,-95.73708,29.78744
+5246578669,2501,supermarket,Kroger,-95.77019,29.81265
+356749338,2082,school,Christ the King School,-95.3791,29.79456
+356750436,2082,school,Robert Browning School,-95.37855,29.79689
+356750480,2082,school,Saint Charles School,-95.36891,29.84756
+356750567,2082,school,Sam Houston High School,-95.36049,29.84773
+356798754,2082,school,Burbank Middle School,-95.37057,29.83887
+356798994,2082,school,Burbank Elementary School,-95.37266,29.84512
+356799099,2082,school,Berry Elementary School,-95.35005,29.83659
+356799179,2082,school,Browning Elementary School,-95.37799,29.79634
+356805542,2082,school,North District Alternative Elementary School,-95.35021,29.83663
+356805568,2082,school,Northline Elementary School,-95.38702,29.85082
+1567411072,2303,cafe,Carmelita's Cuisine,-95.38765,29.79099
+2739347276,2082,school,KIPP Dream,-95.36921,29.8454
+3247844075,2082,school,KIPP 3D,-95.36921,29.84532
+3247844076,2082,school,KIPP Generations,-95.36921,29.84523
+3494238594,2402,motel,Western Inn Motel,-95.37922,29.8134
+3494239593,2402,motel,Super 8 Houston/I-45 North,-95.38069,29.82367
+3512738587,2303,cafe,Antidote,-95.38802,29.78489
+4138765935,2402,motel,Astro Inn,-95.37421,29.80419
+4138765936,2402,motel,Sleep Inn & Suites,-95.37262,29.79434
+6433472288,2501,supermarket,Fiesta,-95.38528,29.83671
+815022059,2303,cafe,Starbucks,-95.46061,29.74123
+2349161820,2303,cafe,Starbucks,-95.45728,29.75441
+2352000322,2402,motel,La Quinta Inn & Suites Houston Galleria Area,-95.45474,29.7503
+2922351167,2303,cafe,Starbucks,-95.45485,29.74767
+4377349307,2501,supermarket,Whole Foods Market,-95.46187,29.74959
+4870638521,2303,cafe,Starbucks,-95.46657,29.74102
+5370659658,2501,supermarket,Westcreek Market & Deli,-95.45484,29.74147
+6374953396,2303,cafe,Sprinkles Cupcakes,-95.44598,29.74194
+6437114364,2303,cafe,Merchant,-95.4601,29.74938
+356750304,2082,school,Our Savior School,-95.41161,29.82995
+356750557,2082,school,Saint Rose of Lima School,-95.41522,29.81995
+356801573,2082,school,Kay On - Going Education Center,-95.41112,29.8289
+356805606,2082,school,On - Going Middle School,-95.41114,29.82872
+2699368507,2501,supermarket,Kroger,-95.41121,29.78963
+4040988420,2303,cafe,Maryam's Cafe,-95.40208,29.80305
+4040988422,2303,cafe,Boomtown Coffee,-95.40067,29.80269
+4085985856,2303,cafe,Charles Donut Shop,-95.4341,29.82875
+4138765929,2402,motel,Town Inn Houston,-95.40008,29.85445
+4138765930,2402,motel,Guest Inn And Suites,-95.39912,29.85351
+4138765931,2402,motel,Southwind Motel,-95.39569,29.84855
+4592400303,2501,supermarket,Fortune one foods,-95.41591,29.80209
+4842212281,2501,supermarket,Aldi,-95.4098,29.82296
+6013901458,2303,cafe,EQ Heights,-95.39733,29.7901
+6252570645,2501,supermarket,H-E-B,-95.40886,29.80736
+6252667381,2501,supermarket,Kroger,-95.40046,29.80457
+6270557985,2110,hospital,Texas Children's Pedatrics,-95.39885,29.80675
+6296940101,2303,cafe,The Roastery,-95.40871,29.80716
+6558728505,2303,cafe,Tea + Victory,-95.42682,29.8042
+6597813470,2303,cafe,Green Earth,-95.40977,29.80816
+4219839276,2303,cafe,Starbucks,-95.34981,29.98787
+4584106045,2303,cafe,Starbucks,-95.3457,29.98586
+5294707640,2303,cafe,Peet's Coffee,-95.34513,29.98672
+5312125278,2303,cafe,Starbucks,-95.34162,29.9893
+5315600799,2501,supermarket,Walmart Supercenter,-95.28349,30.009
+5669889044,2303,cafe,Starbucks,-95.34977,29.98563
+6351326008,2303,cafe,Starbucks,-95.33953,29.98583
+6351326019,2303,cafe,Freshens Fresh Food Studio,-95.33828,29.9858
+6351326036,2303,cafe,Starbucks,-95.3354,29.98533
+356711547,2082,school,Montrose School,-95.38908,29.73803
+356802082,2082,school,Houston Middle College for Technology,-95.40244,29.7344
+356805489,2082,school,High School for the Performing & Visual Arts,-95.38843,29.73696
+356816038,2110,hospital,Plaza Specialty Hospital,-95.3878,29.72408
+356865589,2081,university,The University of Texas Health Science Center,-95.40315,29.70299
+1455044828,2303,cafe,Black Hole,-95.39494,29.73246
+1975476340,2303,cafe,Starbucks,-95.40123,29.70964
+1975596439,2110,hospital,Texas Heart Institute - Denton A. Cooley Building,-95.39942,29.70793
+3637431631,2303,cafe,Siphon Coffee,-95.3883,29.73839
+4245200731,2303,cafe,MFA Cafe,-95.38927,29.72526
+4259049650,2081,university,Michael E. Debakey Center,-95.39595,29.71143
+4259049651,2081,university,Cullen Building,-95.39641,29.71067
+4259086218,2110,hospital,Texas Children's Hospital,-95.40083,29.70778
+4288727593,2303,cafe,Pinewood Cafe,-95.38988,29.7174
+4289825235,2303,cafe,Cypress Circle Café,-95.39181,29.71362
+6204461289,2303,cafe,Twiga Café,-95.39253,29.71234
+6204461382,2303,cafe,Albert and Hazel Herzstein Trading Post,-95.39197,29.71167
+6925939365,2303,cafe,Starbucks,-95.405,29.73401
+356710653,2082,school,MacGregor School,-95.38077,29.72801
+356720610,2082,school,Saint James School,-95.36744,29.71717
+356720982,2082,school,Saint Mary School,-95.36827,29.71967
+356801334,2082,school,MacGregor Elementary School,-95.38076,29.72832
+1150373861,2402,motel,La Quinta Inn Houston Cy-Fair,-95.61809,29.91679
+1150382727,2303,cafe,Starbucks,-95.6163,29.91584
+3306996261,2501,supermarket,Walmart Supercenter,-95.60225,29.91994
+4138826036,2402,motel,Super 8 Houston,-95.55927,29.97004
+4138826038,2402,motel,Scottish Inns & Suites-Jones Road,-95.58508,29.93868
+4369183341,2402,motel,Motel 6,-95.5736,29.88502
+5272957059,2303,cafe,Southern Maid Donuts,-95.58527,29.92608
+4138933722,2402,motel,America's Inn,-95.55525,29.66504
+4138933725,2402,motel,Comfort Inn Southwest Fwy,-95.56497,29.65596
+5315598852,2501,supermarket,Walmart Supercenter,-95.56132,29.67927
+5872004370,2082,school,Kipp SHINE Prep,-95.56564,29.67005
+912088391,2303,cafe,Fountain View Cafe,-95.48646,29.7482
+1474266869,2303,cafe,Starbucks,-95.48241,29.7601
+3719376292,2501,supermarket,Whole Foods Market,-95.5,29.75247
+4138933711,2402,motel,Days Inn Houston - Galleria Mall,-95.48387,29.72977
+4138933712,2402,motel,Comfort Suites - Near the Galleria,-95.4913,29.73142
+5470024775,2501,supermarket,Trader Joe's,-95.50163,29.75275
+6080960276,2303,cafe,,-95.48436,29.74953
+6654320564,2501,supermarket,Rice Epicurean Market,-95.48638,29.7466
+356700138,2082,school,Bible Institute of Texas,-95.1416,29.68273
+356701541,2082,school,Carpenter Elementary School,-95.13592,29.67993
+356720569,2082,school,Saint Frances Cabrini School,-95.22214,29.63638
+356721095,2082,school,Saint Pius V School,-95.2101,29.69925
+356798800,2082,school,Carpenter Elementary School,-95.13799,29.6819
+356799139,2082,school,Bonnette Junior High School,-95.13799,29.6819
+356802540,2082,school,Harvey Turner Elementary School,-95.16636,29.65038
+1924280269,2303,cafe,Starbucks,-95.12278,29.67781
+1924294724,2501,supermarket,Food Town,-95.12464,29.68109
+1924302158,2303,cafe,Starbucks,-95.15229,29.65041
+3317807677,2501,supermarket,Walmart Supercenter,-95.16138,29.64661
+4636525837,2012,community_centre,Deer Park Community Center,-95.11866,29.68914
+4640832331,2402,motel,Super 8,-95.12431,29.70341
+4640845253,2012,community_centre,Jimmy Burke Activity Center,-95.12779,29.6992
+6351432604,2083,kindergarten,,-95.14414,29.73375
+6924919609,2082,school,Bonnette Junior High,-95.13435,29.68079
+2675804285,2402,motel,Extended Stay America,-95.57896,29.78276
+5315598025,2501,supermarket,Walmart Neighborhood Market,-95.68058,29.94238
+356799346,2082,school,Askew Elementary School,-95.578,29.75245
+2711946397,2303,cafe,Citiline Deli,-95.62197,29.76474
+3204058605,2501,supermarket,Kroger,-95.59944,29.77114
+4725183393,2012,community_centre,Ashrod Building,-95.6072,29.75355
+4725188792,2082,school,Ray Daily Elem. School,-95.61584,29.75409
+5790105001,2303,cafe,Tree House - Craft Coffee & Frozen Yogurt,-95.59037,29.77161
+356708249,2082,school,Holy Ghost School,-95.47702,29.70457
+356799074,2082,school,Benavidez Elementary School,-95.49244,29.71662
+356801488,2082,school,Las Americas Newcomer Middle School,-95.48674,29.71993
+356805153,2082,school,Ser - Ninos Charter Elementary School,-95.48078,29.70912
+356815851,2110,hospital,Cornerstone Hospital Houston – Bellaire,-95.47327,29.70801
+2346493081,2501,supermarket,El Ahorra Supermarket,-95.48348,29.69884
+2383851268,2303,cafe,Starbucks,-95.49827,29.71664
+2614136116,2303,cafe,Starbucks,-95.46831,29.70727
+2696705132,2303,cafe,Honduras Maya Cafe & Bar,-95.48635,29.70518
+3454500693,2402,motel,Bellaire Inn,-95.47222,29.70768
+4138933714,2402,motel,Comfort Inn & Suites,-95.49957,29.71517
+4138933716,2402,motel,La Quinta Inn & Suites Houston Southwest,-95.50375,29.71413
+4138933717,2402,motel,Limited Houston Sharpstown,-95.50402,29.71074
+4138933718,2402,motel,Red Carpet Inn Houston,-95.50313,29.7102
+5465702596,2110,hospital,Behavioral Hospital of Bellaire,-95.47324,29.7084
+356750147,2082,school,Messiah School,-95.413,29.76856
+356750558,2082,school,Saint Theresa School,-95.43029,29.77327
+356802387,2082,school,Gregory - Lincoln Education Center,-95.38499,29.75614
+1075977033,2303,cafe,Starbucks,-95.40991,29.75277
+1474266873,2303,cafe,Starbucks,-95.41728,29.76108
+2840975401,2303,cafe,Brasserie 19,-95.40735,29.75341
+2975083419,2082,school,Carnegie Vanguard High School,-95.38485,29.75418
+3136604734,2303,cafe,Starbucks,-95.39834,29.77477
+3235574907,2303,cafe,CoCos Crepes,-95.41834,29.77039
+4040988397,2303,cafe,Chatter's Cafe & Bistro,-95.39766,29.76818
+4736456635,2303,cafe,The Teahouse,-95.41981,29.76177
+5693008293,2303,cafe,The Yellow Cup,-95.42206,29.77074
+6840644122,2501,supermarket,H-E-B,-95.39663,29.76917
+356859498,2082,school,Bay Area Montessori School House,-95.11667,29.55052
+356859580,2082,school,Bruk Academy,-95.12287,29.53689
+356859842,2082,school,Westminster Academy,-95.11517,29.5482
+356860086,2082,school,Houston Learning Academy,-95.11803,29.53665
+356860269,2082,school,Galloway Upper School,-95.1169,29.55037
+1086344290,2303,cafe,Enlighten Coffee Roasters,-95.12586,29.53269
+2618871517,2501,supermarket,Raj Grocers,-95.14492,29.56586
+3390498259,2501,supermarket,Kroger,-95.12477,29.55859
+3390500125,2501,supermarket,Food Town,-95.14012,29.56024
+3739511534,2303,cafe,Shipley Do-Nuts,-95.15374,29.58272
+3739511604,2303,cafe,Starbucks,-95.15697,29.57827
+3755266369,2501,supermarket,Kroger,-95.12057,29.57798
+3774122725,2303,cafe,Starbucks,-95.1262,29.55167
+4247196590,2501,supermarket,H-E-B,-95.12678,29.60611
+4770537553,2303,cafe,Kolache Factory,-95.13468,29.54515
+4770537556,2303,cafe,Starbucks,-95.14982,29.55644
+6656078772,2084,college,Remington College Webster Campus,-95.12353,29.52532
+6656205004,2082,school,CCISD Teacher Center,-95.13873,29.51769
+3903896556,2501,supermarket,Randalls,-95.71701,29.77943
+3903896960,2501,supermarket,Target,-95.71605,29.78216
+3903913977,2303,cafe,Starbucks,-95.71656,29.78211
+3905103773,2501,supermarket,H-E-B,-95.71674,29.78929
+3905211326,2501,supermarket,Kroger,-95.72131,29.79117
+3905211331,2303,cafe,Starbucks,-95.72053,29.79064
+5315598023,2501,supermarket,Walmart Neighborhood Market,-95.73106,29.75862
+356814337,2082,school,I T Holleman Elementary School,-95.9194,30.06633
+356814343,2082,school,Schultz Middle School,-95.90884,30.05133
+2375548177,2402,motel,America's Best Value Inn,-95.90979,30.06104
+356798605,2082,school,Cunningham Middle School,-95.20079,29.80238
+356802183,2082,school,James B Havard Elementary School,-95.19549,29.80606
+356802614,2082,school,High Point Alternative School - Sheldon,-95.18515,29.84068
+356802683,2082,school,Endeavor Schools,-95.12479,29.79143
+356804826,2082,school,Tice Elementary School,-95.19942,29.80405
+356805276,2082,school,Royalwood Elementary School,-95.18799,29.83745
+3308449910,2501,supermarket,Walmart Supercenter,-95.16524,29.806
+4139523821,2402,motel,Holiday Inn Houston East-Channelview,-95.11025,29.78456
+4139523822,2402,motel,Americas Best Value Inn & Suites - Channelview / Houston,-95.11893,29.78085
+4139523823,2402,motel,The Grand Inn,-95.12064,29.78009
+4139523824,2402,motel,Traveler's Inn & Suites,-95.12191,29.77983
+4139523826,2402,motel,Luxury Inn,-95.12063,29.77633
+4139523827,2402,motel,Days Inn & Suites Houston Channelview,-95.1267,29.77834
+4139523828,2402,motel,Scottish Inns Suites Channelview,-95.12649,29.77685
+4139523829,2402,motel,Palace Inn - Channelview,-95.12897,29.77775
+4139523830,2402,motel,Parkway Inn,-95.13187,29.77696
+4139523831,2402,motel,Clarion Inn,-95.14355,29.77445
+4139523832,2402,motel,Interstate Motor Lodge,-95.19187,29.77181
+4139523833,2402,motel,La Quinta Inn & Suites Houston - Normandy,-95.20697,29.77293
+4139523834,2402,motel,Scottish Inns & Suites - I10 East,-95.20911,29.77029
+4139523835,2402,motel,Super 8 Houston/I-10/Federal Road,-95.21265,29.76823
+4139523836,2402,motel,Lamplight Inn,-95.21479,29.76954
+4139523837,2402,motel,Comfort Inn East,-95.219,29.7716
+4139523839,2402,motel,Red Roof Inn Houston East,-95.22528,29.77255
+4739964047,2082,school,Cravens Early Childhood Academy,-95.19985,29.85141
+5315602252,2501,supermarket,Walmart Supercenter,-95.1771,29.76803
+4251878623,2501,supermarket,Joe V's Smart Shop,-95.47757,29.60789
+356815975,2110,hospital,Intracare North Hospital,-95.44033,30.02378
+2809305840,2501,supermarket,Kroger,-95.43406,30.02184
+2821133119,2402,motel,Super 8 Houston I-45,-95.42528,30.00356
+2821145940,2402,motel,La Quinta Inn & Suites Houston 1960,-95.42299,30.02416
+2821333703,2402,motel,Baymont Inn and Suites Houston I-45 North,-95.42922,30.01539
+2821337401,2402,motel,Palace Inn,-95.42143,30.0244
+2821359101,2402,motel,Days Inn & Suites Houston North/Spring,-95.42725,30.0002
+3004832757,2501,supermarket,Food Fair Supermarket,-95.38835,30.0487
+4003638119,2303,cafe,Starbucks,-95.49854,29.98728
+4138765903,2402,motel,Motel 6 Houston North - Spring,-95.43332,30.05132
+4138765906,2402,motel,Days Inn & Suites Houston North/FM 1960,-95.42245,30.02229
+4138765907,2402,motel,Studio 6 Houston - Spring,-95.43072,30.01819
+4138765908,2402,motel,Americas Best Value Inn I-45 North Houston,-95.42568,30.00681
+4138765910,2402,motel,Value Place Airtex,-95.42061,29.98332
+4138765911,2402,motel,Sleep Inn & Suites I-45 / Airtex,-95.4274,29.98195
+4138765912,2402,motel,Holiday Inn Express & Suites Houston North Intercontinental,-95.42469,29.98104
+4138765913,2402,motel,BEST WESTERN PLUS North Houston Inn & Suites,-95.42403,29.97959
+4138826022,2402,motel,Camelot Inn & Suites 1960,-95.45166,30.01301
+4138826024,2402,motel,Northgate Inn and Suites Houston,-95.46548,30.00467
+4138826025,2402,motel,Comfort Inn & Suites FM1960-Champions,-95.48334,29.99463
+4138826026,2402,motel,Holiday Inn Express - Houston,-95.49792,29.98996
+4217296390,2501,supermarket,Walmart Supercenter,-95.48415,29.99821
+5315597609,2501,supermarket,Walmart Neighborhood Market,-95.40598,30.06435
+6292846529,2501,supermarket,Aldi,-95.48592,29.99367
+6292849026,2402,motel,Champions Lodge,-95.50279,29.98686
+6292849034,2303,cafe,Starbucks,-95.50929,29.97968
+356860103,2082,school,Lord of Life Lutheran School,-95.184,29.5513
+1280159697,2501,supermarket,Kroger,-95.21486,29.6029
+3128789603,2501,supermarket,Hong Kong Market,-95.21338,29.58634
+4139503012,2402,motel,Studio 6 Houston-Hobby,-95.21327,29.6166
+2704491051,2501,supermarket,Walmart Supercenter,-95.71645,29.86065
+3902117941,2501,supermarket,Fiesta,-95.72203,29.87817
+4306457398,2012,community_centre,Windsong Trail,-95.67566,29.84906
+5243429872,2501,supermarket,Cà Mau Food Market,-95.70028,29.88099
+5248219010,2501,supermarket,Shapla Grocers & Halal Meat,-95.67028,29.86579
+5249290708,2501,supermarket,La Michoacana Meat Market,-95.684,29.86673
+5261521548,2501,supermarket,La Pasadita,-95.66713,29.87847
+5345906739,2012,community_centre,Bear Creek Plantation Community Center,-95.70575,29.86622
+5370764720,2303,cafe,Starbucks,-95.68406,29.8327
+5370765721,2501,supermarket,,-95.68281,29.84953
+5370765723,2501,supermarket,African Market,-95.68246,29.85358
+5461897702,2402,motel,Hotel Bella,-95.48498,29.91569
+5461897709,2501,supermarket,Aldi,-95.4858,29.9161
+5462330386,2402,motel,Palace Inn,-95.50157,29.92609
+356743886,2082,school,Recreation Acres School,-95.47911,29.90634
+356749880,2082,school,Johnson Memorial School,-95.44864,29.83226
+356750128,2082,school,Memorial Hall School,-95.51105,29.79884
+356750477,2082,school,Saint Ambrose School,-95.46327,29.82884
+356750478,2082,school,Saint Cecilias School,-95.52994,29.77884
+356750481,2082,school,Saint Christopher School,-95.52355,29.80356
+356750538,2082,school,Saint Mark School,-95.49439,29.79745
+356750700,2082,school,Spring Branch High School,-95.51133,29.79551
+356802069,2082,school,Houston Educational Learning Enrichment,-95.46577,29.81773
+356805034,2082,school,Spring Branch Education Center,-95.51127,29.79451
+356805047,2082,school,Spring Branch School of Choice,-95.51146,29.79476
+356867250,2082,school,Memorial Hall School,-95.46593,29.81139
+1920554546,2082,school,Big Little School,-95.48602,29.78945
+1935628499,2082,school,School of the Woods,-95.48552,29.79367
+2661033422,2501,supermarket,El Ahorro,-95.52324,29.82259
+2662073553,2501,supermarket,Thang Hung Food Market,-95.52494,29.82109
+3939540377,2402,motel,,-95.52852,29.78321
+4368695812,2402,motel,Quality Inn & Suites Hwy 290 - Brookhollow,-95.48742,29.83561
+4368695827,2402,motel,Americas Best Value Inn & Suites-Houston-Northwest Brookhollow,-95.48321,29.834
+4368695844,2402,motel,Econo Lodge,-95.48806,29.83883
+4368695846,2402,motel,Regency Inn & Suites,-95.49007,29.83786
+4368695850,2402,motel,Sleep Inn & Suites Hwy 290/Nw Freeway,-95.49551,29.84505
+4369181582,2402,motel,Comfort Inn Hwy. 290/Nw,-95.51065,29.85011
+4369183303,2402,motel,Crossland Houston - Northwest,-95.51584,29.85354
+4369183339,2402,motel,Palace Inn Fairbanks,-95.5186,29.85555
+4561043613,2501,supermarket,Seller's Brothers,-95.52565,29.81054
+5027253422,2012,community_centre,Chinese Baptist Church,-95.50496,29.7818
+5179403020,2402,motel,InTown Suites,-95.52168,29.85724
+5463200761,2501,supermarket,Nourish Market,-95.52098,29.79123
+5987838685,2082,school,,-95.44293,29.89417
+6298445528,2012,community_centre,Trini Mendenhall Community Center,-95.48416,29.79579
+6299354185,2501,supermarket,Kroger,-95.48644,29.79682
+6580896142,2110,hospital,,-95.4756,29.79328
+356827376,2303,cafe,Chama,-95.72023,29.80303
+4297111823,2501,supermarket,Al-Ahad Meat and Grocers,-95.70464,29.83227
+4297111829,2501,supermarket,Texas Food Supermarket,-95.70857,29.83167
+4302909216,2303,cafe,El Kiosko Frutas Y Helados #12,-95.72007,29.80141
+5370679939,2501,supermarket,Supermercado Gigante,-95.68788,29.81119
+5370764719,2082,school,The Goddard School,-95.68691,29.82101
+356709720,2082,school,Lanier Junior High School,-95.40509,29.74192
+530778065,2501,supermarket,Kroger,-95.39187,29.74299
+530778143,2303,cafe,Starbucks,-95.39058,29.74221
+566210107,2303,cafe,Brasil,-95.40225,29.74264
+566210425,2303,cafe,Empire Cafe,-95.40349,29.74296
+3136803459,2303,cafe,Blacksmith,-95.39249,29.74481
+3379727224,2303,cafe,Bacchus Winebar & Coffee Shop,-95.40227,29.74361
+3700075595,2405,hostel,Morty Rich Hostel,-95.3875,29.74314
+4035541824,2303,cafe,Common Bond,-95.40225,29.74297
+4074332967,2303,cafe,SouthSide Espresso,-95.3907,29.74499
+5703182723,2303,cafe,Fix Coffeebar,-95.38663,29.74427
+356750476,2082,school,Sacred Heart School,-95.38688,29.87189
+356798662,2082,school,Dechaumes Elementary School,-95.37697,29.86112
+2327714259,2501,supermarket,El Ahorro Supermarket,-95.38571,29.86065
+2821133101,2501,supermarket,Food Town,-95.40612,29.87118
+3494233094,2402,motel,Gulf Wind Motel,-95.41297,29.88487
+3494235293,2402,motel,Greenpoint Extended Stay Hotel,-95.41973,29.95907
+3494235393,2402,motel,Palace Inn,-95.41966,29.95953
+4138765914,2402,motel,Best Classic Inn,-95.41568,29.96686
+4138765915,2402,motel,Scottish Inn & Suites,-95.4146,29.96633
+4138765916,2402,motel,Knights Inn Houston,-95.41563,29.95085
+4138765926,2402,motel,Greenchase Inn,-95.41299,29.90447
+4138765927,2402,motel,Palace Inn,-95.411,29.86944
+4369405106,2402,motel,Wingate by Wyndham Houston Bush Intercontinental Airport IAH,-95.36586,29.93807
+4369405107,2402,motel,Homewood Suites By Hilton HOU Intercontinental Arpt,-95.36509,29.93754
+4369405108,2402,motel,Airport Suites,-95.36454,29.93778
+4369405109,2402,motel,Candlewood Suites Houston Iah / Beltway 8,-95.36292,29.93752
+4369405110,2402,motel,Quality Suites Intercontinental Airport West,-95.36286,29.94053
+4369405111,2402,motel,Palace Inn IAH,-95.36852,29.93835
+4369938101,2402,motel,Super 8 IAH West/Greenspoint,-95.36801,29.93816
+5225743021,2303,cafe,Starbucks,-95.40724,29.9471
+5437174975,2501,supermarket,La Michoacana Meat Market,-95.39166,29.88267
+5461730346,2501,supermarket,Fiesta,-95.40449,29.91615
+6433378317,2303,cafe,Raspas Flamingo Chill,-95.38407,29.85848
+523556850,2303,cafe,Starbucks,-95.64578,29.87619
+523558657,2501,supermarket,Food Town,-95.64883,29.87799
+1129005658,2083,kindergarten,Children's Courtyard,-95.65745,29.8964
+4138826044,2402,motel,Scottish Inns & Suites Timber,-95.64359,29.85698
+4138826046,2402,motel,Bear Creek Inn,-95.64541,29.83391
+4138826047,2402,motel,Palace Inn,-95.64668,29.83168
+4289437579,2501,supermarket,Fiesta Mart,-95.64468,29.83687
+4291218847,2303,cafe,El Klosko Frutas y Helados,-95.64687,29.83563
+4291218854,2501,supermarket,Dong Khanh Market,-95.6484,29.83562
+4291218858,2303,cafe,Cafe Giot Dang,-95.64798,29.83524
+5245961897,2303,cafe,Starbucks,-95.64624,29.84517
+5250817429,2084,college,Regency Beauty Institute,-95.64682,29.87208
+5254071885,2303,cafe,Shipley's Do-Nuts,-95.64479,29.87158
+5254106978,2303,cafe,Krispy Kreme,-95.64566,29.8596
+5468520258,2501,supermarket,ALDI,-95.64639,29.86166
+6489805696,2303,cafe,Starbucks,-95.64701,29.8775
+356866968,2082,school,Center For Advanced Legal Studies,-95.4193,29.7313
+1406368108,2303,cafe,Z Pizza,-95.44236,29.72128
+2180261965,2501,supermarket,Trader Joe's,-95.41117,29.7392
+2348332719,2402,motel,La Quinta,-95.44279,29.72814
+2405569053,2303,cafe,Starbucks,-95.42762,29.72819
+2408157598,2303,cafe,Starbucks,-95.44037,29.70546
+2458410344,2303,cafe,Starbucks,-95.41045,29.74049
+2509551201,2303,cafe,Corner Bakery Cafe,-95.41983,29.7297
+2627543679,2402,motel,Extended Stay America,-95.41463,29.7318
+4317541824,2303,cafe,Starbucks,-95.41713,29.71536
+4473446250,2012,community_centre,West University Community Building and Senior Center,-95.43772,29.71662
+5902127550,2504,mall,Shops at Arrive,-95.41929,29.74089
+6496742448,2083,kindergarten,House at Pooh Corner,-95.42214,29.74064
+6496768936,2303,cafe,Starbucks,-95.42499,29.70489
+1133248078,2084,college,Lone Star College Emergency Services Education Center,-95.6964,29.90823
+5245193867,2501,supermarket,Aldi,-95.68465,29.90456
+5245218894,2303,cafe,Starbucks,-95.68551,29.91181
+5249755440,2082,school,Kumon,-95.68308,29.89579
+6488172027,2303,cafe,Starbucks,-95.71802,29.89083
+6489805694,2303,cafe,Starbucks,-95.68973,29.91847
+356799161,2082,school,Bridge High School,-95.4805,29.72995
+473637075,2303,cafe,Starbucks,-95.47517,29.7313
+5717920201,2082,school,Mandarin Immersion Magnet School,-95.47252,29.73721
+1301295040,2303,cafe,Starbucks,-95.55025,29.76649
+1301298561,2501,supermarket,Rice Epicurean Market,-95.5515,29.76703
+770976316,2303,cafe,Starbucks,-95.17789,29.99778
+986034040,2501,supermarket,H-E-B,-95.18367,30.05301
+4113059980,2303,cafe,Starbucks,-95.18261,30.04832
+4303263159,2303,cafe,Kingwood Bagel & Sandwich,-95.18446,30.04768
+5261521016,2012,community_centre,Eagle Springs Community Center,-95.1882,29.97778
+5315596438,2501,supermarket,Walmart Supercenter,-95.17644,29.99568
+5659611111,2303,cafe,Starbucks,-95.18055,30.05172
+5843069939,2501,supermarket,Aldi,-95.17379,29.99688
+356702796,2082,school,Corpus Christi School,-95.44133,29.67468
+1975611376,2501,supermarket,Fiesta,-95.41512,29.69023
+2678647060,2402,motel,Candlewood Suites Houston Medical Center,-95.42632,29.67582
+3042066133,2402,motel,Sterling Inn and Suites at Reliant and Medical Center Houston,-95.41696,29.6787
+4138961119,2402,motel,Palace Inn Medical Center,-95.42946,29.67648
+4138961120,2402,motel,Motel 6 Houston NRG Park - Reliant Stadium,-95.42952,29.67717
+4138961121,2402,motel,Carefree Inn Houston Medical Center,-95.42773,29.67614
+4138961124,2402,motel,Holiday Inn Express & Suites Houston SW-Medical Ctr Area,-95.42317,29.6841
+4370711277,2402,motel,Raintree Inn & Suites,-95.43472,29.67853
+5604621733,2303,cafe,Starbucks,-95.41517,29.6959
+5604621795,2303,cafe,Starbucks,-95.41857,29.69294
+5604621803,2082,school,UnIted Christian School,-95.41854,29.67865
+6503285221,2082,school,Grace Episcopal Church School & Office Entrance,-95.44403,29.67378
+5244656609,2082,school,Aristoi Classical Academy,-95.8161,29.81696
+6373324336,2303,cafe,Serene Beans,-95.82159,29.78801
+356701204,2082,school,Burnet School,-95.03187,29.75078
+356720880,2082,school,Saint Josephs School,-95.00187,29.72523
+356744852,2082,school,Sacred Heart School,-95.05854,29.91217
+356751590,2082,school,Houston School,-94.97909,29.71773
+356799273,2082,school,Alamo Elementary School,-94.96159,29.74745
+356805089,2082,school,Sterling High School - Goosecreek,-94.96659,29.76995
+356805306,2082,school,San Jacinto Elementary School,-95.00159,29.72578
+356866950,2082,school,Baytown Christian Academy,-94.9711,29.7779
+356867026,2082,school,Crosby Kindergarten,-95.0539,29.9122
+1740679192,2402,motel,,-95.05836,29.65218
+1924168265,2501,supermarket,ALDI,-95.09729,29.66393
+4139523819,2402,motel,Budget Lodge Channelview,-95.09389,29.7899
+4139523820,2402,motel,Texas Inn Channelview,-95.09725,29.78903
+4396402130,2501,supermarket,H-E-B,-95.09734,29.66717
+4484885116,2501,supermarket,Kroger,-95.03219,29.65357
+4729483895,2303,cafe,Starbucks,-94.97825,29.77404
+5254186612,2303,cafe,Krispy Kreme,-94.97692,29.75972
+5315597762,2501,supermarket,Walmart Supercenter,-95.06567,29.89438
+5594780480,2501,supermarket,H-E-B,-94.97985,29.79545
+6269418370,2303,cafe,Starbucks,-94.98296,29.8052
+6269418504,2402,motel,Motel 6 Baytown,-94.98485,29.80487
+6269418633,2402,motel,Palacr Inn Baytown,-94.97828,29.80468
+6273821821,2402,motel,Super 8 by Wyndham Baytown,-95.02921,29.79949
+6348452454,2303,cafe,,-94.97851,29.77959
+6348458727,2110,hospital,,-94.97721,29.78157
+6348472318,2501,supermarket,Aldi Nord,-94.97936,29.78349
+356749782,2082,school,Holy Name School,-95.35522,29.77856
+356802484,2082,school,Harris County Juvenile Justice Charter School,-95.35938,29.75939
+3138508983,2501,supermarket,Phoenicia Speciality Foods,-95.36163,29.75433
+3356779252,2504,mall,Park Shops,-95.36281,29.75508
+3797613673,2303,cafe,"AHH, Coffee!",-95.35495,29.75271
+3797613674,2014,arts_centre,Art Hous,-95.35434,29.75219
+4322377711,2303,cafe,Starbucks,-95.36013,29.75158
+4446394698,2303,cafe,Starbucks,-95.36673,29.75563
+4827132725,2012,community_centre,Lee Castillo Community Center,-95.36707,29.77831
+4849814822,2303,cafe,Boomtown Coffee,-95.361,29.7622
+5774126676,2110,hospital,"Houston Ear, Nose, Throat & Allergy Clinic",-95.36299,29.75495
+6351362485,2303,cafe,Tout Suite,-95.35069,29.75865
+4138826049,2402,motel,Studio 6 Houston West,-95.64622,29.78903
+4138826050,2402,motel,Motel 6 Houston West- Energy Corridor,-95.64624,29.78381
+4138826052,2402,motel,Americas Best Value Inn & Suites - Houston / Katy Fwy,-95.64972,29.78364
+4138826054,2402,motel,La Quinta Inn & Suites Houston West Park 10,-95.65161,29.78368
+4138826055,2402,motel,Extended Stay America - Houston - Katy Freeway - Energy Corridor,-95.6531,29.78366
+4138826057,2402,motel,Red Roof PLUS+ Houston - Energy Corridor,-95.65737,29.78616
+5259108868,2303,cafe,Keo's Donuts,-95.64398,29.75638
+5372641433,2303,cafe,Starbucks,-95.64345,29.77528
+356867089,2082,school,Faith West Academy,-95.7941,29.8055
+2673381613,2402,motel,Springhill Suites by Mariott,-95.80851,29.78217
+2327740930,2303,cafe,Starbucks,-95.54714,29.95933
+2606379766,2303,cafe,Starbucks,-95.54376,29.96412
+5224927502,2303,cafe,Starbucks,-95.53895,29.96006
+6239844340,2303,cafe,Starbucks,-95.68894,29.78932

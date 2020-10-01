@@ -1,0 +1,368 @@
+,osm_id,code,fclass,name,lon,lat
+0,368160773,2002,fire_station,Huffman Fire Department,-95.0899,30.02493
+1,368160998,2002,fire_station,Huffman Volunteer Fire Department,-95.0819,30.0257
+2,368161210,2002,fire_station,Houston Fire Department Station 65,-95.10309,30.02058
+3,368161330,2002,fire_station,Houston Fire Station Number 65,-95.106,30.0202
+4,368161143,2002,fire_station,Missouri City Fire and Rescue Services Station 2,-95.51885,29.63033
+5,368161240,2002,fire_station,Houston Fire Department Station 82,-95.51134,29.65792
+6,368161284,2002,fire_station,Fire Station Number 2,-95.5208,29.6308
+7,368161332,2002,fire_station,Houston Fire Station Number 62,-95.51132,29.65772
+8,368162248,2001,police,Houston Police Department - Fondren Patrol,-95.50887,29.65887
+9,368162265,2001,police,Houston Police Department - Westwood,-95.54698,29.67494
+10,368160790,2002,fire_station,South Houston Fire Department,-95.23887,29.66549
+11,368161067,2002,fire_station,Houston Fire Department Station 35,-95.338,29.6741
+12,368161074,2002,fire_station,Houston Fire Department Station 26,-95.30505,29.68175
+13,368161077,2002,fire_station,Houston Fire Department Station 29,-95.25371,29.684
+14,368161196,2002,fire_station,Houston Fire Department Station 52,-95.2297,29.63509
+15,368161199,2002,fire_station,Houston Fire Department Station 55,-95.35617,29.63756
+16,368161206,2002,fire_station,Houston Fire Department Station 46,-95.36434,29.68593
+17,368161225,2002,fire_station,Houston Fire Department Station 61,-95.26708,29.62538
+18,368161243,2002,fire_station,Houston Fire Department Station 81,-95.27841,29.64141
+19,368161265,2002,fire_station,South Houston Fire Station,-95.2391,29.666
+20,368161333,2002,fire_station,Houston Fire Station Number 55,-95.3568,29.6402
+21,368162245,2001,police,Houston Police Department - Southeast Patrol,-95.31644,29.65751
+22,368162249,2001,police,Houston Police Department - Palm Center,-95.33406,29.69582
+23,368162258,2001,police,Houston Police Department - Sunnyside,-95.37087,29.65877
+24,368162275,2001,police,Houston Police Department - Hobby Airport,-95.28021,29.65706
+25,368162328,2001,police,Houston Police Department - Leija,-95.25397,29.68511
+26,368162333,2001,police,South Houston Police Department,-95.23932,29.66532
+27,368162672,2001,police,South Houston Police Station,-95.2394,29.6658
+28,368162703,2001,police,Houston Police Department - Broadway Square,-95.27678,29.67583
+29,368160793,2002,fire_station,Jacinto Fire Department,-95.24787,29.76905
+30,368161066,2002,fire_station,Houston Fire Department Station 34,-95.33885,29.84019
+31,368161071,2002,fire_station,Houston Fire Department Station 39,-95.31867,29.81284
+32,368161075,2002,fire_station,Houston Fire Department Station 27,-95.30456,29.77683
+33,368161080,2002,fire_station,Houston Fire Department Station 32,-95.26544,29.84965
+34,368161083,2002,fire_station,Houston Fire Department Station 19,-95.33612,29.77722
+35,368161201,2002,fire_station,Houston Fire Department Station 41,-95.2819,29.7739
+36,368161203,2002,fire_station,Houston Fire Department Station 43,-95.28404,29.82825
+37,368161205,2002,fire_station,Houston Fire Department Station 45,-95.26381,29.80525
+38,368161275,2002,fire_station,City of Jacinto Fire Department,-95.2477,29.7691
+39,368161323,2002,fire_station,Houston Fire Station Number 45,-95.2644,29.8046
+40,368161326,2002,fire_station,Houston Fire Station Number 43,-95.284,29.8291
+41,368161328,2002,fire_station,Houston Fire Station Number 41,-95.2826,29.7733
+42,368162116,2007,library,Jacinto City Library,-95.2402,29.7731
+43,368162261,2001,police,Houston Police Department - Northeast Patrol,-95.27329,29.83219
+44,368162266,2001,police,Jacinto City Police Department,-95.24474,29.76809
+45,368162286,2001,police,Harris County Sheriff's Office - DARE Program,-95.33425,29.84342
+46,368162499,2001,police,Houston Police Department - Jensen Street,-95.34362,29.84512
+47,368162527,2008,town_hall,Jacinto City Hall,-95.2469,29.7669
+48,368162680,2001,police,Jacinto City Police Station,-95.2453,29.7679
+49,368162301,2001,police,Houston Police Department - Hiram Clarke,-95.44218,29.61375
+50,368160975,2002,fire_station,Eastex Freeway Volunteer Fire Department,-95.29602,29.92833
+51,368161200,2002,fire_station,Houston Fire Department Station 56,-95.30586,29.87088
+52,368162250,2001,police,Harris County Sheriff's Office - Training,-95.24873,29.96312
+53,5110005189,2005,post_office,The UPS Store,-95.20259,29.92728
+54,356866840,2005,post_office,Hufsmith Post Office,-95.5964,30.1236
+55,368160717,2002,fire_station,Klein Volunteer Fire Department Station 1,-95.53783,30.03987
+56,368160802,2002,fire_station,Tomball Fire Department,-95.61656,30.09545
+57,368160897,2002,fire_station,Tomball Fire Department,-95.62866,30.09447
+58,368161105,2002,fire_station,Klein Volunteer Fire Department Station 5,-95.5426,30.09653
+59,368161107,2002,fire_station,Klein Volunteer Fire Department Station 3,-95.56604,30.01611
+60,368161108,2002,fire_station,Klein Volunteer Fire Department Station 4,-95.53011,30.01515
+61,368161277,2002,fire_station,City of Tomball Fire Department,-95.6338,30.0941
+62,368161944,2007,library,Chaparral Genealogical Society Library,-95.611,30.0997
+63,368162262,2001,police,Lakewood Police Department,-95.60651,29.99624
+64,368162477,2001,police,Tomball Police Department,-95.61661,30.0955
+65,368162534,2008,town_hall,Tomball City Hall,-95.61684,30.09572
+66,462587072,2002,fire_station,Klein Volunteer Fire Department Station 6,-95.61078,30.03484
+67,1137081181,2002,fire_station,Spring VFD,-95.55193,30.12155
+68,1863699356,2002,fire_station,The Woodlands Fire Station #7,-95.54944,30.14701
+69,2603503860,2005,post_office,The UPS Store,-95.58266,29.99848
+70,2605582193,2005,post_office,,-95.62104,29.99495
+71,4707490472,2001,police,Harris County Sheriff's Office District 5 Substation,-95.59856,30.03
+72,356866829,2005,post_office,Galnea Park Post Office,-95.2461,29.733
+73,368160779,2002,fire_station,Galena Park Fire Department Station 1,-95.23877,29.73415
+74,368161072,2002,fire_station,Houston Fire Department Station 40,-95.32086,29.71016
+75,368161081,2002,fire_station,Houston Fire Department Station 17,-95.34134,29.75699
+76,368161086,2002,fire_station,Houston Fire Department Station 20,-95.30069,29.74403
+77,368161088,2002,fire_station,Houston Fire Department Station 22,-95.28461,29.73056
+78,368161202,2002,fire_station,Houston Fire Department Station 42,-95.2727,29.74359
+79,368161297,2002,fire_station,Galena Park Fire Station,-95.2383,29.7341
+80,368161318,2002,fire_station,Houston Fire Station Number 22,-95.2857,29.7309
+81,368161320,2002,fire_station,Houston Fire Station Number 20,-95.30046,29.74398
+82,368161960,2007,library,Galena Park Library,-95.2399,29.7327
+83,368162237,2001,police,Houston Police Department - Eastside Patrol,-95.29061,29.73443
+84,368162246,2001,police,Galena Park Police Department,-95.24548,29.73208
+85,368162464,2001,police,Houston Police Department - Navigation,-95.32758,29.75259
+86,368162470,2001,police,Harris County Sheriff's Office - Recruiting,-95.32278,29.7535
+87,368162530,2008,town_hall,Galena Park City Hall,-95.2416,29.7321
+88,368162694,2001,police,Galena Park Police Station,-95.2416,29.732
+89,4907004821,2001,police,Best Auto Storage,-95.3116,29.75189
+90,5661503722,2007,library,Stanaker Library,-95.30294,29.74011
+91,368160915,2002,fire_station,Seabrook Volunteer Fire Department,-95.05212,29.56492
+92,368160985,2002,fire_station,Nassau Bay Volunteer Fire Department,-95.08479,29.55182
+93,368161245,2002,fire_station,Pasadena Fire Department Station 6,-95.05749,29.5831
+94,368161250,2002,fire_station,Pasadena Fire Department Station 9,-94.99137,29.60008
+95,368162296,2001,police,Nassau Bay Police Department,-95.08967,29.54913
+96,368162326,2001,police,Seabrook Police Department,-95.02392,29.56444
+97,368162345,2001,police,Shoreacres Police Department,-95.01516,29.61989
+98,368162357,2001,police,Houston Police Department - Clear Lake Patrol,-95.10672,29.57963
+99,368162437,2001,police,El Lago Police Department,-95.05187,29.56533
+100,368162538,2008,town_hall,Taylor Lake Village City Hall,-95.05763,29.57339
+101,3717796608,2007,library,UHCL Neumann Library,-95.09807,29.58216
+102,5109844537,2005,post_office,Seabrook Post Office,-95.02408,29.56286
+103,368161247,2002,fire_station,Houston Fire Department Station 102,-95.18699,30.06569
+104,356749691,2007,library,African-American Library at the Gregory School,-95.38049,29.75412
+105,356866873,2005,post_office,Westbury Post Office,-95.48054,29.65197
+106,368161208,2002,fire_station,Houston Fire Department Station 48,-95.48104,29.65335
+107,368161220,2002,fire_station,Houston Fire Department Station 59,-95.46476,29.62522
+108,368161321,2002,fire_station,Houston Fire Station Number 48,-95.4812,29.6535
+109,368162319,2001,police,Houston Police Department - Westbury,-95.47842,29.65135
+110,368162452,2001,police,Houston Police Department - Southwest Patrol,-95.45776,29.63664
+111,368162675,2001,police,Westbury Police Station,-95.4804,29.6523
+112,368161219,2002,fire_station,Houston Fire Department Station 60,-95.52484,29.73318
+113,368162272,2001,police,Bunker Hill Village Police Department,-95.53871,29.76205
+114,368162468,2001,police,Houston Police Department - Ranchester,-95.54406,29.70662
+115,368160917,2002,fire_station,Community Volunteer Fire Department,-95.65254,29.70973
+116,368161091,2002,fire_station,Houston Fire Department Station 10,-95.55193,29.70659
+117,368161241,2002,fire_station,Houston Fire Department Station 83,-95.57766,29.72661
+118,3905959783,2005,post_office,Omega Postal,-95.75125,29.78709
+119,5721141880,2002,fire_station,HCESD 48 Fire Station #5,-95.7382,29.81615
+120,368161093,2002,fire_station,Houston Fire Department Station 12,-95.35287,29.79464
+121,368161095,2002,fire_station,Houston Fire Department Station 15,-95.38674,29.80291
+122,368161292,2002,fire_station,Houston Fire Station Number 15,-95.3781,29.7949
+123,368162236,2001,police,Houston Police Department - Independence Heights,-95.388,29.82835
+124,356866832,2005,post_office,Houston Heights Post Office,-95.4017,29.8023
+125,368160464,2002,fire_station,Heights Fire Department,-95.3987,29.79238
+126,368160572,2002,fire_station,Houston Fire Department - Arson Division,-95.43067,29.7913
+127,368161079,2002,fire_station,Houston Fire Department Station 31,-95.40247,29.82847
+128,368161221,2002,fire_station,Houston Fire Department Station 62,-95.43774,29.79795
+129,368161331,2002,fire_station,Houston Fire Station Number 62,-95.4377,29.7986
+130,368162199,2007,library,Houston Public Library,-95.39731,29.79466
+131,368162691,2001,police,Houston Heights Police Station,-95.4029,29.8037
+132,368162696,2001,police,Houston Police Department - Heights,-95.41139,29.78605
+133,5272982712,2005,post_office,Postal Station 4U,-95.44356,29.8168
+134,5867045585,2007,library,Oak Forest Neighborhood Library,-95.43402,29.82752
+135,6778429914,2005,post_office,United States Post Office,-95.40974,29.82171
+136,6873678465,2005,post_office,The UPS Store,-95.4289,29.81646
+137,368160911,2002,fire_station,Northeast Fire / Rescue Department,-95.30638,30.01653
+138,368161227,2002,fire_station,Houston Fire Department Station 63,-95.30947,29.98439
+139,368161229,2002,fire_station,Houston Fire Department Station 92,-95.32609,29.98104
+140,368161235,2002,fire_station,Houston Fire Department Station 99,-95.35698,29.9755
+141,368162708,2001,police,Houston Police Department - Intercontinental Airport,-95.34052,29.98776
+142,2164861639,2002,fire_station,,-95.3563,29.99925
+143,3666214996,2005,post_office,,-95.31534,30.00633
+144,368161082,2002,fire_station,Houston Fire Department Station 16,-95.40233,29.73463
+145,368161945,2007,library,Clayton Library Center for Genealogical Research,-95.38658,29.72554
+146,530776608,2007,library,Freed-Montrose Neighborhood Library,-95.39146,29.73555
+147,1975678661,2007,library,HAM-TMC Library,-95.39682,29.71188
+148,2091700208,2007,library,Clayton House,-95.38608,29.72617
+149,4259050522,2007,library,UTHSPH Library,-95.39819,29.70511
+150,5463802661,2011,embassy,Honorary Consulate of the Czech Republic,-95.38485,29.72893
+151,368161073,2002,fire_station,Houston Fire Department Station 25,-95.35337,29.71865
+152,4217652091,2005,post_office,,-95.36302,29.72256
+153,368160791,2002,fire_station,Jersey Village Fire Department,-95.57127,29.88429
+154,368160918,2002,fire_station,Cypress Creek Volunteer Fire Station 22,-95.60001,29.95271
+155,368161113,2002,fire_station,Cy - Fair Volunteer Fire Department Station 10,-95.58955,29.91077
+156,368161117,2002,fire_station,Cy - Fair Volunteer Fire Department Station 6,-95.60803,29.86888
+157,368161274,2002,fire_station,City of Jersey Village Fire Department,-95.57127,29.88428
+158,368162442,2001,police,Texas Highway Patrol Division,-95.59777,29.90128
+159,368162487,2001,police,Jersey Village Police Department,-95.57064,29.88389
+160,368162707,2001,police,Jersey Village Police Chief's Office,-95.5712,29.88418
+161,368161215,2002,fire_station,Houston Fire Department Station 73,-95.57083,29.67278
+162,368162481,2001,police,Houston Police Department - Richmond,-95.49418,29.7322
+163,6654320565,2005,post_office,Postal Zone,-95.48644,29.74699
+164,6917875414,2005,post_office,PostNet,-95.48241,29.75999
+165,356866853,2005,post_office,Pasadena Post Office,-95.2004,29.6926
+166,368160241,2002,fire_station,Pasadena Fire Chief,-95.20174,29.7133
+167,368160520,2009,courthouse,W Kyle Chapman Courthouse,-95.1264,29.6632
+168,368160736,2002,fire_station,Pasadena Fire Department Station 2,-95.20138,29.70363
+169,368160737,2002,fire_station,Pasadena Fire Department Station 3,-95.16967,29.69233
+170,368160772,2002,fire_station,Pasadena Fire Protection Service,-95.20779,29.6875
+171,368160778,2002,fire_station,Deer Park Fire Department,-95.12422,29.69957
+172,368160981,2002,fire_station,Pasadena Fire Department Station 4,-95.20798,29.68386
+173,368161061,2002,fire_station,Pasadena Fire Department Station 5,-95.16328,29.67204
+174,368161138,2002,fire_station,Pasadena Fire Marshal's Office,-95.20174,29.7133
+175,368161244,2002,fire_station,Pasadena Fire Department Station 7,-95.18507,29.64042
+176,368161251,2002,fire_station,Pasadena Fire Department Station 8,-95.14309,29.64873
+177,368161270,2002,fire_station,City of Pasadena Fire Department,-95.22064,29.71157
+178,368161272,2002,fire_station,City of Deer Park Fire Department,-95.1235,29.6981
+179,368161992,2007,library,South Houston Public Library,-95.2208,29.6669
+180,368162115,2007,library,Mae Hilty Memorial Library,-95.1499,29.665
+181,368162247,2001,police,Deer Park Police Department - Investigation,-95.12408,29.69818
+182,368162279,2001,police,Pasadena Police Academy,-95.16881,29.66473
+183,368162465,2001,police,Pasadena Police Department,-95.19602,29.69341
+184,368162525,2008,town_hall,Pasadena City Hall,-95.1962,29.69167
+185,368162745,2099,public_building,Harris County Health Department Southeast Branch,-95.1556,29.6858
+186,2272855403,2002,fire_station,Deer Park VFD Station #2,-95.11523,29.67969
+187,2622861518,2009,courthouse,Deer Park Municiple Court,-95.12458,29.69921
+188,4636481876,2005,post_office,Deer Park Post Office,-95.12234,29.68915
+189,4636514589,2007,library,Deer Park Library,-95.12284,29.68386
+190,4636514591,2001,police,Deer Park Police Station,-95.12272,29.68663
+191,4636525836,2008,town_hall,Deer Park City Hall,-95.11732,29.68907
+192,368161237,2002,fire_station,Houston Fire Department Station 78,-95.61951,29.77918
+193,368160871,2002,fire_station,Cy - Fair Volunteer Fire Department Station 3,-95.64936,29.94903
+194,368161289,2002,fire_station,Cy-Fair Volunteer Fire Station 3,-95.6494,29.9493
+195,1150393078,2001,police,Cy-Fair ISD Police,-95.64879,29.93867
+196,368160805,2002,fire_station,Houston Fire Department Station 75,-95.60555,29.74474
+197,368161218,2002,fire_station,Houston Fire Department Station 57,-95.58028,29.77304
+198,5790207648,2005,post_office,The UPS Store,-95.59033,29.76997
+199,368161195,2002,fire_station,Houston Fire Department Station 51,-95.50487,29.70525
+200,368162450,2001,police,Houston Police Department - Gulfton,-95.48535,29.71699
+201,368161089,2002,fire_station,Houston Fire Department Station 6,-95.39426,29.76958
+202,368161094,2002,fire_station,Houston Fire Department Station 11,-95.41761,29.77955
+203,2349352502,2005,post_office,The UPS Store,-95.41728,29.7608
+204,368160754,2002,fire_station,Webster Volunteer Fire Department,-95.13132,29.54023
+205,368160972,2002,fire_station,Webster Fire Department,-95.11682,29.5353
+206,368161059,2002,fire_station,Forest Bend Volunteer Fire Department Station 1,-95.16115,29.53161
+207,368161213,2002,fire_station,Houston Fire Department Station 71,-95.12793,29.58196
+208,368161279,2002,fire_station,Clear Lake City Fire Department,-95.1143,29.5508
+209,368162243,2001,police,Harris County Sheriff's Office,-95.12025,29.55824
+210,368162356,2001,police,Webster Police Department,-95.11688,29.53433
+211,2655405069,2002,fire_station,,-95.14937,29.55674
+212,3774122675,2009,courthouse,Harris County Courthouse Bay Area Annex,-95.12042,29.55829
+213,5116182332,2005,post_office,,-95.13928,29.57611
+214,6190240878,2005,post_office,The UPS Store,-95.13302,29.54477
+215,368160787,2002,fire_station,Houston Fire Department Station 70,-95.22912,29.60194
+216,368162367,2001,police,Houston Police Department - Telephone Road,-95.28492,29.61936
+217,368160748,2002,fire_station,Alief Community Volunteer Fire Department,-95.66763,29.70048
+218,368160759,2002,fire_station,West I - 10 Volunteer Fire Department Station 2,-95.72956,29.77388
+219,3905211333,2005,post_office,The UPS Store,-95.71949,29.79265
+220,368161112,2002,fire_station,Rosehill Fire Department,-95.71779,30.08058
+221,368161119,2002,fire_station,Cy - Fair Volunteer Fire Department Station 7,-95.73764,29.99244
+222,368160752,2002,fire_station,Channelview Volunteer Fire Department Station 1,-95.11425,29.77724
+223,368160903,2002,fire_station,Sheldon Community Volunteer Fire / Rescue Station 2,-95.13659,29.85845
+224,368160928,2002,fire_station,Galena Park Fire Department Station 2,-95.21383,29.75782
+225,368161126,2002,fire_station,Channelview Volunteer Fire Department Station 2,-95.11897,29.7889
+226,368161127,2002,fire_station,Cloverleaf Volunteer Fire Department Station 2,-95.19219,29.80567
+227,368161128,2002,fire_station,Cloverleaf Fire Department Station 1,-95.17149,29.7791
+228,368161197,2002,fire_station,Houston Fire Department Station 53,-95.18693,29.77601
+229,368161204,2002,fire_station,Houston Fire Department Station 44,-95.21809,29.7781
+230,368161252,2002,fire_station,Channelview Volunteer Fire Department Station 3,-95.14004,29.7895
+231,368161263,2002,fire_station,Channelview Volunteer Fire Department,-95.1141,29.7767
+232,368161335,2002,fire_station,Houston Fire Station Number 53,-95.187,29.77603
+233,368161400,2002,fire_station,Sheldon Community Volunteer Fire and Rescue Station,-95.139,29.8571
+234,368162289,2001,police,Harris County Sheriff's Office,-95.19401,29.80639
+235,6179300866,2005,post_office,,-95.12534,29.78187
+236,368160719,2002,fire_station,Klein Volunteer Fire Department Station 2,-95.49073,29.99357
+237,368160771,2002,fire_station,Ponderosa Volunteer Fire Department,-95.45475,30.01421
+238,368160776,2002,fire_station,Champions Volunteer Fire Department,-95.51086,29.97745
+239,368161111,2002,fire_station,Klein Volunteer Fire Department Station 7,-95.50447,30.03825
+240,368161198,2002,fire_station,Houston Fire Department Station 54,-95.36947,29.99366
+241,368162294,2001,police,Harris County Sheriff's Office - Constable Precinct 4,-95.51146,30.01178
+242,1799737985,2002,fire_station,,-95.48163,30.04447
+243,368161228,2002,fire_station,Houston Fire Department Station 93,-95.18053,29.5899
+244,368161267,2002,fire_station,Southeast Volunteer Fire Department,-95.1975,29.5866
+245,1146654488,2002,fire_station,Southeast Volunteer Fire Department,-95.21628,29.5816
+246,1146654555,2099,public_building,South Belt-Ellington Chamber of Commerce,-95.21649,29.58126
+247,368161118,2002,fire_station,Cy - Fair Volunteer Fire Department Station 8,-95.68744,29.88031
+248,5816033778,2005,post_office,United States Post Office,-95.68452,29.88216
+249,356866844,2005,post_office,Humble Post Office,-95.2531,29.9988
+250,368160522,2009,courthouse,Harris County Courthouse Annex,-95.2643,30.0033
+251,368160715,2002,fire_station,Humble Fire Marshal's Office,-95.26704,29.99911
+252,368161232,2002,fire_station,Houston Fire Department Station 101,-95.2277,30.05161
+253,368161246,2002,fire_station,Houston Fire Department Station 104,-95.23857,30.02938
+254,368161434,2002,fire_station,Humble City Fire Department,-95.26765,29.99936
+255,368161435,2002,fire_station,Humble Fire Station,-95.26751,29.99933
+256,368162117,2007,library,Humble Library,-95.2664,29.9987
+257,368162451,2001,police,Humble City Police Department,-95.26649,30.00063
+258,368162528,2008,town_hall,Humble City Hall,-95.2683,29.99956
+259,368161294,2002,fire_station,Harris County Rural Fire Prevention District Number 20 Fire Station,-95.50629,29.92504
+260,356866870,2005,post_office,Spring Valley Post Office,-95.4927,29.8016
+261,368161070,2002,fire_station,Houston Fire Department Station 38,-95.46774,29.79019
+262,368161096,2002,fire_station,Houston Fire Department Station 13,-95.45132,29.83224
+263,368161209,2002,fire_station,Houston Fire Department Station 66,-95.53989,29.85197
+264,368161236,2002,fire_station,Houston Fire Department Station 77,-95.54382,29.82235
+265,368161280,2002,fire_station,City of Piney Point Village Fire Department,-95.5129,29.7821
+266,368161300,2002,fire_station,Houston Fire Station Number 38,-95.4677,29.79019
+267,368162268,2001,police,Houston Police Department - Spring Branch,-95.49618,29.80348
+268,368162324,2001,police,Houston Police Department - Northwest Patrol,-95.53971,29.85706
+269,368162363,2001,police,Houston Police Department - North Patrol,-95.44674,29.87932
+270,368162432,2001,police,Spring Valley Police Department,-95.51533,29.78819
+271,368162459,2001,police,Hedwig Village Police Department,-95.51043,29.7829
+272,2873198538,2008,town_hall,Hunters Creek Village City Hall,-95.50525,29.77894
+273,5249115719,2007,library,Ring Public Library,-95.50803,29.80263
+274,6299359103,2005,post_office,,-95.48768,29.80346
+275,368160976,2002,fire_station,West I - 10 Volunteer Fire Department Station 5,-95.7204,29.82777
+276,368162320,2001,police,Harris County Sheriff's Office,-95.71878,29.80242
+277,368162305,2001,police,Houston Police Department - Near Town,-95.38989,29.74501
+278,368160749,2002,fire_station,Little York Fire Department,-95.40158,29.90715
+279,368160886,2002,fire_station,Aldine Community Fire Department,-95.37335,29.93376
+280,368161212,2002,fire_station,Houston Fire Department Station 67,-95.43605,29.86375
+281,368161217,2002,fire_station,Houston Fire Department Station 58,-95.3835,29.85708
+282,368161226,2002,fire_station,Houston Fire Department Station 64,-95.34207,29.9509
+283,368161238,2002,fire_station,Houston Fire Department Station 74,-95.39154,29.93159
+284,368161295,2002,fire_station,Harris County Fire Department,-95.3957,29.9412
+285,368161436,2002,fire_station,Houston Fire Station Number 74,-95.3922,29.9323
+286,368161440,2002,fire_station,Little York Volunteer Fire Department,-95.4001,29.8894
+287,368162001,2007,library,Aldine Library,-95.40762,29.92075
+288,368162254,2001,police,Houston Police Department - Acres Home,-95.42168,29.85748
+289,368162256,2001,police,Houston Police Department - Aldine Community,-95.41131,29.92427
+290,368162354,2001,police,Houston Police Department - Greenspoint,-95.41216,29.94483
+291,368162493,2001,police,Houston Police Department - Northline,-95.39078,29.86715
+292,4117023678,2007,library,Shepard-Acres Homes Neighborhood Library,-95.43728,29.87094
+293,368160694,2002,fire_station,Cy - Fair Volunteer Fire Department Station 5,-95.64257,29.83942
+294,368160756,2002,fire_station,Cy - Fair Volunteer Fire Department Station 9,-95.63936,29.89249
+295,368161288,2002,fire_station,Cy Fair Volunteer Fire Department,-95.63955,29.89239
+296,368160634,2002,fire_station,City of Southside Place Fire Department,-95.43359,29.71466
+297,368161101,2002,fire_station,Houston Fire Department Station 3,-95.43828,29.73789
+298,368161110,2002,fire_station,West University Place Fire Department,-95.43805,29.71496
+299,368162292,2001,police,Southside Place Police Department,-95.43345,29.71466
+300,1810485617,2005,post_office,US Post Office,-95.44287,29.724
+301,1810677765,2005,post_office,US Post Office,-95.43696,29.7393
+302,2571540811,2008,town_hall,West University City Hall,-95.43771,29.71495
+303,2615064417,2008,town_hall,Southside Place City Hall,-95.43366,29.71472
+304,4470781389,2005,post_office,The UPS Store,-95.42546,29.74246
+305,4570893047,2005,post_office,The UPS Store,-95.41623,29.72522
+306,1128966918,2002,fire_station,CY-Fair VFD Station 11,-95.69682,29.90818
+307,1128969435,2007,library,"Harris County Public Library, CyFair branch",-95.69237,29.91004
+308,2433577815,2002,fire_station,Cy-Fair Volunteer Fire Department Communications Center,-95.68096,29.9093
+309,368161076,2002,fire_station,Houston Fire Department Station 28,-95.47688,29.73385
+310,368161214,2002,fire_station,Houston Fire Department Station 69,-95.55872,29.75096
+311,368162005,2007,library,Atascocita Library,-95.15424,30.00459
+312,368162475,2001,police,Houston Police Department - Lake Houston,-95.11376,30.00371
+313,4113059993,2005,post_office,The UPS Store,-95.18146,30.04993
+314,368161207,2002,fire_station,Houston Fire Department Station 47,-95.41366,29.63172
+315,5604621748,2005,post_office,The UPS Store,-95.41179,29.69352
+316,356866823,2005,post_office,Baytown Post Office,-95.0013,29.7274
+317,368160269,2001,police,Baytown Area Crime Prevention Office,-94.96995,29.73385
+318,368160519,2009,courthouse,Harris County Courthouse,-94.9711,29.7687
+319,368160626,2002,fire_station,Highlands Volunteer Fire Department Station 2,-95.02725,29.81971
+320,368160649,2002,fire_station,Crosby Fire Department Station 1,-95.0647,29.90729
+321,368160753,2002,fire_station,Baytown Fire and Rescue Services,-94.96464,29.75535
+322,368160765,2002,fire_station,La Porte Fire Department Station 1,-95.02161,29.66429
+323,368160788,2002,fire_station,McNair Volunteer Fire Department,-95.02164,29.80275
+324,368160950,2002,fire_station,Baytown Fire Department Station 1,-94.97807,29.77663
+325,368160951,2002,fire_station,Baytown Fire Department Station 2,-94.9966,29.7289
+326,368160952,2002,fire_station,Baytown Fire Department Station 3,-94.92737,29.76749
+327,368160953,2002,fire_station,Baytown Fire Department Station 4,-94.95478,29.73543
+328,368160954,2002,fire_station,Baytown Fire Department Station 5,-95.03156,29.77075
+329,368160982,2002,fire_station,Highlands Volunteer Fire Department Station 1,-95.05809,29.81567
+330,368161254,2002,fire_station,La Porte Fire Department Station 2,-95.08581,29.66396
+331,368161269,2002,fire_station,City of La Porte Fire Department,-95.0253,29.6518
+332,368161271,2002,fire_station,City of Morgans Point Fire Department,-95.0067,29.6714
+333,368161293,2002,fire_station,Highlands Volunteer Fire Department,-95.0261,29.8193
+334,368161912,2007,library,Crosby Branch Library,-95.067,29.92086
+335,368161949,2007,library,Crosby Library,-95.0634,29.9207
+336,368161997,2007,library,Stratford Park Library,-95.062,29.8211
+337,368162255,2001,police,Baytown Police Department,-94.96311,29.75619
+338,368162290,2001,police,Morgans Point Police Department,-95.00621,29.67251
+339,368162302,2001,police,Baytown Police Department - Training,-94.96888,29.73007
+340,368162343,2001,police,La Porte Police Department,-95.02707,29.65396
+341,368162469,2001,police,La Porte City Marshal's Office,-95.02702,29.65453
+342,368162498,2001,police,Baytown Police Department Substation,-95.0075,29.73104
+343,368162535,2008,town_hall,Baytown City Hall,-94.996,29.7279
+344,368162537,2008,town_hall,Morgans Point City Hall,-95.00665,29.67205
+345,368162674,2001,police,Baytown Police Station,-95.0006,29.7273
+346,368162738,2099,public_building,Baytown Department of Public Safety,-95.0322,29.7808
+347,2615032500,2007,library,Advanced Technology Center & Library,-94.9773,29.73297
+348,2615032532,2007,library,Sterling Municipal Library,-94.97985,29.7367
+349,6269418548,2002,fire_station,,-94.98613,29.80658
+350,368160461,2002,fire_station,Houston Fire Department Station 9,-95.36045,29.77623
+351,368160494,2009,courthouse,Harris County Courthouse,-95.35883,29.76051
+352,368160511,2009,courthouse,Harris County Criminal Courts 1 - 15,-95.35762,29.76201
+353,368160516,2009,courthouse,Harris County Courthouse Annex,-95.35734,29.76077
+354,368162263,2001,police,Harris County Sheriff's Office,-95.35693,29.76436
+355,368162312,2001,police,Houston Police Department - Ana Maria Lopez,-95.35867,29.78197
+356,368162315,2001,police,Harris County Sheriff's Office,-95.3573,29.76281
+357,368162330,2001,police,Houston Police Department - Headquarters,-95.36745,29.75589
+358,368162359,2001,police,Harris County Sheriff's Office - Economic Crime,-95.35772,29.76208
+359,368162701,2001,police,Harris County Sheriff's Office,-95.35684,29.76168
+360,368162786,2099,public_building,United States Customhouse,-95.36151,29.75765
+361,4322627983,2007,library,HPL Express,-95.35954,29.75341
+362,5907104488,2005,post_office,United States Post Office,-95.36328,29.75621
+363,368161230,2002,fire_station,Houston Fire Department Station 86,-95.63784,29.75629
+364,368161231,2002,fire_station,Houston Fire Department Station 90,-95.66949,29.78893
+365,368161234,2002,fire_station,Houston Fire Department Station 96,-95.54079,29.96968
+366,368162361,2001,police,Houston Police Department - Willowbrook,-95.53861,29.9578
