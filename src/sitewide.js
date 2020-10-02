@@ -296,6 +296,16 @@ DATA_LAYERS.additional_sites_model = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_model_shp.zip',
 };
+DATA_LAYERS.additional_sites_modelCID = {
+    id: 'additional_sites_model',
+    title: "Additional Vote Center Options Based on Model",
+    csvfile: 'model_files/additional_sites_model.csv',
+    circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
+    quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
+    mapzindex: 'medium',
+    legendformat: 'lowtohigh',
+    downloadfile: 'model_files/additional_sites_model_shp.zip',
+};
 // SS: None for Harris
 // DATA_LAYERS.additional_sites_distance = {
 //     id: 'additional_sites_distance',
@@ -569,7 +579,7 @@ DATA_PROFILES.fullmodelCID = {
         DATA_LAYERS.election_day_sitesCID, DATA_LAYERS.early_voting_day_sitesCID, DATA_LAYERS.all_sites_scored,
     ],
     additionalareas: [
-        DATA_LAYERS.additional_sites_model
+        DATA_LAYERS.additional_sites_modelCID
     ],
     sitingcriteria: [
         DATA_LAYERS.transit_stops,
