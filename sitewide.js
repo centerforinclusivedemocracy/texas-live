@@ -241,7 +241,7 @@ DATA_LAYERS.election_day_sites = {
 };
 DATA_LAYERS.election_day_sitesCID = {
     id: 'election_day_sites',
-    title: "Suggested Areas for Election Day Vote Centers",
+    title: "Suggested Areas for Election Day Voting Locations",
     csvfile: 'model_files/election_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
@@ -261,7 +261,7 @@ DATA_LAYERS.early_voting_day_sites = {
 };
 DATA_LAYERS.early_voting_day_sitesCID = {
     id: 'early_voting_day_sites',
-    title: "Suggested Areas for Early Vote Centers",
+    title: "Suggested Areas for Early Voting Locations",
     csvfile: 'model_files/early_voting_day_sites.csv',
     circle: { radius: 400, opacity: 0.8, color: 'black', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
