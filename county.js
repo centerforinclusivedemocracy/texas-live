@@ -34,7 +34,7 @@ function initCountyInfo () {
     else $('#outoforder').remove();
 
     if (COUNTYINFO.profile === "fullmodelCID") {
-        $('#suggestedHeader').text("Suggested Voting and Drop Box Locations")
+        $('#suggestedHeader').text("Suggested Votings Locations")
         $('#suggestedAdditionalHeader').text("Additional Voting Location Options")
         var replaced = $("body").html().replace(/Vote Center/g,'Voting Location');
         $("body").html(replaced);
