@@ -298,7 +298,7 @@ DATA_LAYERS.additional_sites_model = {
 };
 DATA_LAYERS.additional_sites_modelCID = {
     id: 'additional_sites_model',
-    title: "Additional Vote Center Options Based on Model",
+    title: "Additional Voting Location Options Based on Model",
     csvfile: 'model_files/additional_sites_model.csv',
     circle: { radius: 400, opacity: 0.8, color: 'blue', weight: 1, fillColor: 'quantile', fillOpacity: 0.8 },
     quantilefield: 'center_score', quantilecolors: SCORING_COLOR_RAMP, breaksource: 'sitescores', // because fillColor == quantile
