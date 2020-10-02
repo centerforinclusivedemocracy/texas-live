@@ -1,0 +1,17 @@
+,osm_id,code,fclass,name,point_x,point_y,lon,lat
+0,368160538,2002,fire_station,Victoria Fire Department Station 1,-96.9997184000,28.7993386000,-96.99972,28.79934
+1,368160589,2002,fire_station,Mission Valley Volunteer Fire Department,-97.1945376000,28.8998230000,-97.19454,28.89982
+2,368160777,2002,fire_station,Victoria Fire Department Station 5,-97.0182876000,28.8616089000,-97.01829,28.86161
+3,368161003,2002,fire_station,Lone Tree Volunteer Fire Department,-96.9047400000,28.7726407000,-96.90474,28.77264
+4,368161004,2002,fire_station,Placedo Volunteer Fire Department,-96.8240797000,28.6889422000,-96.82408,28.68894
+5,368161005,2002,fire_station,Raisin Volunteer Fire Department,-97.1447811000,28.7277026000,-97.14478,28.7277
+6,368161007,2002,fire_station,Victoria Fire Department Station 3,-96.9570200000,28.8018144000,-96.95702,28.80181
+7,368161008,2002,fire_station,Nursery Volunteer Fire Department,-97.0962464000,28.9292106000,-97.09625,28.92921
+8,368161009,2002,fire_station,Quail Creek Volunteer Fire Department,-97.0857278000,28.7750231000,-97.08573,28.77502
+9,368161010,2002,fire_station,Bloomington Volunteer Fire Department,-96.8941748000,28.6477893000,-96.89417,28.64779
+10,368161014,2002,fire_station,Victoria Fire Department Station 2,-96.9873885000,28.8209492000,-96.98739,28.82095
+11,368161050,2002,fire_station,Fordtran Volunteer Fire Department,-96.9866887000,29.0672001000,-96.98669,29.0672
+12,368162183,2001,police,Victoria Police Department,-97.0076566000,28.7972946000,-97.00766,28.79729
+13,368162417,2001,police,Victoria County Sheriff's Department - Crime Prevention,-96.9968825000,28.8669701000,-96.99688,28.86697
+14,368162418,2001,police,Victoria County Sheriff's Department - Investigation,-97.0084675000,28.8002092000,-97.00847,28.80021
+15,368162782,2099,public_building,Old Municipal Assembly Hall,-96.9969315000,28.8041563000,-96.99693,28.80416
