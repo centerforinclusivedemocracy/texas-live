@@ -1,988 +1,986 @@
-osm_id,code,fclass,name,lon,lat
-356799265,2082,school,Academy of Houston,-95.52545,29.67937
-356802620,2082,school,Girls and Boys Prep Academy,-95.5252,29.65602
-356804887,2082,school,Valley West Elementary School,-95.52656,29.66358
-498326886,2303,cafe,Caribbean Cuisine,-95.5125,29.68416
-2752822192,2501,supermarket,Food Town,-95.50767,29.67402
-3275418261,2501,supermarket,Fiesta,-95.53004,29.67233
-4138933719,2402,motel,America's Inn,-95.52822,29.68898
-4138933721,2402,motel,Plainfield Inn Southwest,-95.5464,29.67334
-5315598265,2501,supermarket,Walmart Neighborhood Market,-95.53002,29.65701
-356709337,2082,school,Kelso School,-95.33355,29.68217
-356720554,2082,school,Saint Augustine School,-95.23716,29.67856
-356799033,2082,school,Bastian Elementary School,-95.35323,29.68026
-356799279,2082,school,Alcott Elementary School,-95.32972,29.66715
-356805380,2082,school,Raul Yzaguirre School for Success,-95.31049,29.66579
-356805694,2082,school,Mount Hebron Academy,-95.35383,29.67468
-2661120726,2402,motel,Crystal Inn,-95.357,29.68136
-2661120856,2402,motel,Palace Inn,-95.34807,29.68423
-2661121270,2501,supermarket,Fiesta,-95.32845,29.69335
-2825549801,2402,motel,La Quinta Inn & Suites Houston Hobby Airport,-95.26159,29.6524
-2825549802,2402,motel,Downtowner Inn and Suites Monroe Rd,-95.26248,29.66673
-2825551501,2402,motel,Camelot Inn & Suites,-95.27233,29.67908
-2936765502,2402,motel,Cullen Inn,-95.35547,29.67937
-3042034936,2402,motel,Palace Inn,-95.37111,29.6438
-3042063233,2402,motel,Bestway Inn,-95.37992,29.67484
-3799590576,2303,cafe,Starbucks,-95.29777,29.69781
-4139503013,2402,motel,Island Suites Hobby Airport,-95.22964,29.62948
-4139503014,2402,motel,Knights Inn Houston Hobby Airport,-95.24848,29.65524
-4139503015,2402,motel,Days Inn and Suites Houston Hobby Airport,-95.25595,29.65151
-4139503016,2402,motel,Comfort Suites Hobby Airport Houston,-95.25537,29.65134
-4139503017,2402,motel,Econo Lodge Houston Lobby,-95.25711,29.65168
-4139503018,2402,motel,Hobby Airport Inn,-95.26102,29.65282
-4139503021,2402,motel,Lee's Inn Motel,-95.25785,29.66084
-4139503023,2402,motel,Moonlight Inn and Suites,-95.27064,29.67718
-5315598308,2501,supermarket,Walmart Supercenter,-95.23762,29.63081
-356749204,2082,school,Bowie School,-95.33827,29.82717
-356749536,2082,school,East Houston School,-95.26827,29.83745
-356749553,2082,school,Elmore High School,-95.27521,29.80939
-356749763,2082,school,Hilliard School,-95.28466,29.82245
-356750120,2082,school,McReynolds Junior High School,-95.31188,29.77189
-356750302,2082,school,Our Mother of Mercy School,-95.3291,29.78051
-356750404,2082,school,Resurrection School,-95.30244,29.77189
-356750517,2082,school,Saint Francis of Assisi School,-95.31021,29.80606
-356750641,2082,school,Settegast School,-95.27688,29.80884
-356750681,2082,school,Smith Junior High School,-95.33549,29.77662
-356797671,2082,school,Elmore Middle School,-95.27605,29.81023
-356798732,2082,school,E O Smith Elementary School,-95.33412,29.77715
-356798736,2082,school,East Houston Elementary School,-95.26771,29.83661
-356798991,2082,school,Crawford Elementary School,-95.34188,29.77467
-356799014,2082,school,Barbara Jordan High School,-95.33292,29.81474
-356799150,2082,school,Bowie Elementary School,-95.33771,29.82745
-356801383,2082,school,McCardell Academy,-95.34188,29.77189
-356801390,2082,school,McDade Elementary School;Kashmere Gardens High School,-95.33024,29.81232
-356801428,2082,school,McReynolds Middle School,-95.31188,29.77212
-356801468,2082,school,Langston Early Child Development Center,-95.34139,29.78303
-356801615,2082,school,Key Middle School,-95.32638,29.81379
-356802075,2082,school,Houston Gardens Elementary School,-95.30109,29.82069
-356802292,2082,school,Hilliard Elementary School,-95.28438,29.82217
-356802421,2082,school,H P Carter High School,-95.33605,29.77634
-356804988,2082,school,Smith E O Middle School,-95.33421,29.77716
-356805339,2082,school,Scott Elementary School,-95.33058,29.79109
-356805596,2082,school,Oates Elementary School,-95.25605,29.79328
-4139523840,2402,motel,Palace Inn I-10 East,-95.23752,29.77451
-4139523841,2402,motel,Days Inn Houston East,-95.23816,29.77451
-4139523842,2402,motel,Hampton Inn Houston I-10 East,-95.24363,29.77571
-4139523843,2402,motel,Premier Inn,-95.24412,29.77445
-4139523844,2402,motel,Quality Inn,-95.24826,29.77489
-4139523845,2402,motel,Motel 7,-95.24857,29.77441
-4139537999,2402,motel,Lexus Inn,-95.28309,29.82622
-4139538000,2402,motel,Super 8 Houston/Downtown/I-610,-95.30065,29.80851
-4139538032,2402,motel,Scottish Inn & Suites Houston - Eastex Freeway,-95.33896,29.79957
-5654070247,2303,cafe,Taqueria El Zocalo,-95.33551,29.76787
-5734612280,2303,cafe,Ortega's Kitchen,-95.34074,29.76658
-2642333041,2012,community_centre,Club Summerwood,-95.18572,29.92112
-2704186654,2303,cafe,Starbucks,-95.25007,29.93611
-3310014516,2501,supermarket,Walmart Supercenter,-95.25269,29.93646
-4709604946,2303,cafe,Starbucks,-95.19712,29.92544
-356798875,2082,school,Cherry Street School,-95.61535,30.0951
-763424822,2303,cafe,Starbucks,-95.55414,30.03401
-1184643083,2501,supermarket,Kroger,-95.63427,30.09205
-1748702815,2501,supermarket,H-E-B,-95.52733,30.02223
-2605582194,2303,cafe,Starbucks,-95.62159,29.99438
-2615158230,2014,arts_centre,Vino Artino,-95.59191,29.99714
-3203992082,2501,supermarket,Kroger,-95.55271,30.1146
-3353169580,2501,supermarket,Walmart Supercenter,-95.62493,30.07582
-3374926474,2303,cafe,Starbucks,-95.55467,30.11271
-4398172561,2501,supermarket,H-E-B,-95.63899,30.00304
-5260570955,2303,cafe,Starbucks,-95.57293,29.99643
-5315598276,2501,supermarket,Walmart Supercenter,-95.5506,30.1343
-6078588223,2110,hospital,Copas Dental,-95.63353,30.08895
-6299518385,2501,supermarket,H-E-B,-95.57703,30.05375
-6887378342,2084,college,Lone Star College - Creekside Center,-95.5535,30.14148
-6970641071,2012,community_centre,The Lodge,-95.65473,30.05465
-356714070,2082,school,Our Lady of Fatima School,-95.23842,29.73951
-356798643,2082,school,,-95.28927,29.73751
-356802948,2082,school,Gallegos Elementary School,-95.29281,29.73379
-356803034,2082,school,George I Sanchez - Alternative School,-95.31799,29.74301
-356805241,2082,school,Ripley House Alternative School,-95.32882,29.7515
-2723953871,2504,mall,David Center,-95.34022,29.73704
-3679718633,2303,cafe,The Nook Cafe,-95.33724,29.72253
-3708629757,2501,supermarket,Sellers Bros Food Market,-95.31285,29.71171
-3818254202,2303,cafe,Chocolate Wasted Ice Cream,-95.33094,29.73454
-3832800108,2501,supermarket,99 Cent Only Store,-95.29571,29.71822
-356707514,2082,school,Harris County Youth Village,-95.06793,29.57049
-356859368,2082,school,Saint Thomas the Apostle Episcopal School,-95.08797,29.5462
-356859921,2082,school,Gloria Dei Christian School,-95.08889,29.54777
-356867239,2082,school,Lunar and Planetary Institute Rice University,-95.0752,29.5615
-356867243,2082,school,Lunar Science Institute Rice University,-95.0747,29.561
-2336544962,2082,school,Robinson Elementary School,-95.05982,29.57118
-4405245689,2012,community_centre,Seabrook Community House,-95.02478,29.56407
-4534248983,2501,supermarket,Arlan's Market,-95.05941,29.56732
-3761874088,2082,school,Saint Martha Catholic School,-95.20961,30.0645
-3802417675,2083,kindergarten,La Petite Academy,-95.2169,30.06966
-3903671109,2501,supermarket,Kroger,-95.18713,30.06668
-3903671110,2303,cafe,Starbucks,-95.18744,30.06685
-4252070152,2303,cafe,Starbucks,-95.21634,30.06967
-4252070153,2501,supermarket,Walmart Neighborhood Market,-95.21451,30.06933
-4274826138,2303,cafe,Citizen Donuts,-95.18895,30.06587
-6183318294,2110,hospital,"Westbridge Recovery Center, Inc",-95.17228,30.07227
-356704784,2082,school,Dominion Montessori School,-95.37966,29.73606
-356705541,2082,school,Fannin School,-95.37895,29.74497
-356708255,2082,school,Holy Rosary School,-95.38049,29.73995
-356711352,2082,school,Miller Junior High School,-95.37411,29.73078
-356798947,2082,school,Contemporary Learning Center High School,-95.37427,29.73087
-356798950,2082,school,Contemporary Learning Center Middle School,-95.37418,29.73121
-356802064,2082,school,Houston Can! Academy Charter School,-95.37299,29.74745
-3335371394,2303,cafe,Starbucks,-95.37673,29.74657
-3789917424,2014,arts_centre,Aerosol Warfare,-95.35998,29.74465
-4139503024,2402,motel,Scott Inn & Suites,-95.34628,29.73674
-5263007753,2303,cafe,Cafe 4212,-95.37617,29.73108
-356720507,2082,school,,-95.36932,29.74905
-356804727,2082,school,Young Scholars Academy,-95.37246,29.7521
-3335384117,2303,cafe,Starbucks,-95.37453,29.74881
-3529370900,2303,cafe,Starbucks,-95.3747,29.75053
-5218653931,2303,cafe,Cafeza,-95.37221,29.77361
-5744444930,2303,cafe,Catalina Coffee,-95.38064,29.76801
-6879700338,2303,cafe,Mademoiselle Louise,-95.36936,29.75098
-6879700341,2303,cafe,Cafe Cosmopolita,-95.36794,29.7519
-356718805,2082,school,Pilgrim School,-95.47522,29.68801
-356801925,2082,school,Jumpstart Academy,-95.47328,29.66968
-356802113,2082,school,Impact Charter School,-95.50105,29.63829
-356802414,2082,school,Gulf Shores Alternative School,-95.46669,29.6554
-356804714,2082,school,Wyndam Charter School,-95.46714,29.65544
-356805439,2082,school,Parker Elementary School,-95.48284,29.66562
-356866906,2082,school,Westbury Christian School,-95.49431,29.66773
-1573661275,2082,school,Robert M. Beren Academy,-95.4522,29.65413
-2051347349,2303,cafe,Starbucks,-95.46211,29.68887
-2408012587,2501,supermarket,Foodarama,-95.49134,29.68755
-2802443617,2082,school,The Shlenker School,-95.4885,29.67749
-2819459101,2110,hospital,Menninger Clinic,-95.45671,29.64971
-4711368241,2303,cafe,Berripop Frozen Yogurt,-95.46211,29.68877
-6790672428,2501,supermarket,Aldi,-95.50155,29.68949
-356719350,2082,school,Ralph Waldo Emerson School,-95.53439,29.72662
-356802660,2082,school,Emerson Elementary School,-95.53383,29.72717
-356805514,2082,school,Piney Point Elementary School,-95.52105,29.72662
-629511742,2013,nursing_home,Treemont,-95.53099,29.73807
-3308391695,2303,cafe,Krispy Kreme,-95.5182,29.73695
-3845830309,2303,cafe,Starbucks,-95.55046,29.73653
-4535586640,2303,cafe,Java Coffee & Tea Co.,-95.52013,29.73645
-5256551718,2501,supermarket,Jusgo,-95.54689,29.70585
-5315600724,2501,supermarket,Walmart Supercenter,-95.51169,29.73548
-6580896141,2083,kindergarten,,-95.5293,29.76825
-356799298,2082,school,Alief Montessori Community School,-95.59189,29.71273
-356805171,2082,school,Shadowbriar Elementary School,-95.59828,29.7369
-356805176,2082,school,Shadowbriar Middle School,-95.59828,29.7369
-356805323,2082,school,Sandpoint Elementary School,-95.553,29.72106
-356866884,2082,school,Alexander Smith Senior High School,-95.5548,29.72414
-2626629156,2501,supermarket,H-E-B,-95.64166,29.7057
-2702097350,2501,supermarket,Walmart Supercenter,-95.64746,29.72124
-4725183390,2501,supermarket,,-95.62617,29.73409
-4725188790,2012,community_centre,the commons,-95.62417,29.7377
-4728685193,2012,community_centre,Ahead 29 Apartments,-95.62815,29.69057
-5256569179,2501,supermarket,Vishala Grocery,-95.62479,29.73812
-5280612996,2501,supermarket,Hong Kong Food Market,-95.5774,29.70137
-5315598277,2501,supermarket,Walmart Neighborhood Market,-95.58607,29.6874
-2673374332,2402,motel,La Quinta,-95.7614,29.78419
-3911060265,2501,supermarket,Fiesta Mart,-95.7491,29.78097
-3916915531,2303,cafe,Marble Slab Creamery,-95.75123,29.77792
-3916915535,2303,cafe,Starbucks,-95.75033,29.77684
-3917249546,2303,cafe,Begal Cafe,-95.75038,29.77304
-4138864449,2402,motel,Days Inn & Suites Katy,-95.73708,29.78744
-5246578669,2501,supermarket,Kroger,-95.77019,29.81265
-356749338,2082,school,Christ the King School,-95.3791,29.79456
-356750436,2082,school,Robert Browning School,-95.37855,29.79689
-356750480,2082,school,Saint Charles School,-95.36891,29.84756
-356750567,2082,school,Sam Houston High School,-95.36049,29.84773
-356798754,2082,school,Burbank Middle School,-95.37057,29.83887
-356798994,2082,school,Burbank Elementary School,-95.37266,29.84512
-356799099,2082,school,Berry Elementary School,-95.35005,29.83659
-356799179,2082,school,Browning Elementary School,-95.37799,29.79634
-356805542,2082,school,North District Alternative Elementary School,-95.35021,29.83663
-356805568,2082,school,Northline Elementary School,-95.38702,29.85082
-1567411072,2303,cafe,Carmelita's Cuisine,-95.38765,29.79099
-2739347276,2082,school,KIPP Dream,-95.36921,29.8454
-3247844075,2082,school,KIPP 3D,-95.36921,29.84532
-3247844076,2082,school,KIPP Generations,-95.36921,29.84523
-3494238594,2402,motel,Western Inn Motel,-95.37922,29.8134
-3494239593,2402,motel,Super 8 Houston/I-45 North,-95.38069,29.82367
-3512738587,2303,cafe,Antidote,-95.38802,29.78489
-4138765935,2402,motel,Astro Inn,-95.37421,29.80419
-4138765936,2402,motel,Sleep Inn & Suites,-95.37262,29.79434
-6433472288,2501,supermarket,Fiesta,-95.38528,29.83671
-815022059,2303,cafe,Starbucks,-95.46061,29.74123
-2349161820,2303,cafe,Starbucks,-95.45728,29.75441
-2352000322,2402,motel,La Quinta Inn & Suites Houston Galleria Area,-95.45474,29.7503
-2922351167,2303,cafe,Starbucks,-95.45485,29.74767
-4377349307,2501,supermarket,Whole Foods Market,-95.46187,29.74959
-4870638521,2303,cafe,Starbucks,-95.46657,29.74102
-5370659658,2501,supermarket,Westcreek Market & Deli,-95.45484,29.74147
-6374953396,2303,cafe,Sprinkles Cupcakes,-95.44598,29.74194
-6437114364,2303,cafe,Merchant,-95.4601,29.74938
-356750304,2082,school,Our Savior School,-95.41161,29.82995
-356750557,2082,school,Saint Rose of Lima School,-95.41522,29.81995
-356801573,2082,school,Kay On - Going Education Center,-95.41112,29.8289
-356805606,2082,school,On - Going Middle School,-95.41114,29.82872
-2699368507,2501,supermarket,Kroger,-95.41121,29.78963
-4040988420,2303,cafe,Maryam's Cafe,-95.40208,29.80305
-4040988422,2303,cafe,Boomtown Coffee,-95.40067,29.80269
-4085985856,2303,cafe,Charles Donut Shop,-95.4341,29.82875
-4138765929,2402,motel,Town Inn Houston,-95.40008,29.85445
-4138765930,2402,motel,Guest Inn And Suites,-95.39912,29.85351
-4138765931,2402,motel,Southwind Motel,-95.39569,29.84855
-4592400303,2501,supermarket,Fortune one foods,-95.41591,29.80209
-4842212281,2501,supermarket,Aldi,-95.4098,29.82296
-6013901458,2303,cafe,EQ Heights,-95.39733,29.7901
-6252570645,2501,supermarket,H-E-B,-95.40886,29.80736
-6252667381,2501,supermarket,Kroger,-95.40046,29.80457
-6270557985,2110,hospital,Texas Children's Pedatrics,-95.39885,29.80675
-6296940101,2303,cafe,The Roastery,-95.40871,29.80716
-6558728505,2303,cafe,Tea + Victory,-95.42682,29.8042
-6597813470,2303,cafe,Green Earth,-95.40977,29.80816
-4219839276,2303,cafe,Starbucks,-95.34981,29.98787
-4584106045,2303,cafe,Starbucks,-95.3457,29.98586
-5294707640,2303,cafe,Peet's Coffee,-95.34513,29.98672
-5312125278,2303,cafe,Starbucks,-95.34162,29.9893
-5315600799,2501,supermarket,Walmart Supercenter,-95.28349,30.009
-5669889044,2303,cafe,Starbucks,-95.34977,29.98563
-6351326008,2303,cafe,Starbucks,-95.33953,29.98583
-6351326019,2303,cafe,Freshens Fresh Food Studio,-95.33828,29.9858
-6351326036,2303,cafe,Starbucks,-95.3354,29.98533
-356711547,2082,school,Montrose School,-95.38908,29.73803
-356802082,2082,school,Houston Middle College for Technology,-95.40244,29.7344
-356805489,2082,school,High School for the Performing & Visual Arts,-95.38843,29.73696
-356816038,2110,hospital,Plaza Specialty Hospital,-95.3878,29.72408
-356865589,2081,university,The University of Texas Health Science Center,-95.40315,29.70299
-1455044828,2303,cafe,Black Hole,-95.39494,29.73246
-1975476340,2303,cafe,Starbucks,-95.40123,29.70964
-1975596439,2110,hospital,Texas Heart Institute - Denton A. Cooley Building,-95.39942,29.70793
-3637431631,2303,cafe,Siphon Coffee,-95.3883,29.73839
-4245200731,2303,cafe,MFA Cafe,-95.38927,29.72526
-4259049650,2081,university,Michael E. Debakey Center,-95.39595,29.71143
-4259049651,2081,university,Cullen Building,-95.39641,29.71067
-4259086218,2110,hospital,Texas Children's Hospital,-95.40083,29.70778
-4288727593,2303,cafe,Pinewood Cafe,-95.38988,29.7174
-4289825235,2303,cafe,Cypress Circle Café,-95.39181,29.71362
-6204461289,2303,cafe,Twiga Café,-95.39253,29.71234
-6204461382,2303,cafe,Albert and Hazel Herzstein Trading Post,-95.39197,29.71167
-6925939365,2303,cafe,Starbucks,-95.405,29.73401
-356710653,2082,school,MacGregor School,-95.38077,29.72801
-356720610,2082,school,Saint James School,-95.36744,29.71717
-356720982,2082,school,Saint Mary School,-95.36827,29.71967
-356801334,2082,school,MacGregor Elementary School,-95.38076,29.72832
-1150373861,2402,motel,La Quinta Inn Houston Cy-Fair,-95.61809,29.91679
-1150382727,2303,cafe,Starbucks,-95.6163,29.91584
-3306996261,2501,supermarket,Walmart Supercenter,-95.60225,29.91994
-4138826036,2402,motel,Super 8 Houston,-95.55927,29.97004
-4138826038,2402,motel,Scottish Inns & Suites-Jones Road,-95.58508,29.93868
-4369183341,2402,motel,Motel 6,-95.5736,29.88502
-5272957059,2303,cafe,Southern Maid Donuts,-95.58527,29.92608
-4138933722,2402,motel,America's Inn,-95.55525,29.66504
-4138933725,2402,motel,Comfort Inn Southwest Fwy,-95.56497,29.65596
-5315598852,2501,supermarket,Walmart Supercenter,-95.56132,29.67927
-5872004370,2082,school,Kipp SHINE Prep,-95.56564,29.67005
-912088391,2303,cafe,Fountain View Cafe,-95.48646,29.7482
-1474266869,2303,cafe,Starbucks,-95.48241,29.7601
-3719376292,2501,supermarket,Whole Foods Market,-95.5,29.75247
-4138933711,2402,motel,Days Inn Houston - Galleria Mall,-95.48387,29.72977
-4138933712,2402,motel,Comfort Suites - Near the Galleria,-95.4913,29.73142
-5470024775,2501,supermarket,Trader Joe's,-95.50163,29.75275
-6080960276,2303,cafe,,-95.48436,29.74953
-6654320564,2501,supermarket,Rice Epicurean Market,-95.48638,29.7466
-356700138,2082,school,Bible Institute of Texas,-95.1416,29.68273
-356701541,2082,school,Carpenter Elementary School,-95.13592,29.67993
-356720569,2082,school,Saint Frances Cabrini School,-95.22214,29.63638
-356721095,2082,school,Saint Pius V School,-95.2101,29.69925
-356798800,2082,school,Carpenter Elementary School,-95.13799,29.6819
-356799139,2082,school,Bonnette Junior High School,-95.13799,29.6819
-356802540,2082,school,Harvey Turner Elementary School,-95.16636,29.65038
-1924280269,2303,cafe,Starbucks,-95.12278,29.67781
-1924294724,2501,supermarket,Food Town,-95.12464,29.68109
-1924302158,2303,cafe,Starbucks,-95.15229,29.65041
-3317807677,2501,supermarket,Walmart Supercenter,-95.16138,29.64661
-4636525837,2012,community_centre,Deer Park Community Center,-95.11866,29.68914
-4640832331,2402,motel,Super 8,-95.12431,29.70341
-4640845253,2012,community_centre,Jimmy Burke Activity Center,-95.12779,29.6992
-6351432604,2083,kindergarten,,-95.14414,29.73375
-6924919609,2082,school,Bonnette Junior High,-95.13435,29.68079
-2675804285,2402,motel,Extended Stay America,-95.57896,29.78276
-5315598025,2501,supermarket,Walmart Neighborhood Market,-95.68058,29.94238
-356799346,2082,school,Askew Elementary School,-95.578,29.75245
-2711946397,2303,cafe,Citiline Deli,-95.62197,29.76474
-3204058605,2501,supermarket,Kroger,-95.59944,29.77114
-4725183393,2012,community_centre,Ashrod Building,-95.6072,29.75355
-4725188792,2082,school,Ray Daily Elem. School,-95.61584,29.75409
-5790105001,2303,cafe,Tree House - Craft Coffee & Frozen Yogurt,-95.59037,29.77161
-356708249,2082,school,Holy Ghost School,-95.47702,29.70457
-356799074,2082,school,Benavidez Elementary School,-95.49244,29.71662
-356801488,2082,school,Las Americas Newcomer Middle School,-95.48674,29.71993
-356805153,2082,school,Ser - Ninos Charter Elementary School,-95.48078,29.70912
-356815851,2110,hospital,Cornerstone Hospital Houston – Bellaire,-95.47327,29.70801
-2346493081,2501,supermarket,El Ahorra Supermarket,-95.48348,29.69884
-2383851268,2303,cafe,Starbucks,-95.49827,29.71664
-2614136116,2303,cafe,Starbucks,-95.46831,29.70727
-2696705132,2303,cafe,Honduras Maya Cafe & Bar,-95.48635,29.70518
-3454500693,2402,motel,Bellaire Inn,-95.47222,29.70768
-4138933714,2402,motel,Comfort Inn & Suites,-95.49957,29.71517
-4138933716,2402,motel,La Quinta Inn & Suites Houston Southwest,-95.50375,29.71413
-4138933717,2402,motel,Limited Houston Sharpstown,-95.50402,29.71074
-4138933718,2402,motel,Red Carpet Inn Houston,-95.50313,29.7102
-5465702596,2110,hospital,Behavioral Hospital of Bellaire,-95.47324,29.7084
-356750147,2082,school,Messiah School,-95.413,29.76856
-356750558,2082,school,Saint Theresa School,-95.43029,29.77327
-356802387,2082,school,Gregory - Lincoln Education Center,-95.38499,29.75614
-1075977033,2303,cafe,Starbucks,-95.40991,29.75277
-1474266873,2303,cafe,Starbucks,-95.41728,29.76108
-2840975401,2303,cafe,Brasserie 19,-95.40735,29.75341
-2975083419,2082,school,Carnegie Vanguard High School,-95.38485,29.75418
-3136604734,2303,cafe,Starbucks,-95.39834,29.77477
-3235574907,2303,cafe,CoCos Crepes,-95.41834,29.77039
-4040988397,2303,cafe,Chatter's Cafe & Bistro,-95.39766,29.76818
-4736456635,2303,cafe,The Teahouse,-95.41981,29.76177
-5693008293,2303,cafe,The Yellow Cup,-95.42206,29.77074
-6840644122,2501,supermarket,H-E-B,-95.39663,29.76917
-356859498,2082,school,Bay Area Montessori School House,-95.11667,29.55052
-356859580,2082,school,Bruk Academy,-95.12287,29.53689
-356859842,2082,school,Westminster Academy,-95.11517,29.5482
-356860086,2082,school,Houston Learning Academy,-95.11803,29.53665
-356860269,2082,school,Galloway Upper School,-95.1169,29.55037
-1086344290,2303,cafe,Enlighten Coffee Roasters,-95.12586,29.53269
-2618871517,2501,supermarket,Raj Grocers,-95.14492,29.56586
-3390498259,2501,supermarket,Kroger,-95.12477,29.55859
-3390500125,2501,supermarket,Food Town,-95.14012,29.56024
-3739511534,2303,cafe,Shipley Do-Nuts,-95.15374,29.58272
-3739511604,2303,cafe,Starbucks,-95.15697,29.57827
-3755266369,2501,supermarket,Kroger,-95.12057,29.57798
-3774122725,2303,cafe,Starbucks,-95.1262,29.55167
-4247196590,2501,supermarket,H-E-B,-95.12678,29.60611
-4770537553,2303,cafe,Kolache Factory,-95.13468,29.54515
-4770537556,2303,cafe,Starbucks,-95.14982,29.55644
-6656078772,2084,college,Remington College Webster Campus,-95.12353,29.52532
-6656205004,2082,school,CCISD Teacher Center,-95.13873,29.51769
-3903896556,2501,supermarket,Randalls,-95.71701,29.77943
-3903896960,2501,supermarket,Target,-95.71605,29.78216
-3903913977,2303,cafe,Starbucks,-95.71656,29.78211
-3905103773,2501,supermarket,H-E-B,-95.71674,29.78929
-3905211326,2501,supermarket,Kroger,-95.72131,29.79117
-3905211331,2303,cafe,Starbucks,-95.72053,29.79064
-5315598023,2501,supermarket,Walmart Neighborhood Market,-95.73106,29.75862
-356814337,2082,school,I T Holleman Elementary School,-95.9194,30.06633
-356814343,2082,school,Schultz Middle School,-95.90884,30.05133
-2375548177,2402,motel,America's Best Value Inn,-95.90979,30.06104
-356798605,2082,school,Cunningham Middle School,-95.20079,29.80238
-356802183,2082,school,James B Havard Elementary School,-95.19549,29.80606
-356802614,2082,school,High Point Alternative School - Sheldon,-95.18515,29.84068
-356802683,2082,school,Endeavor Schools,-95.12479,29.79143
-356804826,2082,school,Tice Elementary School,-95.19942,29.80405
-356805276,2082,school,Royalwood Elementary School,-95.18799,29.83745
-3308449910,2501,supermarket,Walmart Supercenter,-95.16524,29.806
-4139523821,2402,motel,Holiday Inn Houston East-Channelview,-95.11025,29.78456
-4139523822,2402,motel,Americas Best Value Inn & Suites - Channelview / Houston,-95.11893,29.78085
-4139523823,2402,motel,The Grand Inn,-95.12064,29.78009
-4139523824,2402,motel,Traveler's Inn & Suites,-95.12191,29.77983
-4139523826,2402,motel,Luxury Inn,-95.12063,29.77633
-4139523827,2402,motel,Days Inn & Suites Houston Channelview,-95.1267,29.77834
-4139523828,2402,motel,Scottish Inns Suites Channelview,-95.12649,29.77685
-4139523829,2402,motel,Palace Inn - Channelview,-95.12897,29.77775
-4139523830,2402,motel,Parkway Inn,-95.13187,29.77696
-4139523831,2402,motel,Clarion Inn,-95.14355,29.77445
-4139523832,2402,motel,Interstate Motor Lodge,-95.19187,29.77181
-4139523833,2402,motel,La Quinta Inn & Suites Houston - Normandy,-95.20697,29.77293
-4139523834,2402,motel,Scottish Inns & Suites - I10 East,-95.20911,29.77029
-4139523835,2402,motel,Super 8 Houston/I-10/Federal Road,-95.21265,29.76823
-4139523836,2402,motel,Lamplight Inn,-95.21479,29.76954
-4139523837,2402,motel,Comfort Inn East,-95.219,29.7716
-4139523839,2402,motel,Red Roof Inn Houston East,-95.22528,29.77255
-4739964047,2082,school,Cravens Early Childhood Academy,-95.19985,29.85141
-5315602252,2501,supermarket,Walmart Supercenter,-95.1771,29.76803
-4251878623,2501,supermarket,Joe V's Smart Shop,-95.47757,29.60789
-356815975,2110,hospital,Intracare North Hospital,-95.44033,30.02378
-2809305840,2501,supermarket,Kroger,-95.43406,30.02184
-2821133119,2402,motel,Super 8 Houston I-45,-95.42528,30.00356
-2821145940,2402,motel,La Quinta Inn & Suites Houston 1960,-95.42299,30.02416
-2821333703,2402,motel,Baymont Inn and Suites Houston I-45 North,-95.42922,30.01539
-2821337401,2402,motel,Palace Inn,-95.42143,30.0244
-2821359101,2402,motel,Days Inn & Suites Houston North/Spring,-95.42725,30.0002
-3004832757,2501,supermarket,Food Fair Supermarket,-95.38835,30.0487
-4003638119,2303,cafe,Starbucks,-95.49854,29.98728
-4138765903,2402,motel,Motel 6 Houston North - Spring,-95.43332,30.05132
-4138765906,2402,motel,Days Inn & Suites Houston North/FM 1960,-95.42245,30.02229
-4138765907,2402,motel,Studio 6 Houston - Spring,-95.43072,30.01819
-4138765908,2402,motel,Americas Best Value Inn I-45 North Houston,-95.42568,30.00681
-4138765910,2402,motel,Value Place Airtex,-95.42061,29.98332
-4138765911,2402,motel,Sleep Inn & Suites I-45 / Airtex,-95.4274,29.98195
-4138765912,2402,motel,Holiday Inn Express & Suites Houston North Intercontinental,-95.42469,29.98104
-4138765913,2402,motel,BEST WESTERN PLUS North Houston Inn & Suites,-95.42403,29.97959
-4138826022,2402,motel,Camelot Inn & Suites 1960,-95.45166,30.01301
-4138826024,2402,motel,Northgate Inn and Suites Houston,-95.46548,30.00467
-4138826025,2402,motel,Comfort Inn & Suites FM1960-Champions,-95.48334,29.99463
-4138826026,2402,motel,Holiday Inn Express - Houston,-95.49792,29.98996
-4217296390,2501,supermarket,Walmart Supercenter,-95.48415,29.99821
-5315597609,2501,supermarket,Walmart Neighborhood Market,-95.40598,30.06435
-6292846529,2501,supermarket,Aldi,-95.48592,29.99367
-6292849026,2402,motel,Champions Lodge,-95.50279,29.98686
-6292849034,2303,cafe,Starbucks,-95.50929,29.97968
-356860103,2082,school,Lord of Life Lutheran School,-95.184,29.5513
-1280159697,2501,supermarket,Kroger,-95.21486,29.6029
-3128789603,2501,supermarket,Hong Kong Market,-95.21338,29.58634
-4139503012,2402,motel,Studio 6 Houston-Hobby,-95.21327,29.6166
-2704491051,2501,supermarket,Walmart Supercenter,-95.71645,29.86065
-3902117941,2501,supermarket,Fiesta,-95.72203,29.87817
-4306457398,2012,community_centre,Windsong Trail,-95.67566,29.84906
-5243429872,2501,supermarket,Cà Mau Food Market,-95.70028,29.88099
-5248219010,2501,supermarket,Shapla Grocers & Halal Meat,-95.67028,29.86579
-5249290708,2501,supermarket,La Michoacana Meat Market,-95.684,29.86673
-5261521548,2501,supermarket,La Pasadita,-95.66713,29.87847
-5345906739,2012,community_centre,Bear Creek Plantation Community Center,-95.70575,29.86622
-5370764720,2303,cafe,Starbucks,-95.68406,29.8327
-5370765721,2501,supermarket,,-95.68281,29.84953
-5370765723,2501,supermarket,African Market,-95.68246,29.85358
-5461897702,2402,motel,Hotel Bella,-95.48498,29.91569
-5461897709,2501,supermarket,Aldi,-95.4858,29.9161
-5462330386,2402,motel,Palace Inn,-95.50157,29.92609
-356743886,2082,school,Recreation Acres School,-95.47911,29.90634
-356749880,2082,school,Johnson Memorial School,-95.44864,29.83226
-356750128,2082,school,Memorial Hall School,-95.51105,29.79884
-356750477,2082,school,Saint Ambrose School,-95.46327,29.82884
-356750478,2082,school,Saint Cecilias School,-95.52994,29.77884
-356750481,2082,school,Saint Christopher School,-95.52355,29.80356
-356750538,2082,school,Saint Mark School,-95.49439,29.79745
-356750700,2082,school,Spring Branch High School,-95.51133,29.79551
-356802069,2082,school,Houston Educational Learning Enrichment,-95.46577,29.81773
-356805034,2082,school,Spring Branch Education Center,-95.51127,29.79451
-356805047,2082,school,Spring Branch School of Choice,-95.51146,29.79476
-356867250,2082,school,Memorial Hall School,-95.46593,29.81139
-1920554546,2082,school,Big Little School,-95.48602,29.78945
-1935628499,2082,school,School of the Woods,-95.48552,29.79367
-2661033422,2501,supermarket,El Ahorro,-95.52324,29.82259
-2662073553,2501,supermarket,Thang Hung Food Market,-95.52494,29.82109
-3939540377,2402,motel,,-95.52852,29.78321
-4368695812,2402,motel,Quality Inn & Suites Hwy 290 - Brookhollow,-95.48742,29.83561
-4368695827,2402,motel,Americas Best Value Inn & Suites-Houston-Northwest Brookhollow,-95.48321,29.834
-4368695844,2402,motel,Econo Lodge,-95.48806,29.83883
-4368695846,2402,motel,Regency Inn & Suites,-95.49007,29.83786
-4368695850,2402,motel,Sleep Inn & Suites Hwy 290/Nw Freeway,-95.49551,29.84505
-4369181582,2402,motel,Comfort Inn Hwy. 290/Nw,-95.51065,29.85011
-4369183303,2402,motel,Crossland Houston - Northwest,-95.51584,29.85354
-4369183339,2402,motel,Palace Inn Fairbanks,-95.5186,29.85555
-4561043613,2501,supermarket,Seller's Brothers,-95.52565,29.81054
-5027253422,2012,community_centre,Chinese Baptist Church,-95.50496,29.7818
-5179403020,2402,motel,InTown Suites,-95.52168,29.85724
-5463200761,2501,supermarket,Nourish Market,-95.52098,29.79123
-5987838685,2082,school,,-95.44293,29.89417
-6298445528,2012,community_centre,Trini Mendenhall Community Center,-95.48416,29.79579
-6299354185,2501,supermarket,Kroger,-95.48644,29.79682
-6580896142,2110,hospital,,-95.4756,29.79328
-356827376,2303,cafe,Chama,-95.72023,29.80303
-4297111823,2501,supermarket,Al-Ahad Meat and Grocers,-95.70464,29.83227
-4297111829,2501,supermarket,Texas Food Supermarket,-95.70857,29.83167
-4302909216,2303,cafe,El Kiosko Frutas Y Helados #12,-95.72007,29.80141
-5370679939,2501,supermarket,Supermercado Gigante,-95.68788,29.81119
-5370764719,2082,school,The Goddard School,-95.68691,29.82101
-356709720,2082,school,Lanier Junior High School,-95.40509,29.74192
-530778065,2501,supermarket,Kroger,-95.39187,29.74299
-530778143,2303,cafe,Starbucks,-95.39058,29.74221
-566210107,2303,cafe,Brasil,-95.40225,29.74264
-566210425,2303,cafe,Empire Cafe,-95.40349,29.74296
-3136803459,2303,cafe,Blacksmith,-95.39249,29.74481
-3379727224,2303,cafe,Bacchus Winebar & Coffee Shop,-95.40227,29.74361
-3700075595,2405,hostel,Morty Rich Hostel,-95.3875,29.74314
-4035541824,2303,cafe,Common Bond,-95.40225,29.74297
-4074332967,2303,cafe,SouthSide Espresso,-95.3907,29.74499
-5703182723,2303,cafe,Fix Coffeebar,-95.38663,29.74427
-356750476,2082,school,Sacred Heart School,-95.38688,29.87189
-356798662,2082,school,Dechaumes Elementary School,-95.37697,29.86112
-2327714259,2501,supermarket,El Ahorro Supermarket,-95.38571,29.86065
-2821133101,2501,supermarket,Food Town,-95.40612,29.87118
-3494233094,2402,motel,Gulf Wind Motel,-95.41297,29.88487
-3494235293,2402,motel,Greenpoint Extended Stay Hotel,-95.41973,29.95907
-3494235393,2402,motel,Palace Inn,-95.41966,29.95953
-4138765914,2402,motel,Best Classic Inn,-95.41568,29.96686
-4138765915,2402,motel,Scottish Inn & Suites,-95.4146,29.96633
-4138765916,2402,motel,Knights Inn Houston,-95.41563,29.95085
-4138765926,2402,motel,Greenchase Inn,-95.41299,29.90447
-4138765927,2402,motel,Palace Inn,-95.411,29.86944
-4369405106,2402,motel,Wingate by Wyndham Houston Bush Intercontinental Airport IAH,-95.36586,29.93807
-4369405107,2402,motel,Homewood Suites By Hilton HOU Intercontinental Arpt,-95.36509,29.93754
-4369405108,2402,motel,Airport Suites,-95.36454,29.93778
-4369405109,2402,motel,Candlewood Suites Houston Iah / Beltway 8,-95.36292,29.93752
-4369405110,2402,motel,Quality Suites Intercontinental Airport West,-95.36286,29.94053
-4369405111,2402,motel,Palace Inn IAH,-95.36852,29.93835
-4369938101,2402,motel,Super 8 IAH West/Greenspoint,-95.36801,29.93816
-5225743021,2303,cafe,Starbucks,-95.40724,29.9471
-5437174975,2501,supermarket,La Michoacana Meat Market,-95.39166,29.88267
-5461730346,2501,supermarket,Fiesta,-95.40449,29.91615
-6433378317,2303,cafe,Raspas Flamingo Chill,-95.38407,29.85848
-523556850,2303,cafe,Starbucks,-95.64578,29.87619
-523558657,2501,supermarket,Food Town,-95.64883,29.87799
-1129005658,2083,kindergarten,Children's Courtyard,-95.65745,29.8964
-4138826044,2402,motel,Scottish Inns & Suites Timber,-95.64359,29.85698
-4138826046,2402,motel,Bear Creek Inn,-95.64541,29.83391
-4138826047,2402,motel,Palace Inn,-95.64668,29.83168
-4289437579,2501,supermarket,Fiesta Mart,-95.64468,29.83687
-4291218847,2303,cafe,El Klosko Frutas y Helados,-95.64687,29.83563
-4291218854,2501,supermarket,Dong Khanh Market,-95.6484,29.83562
-4291218858,2303,cafe,Cafe Giot Dang,-95.64798,29.83524
-5245961897,2303,cafe,Starbucks,-95.64624,29.84517
-5250817429,2084,college,Regency Beauty Institute,-95.64682,29.87208
-5254071885,2303,cafe,Shipley's Do-Nuts,-95.64479,29.87158
-5254106978,2303,cafe,Krispy Kreme,-95.64566,29.8596
-5468520258,2501,supermarket,ALDI,-95.64639,29.86166
-6489805696,2303,cafe,Starbucks,-95.64701,29.8775
-356866968,2082,school,Center For Advanced Legal Studies,-95.4193,29.7313
-1406368108,2303,cafe,Z Pizza,-95.44236,29.72128
-2180261965,2501,supermarket,Trader Joe's,-95.41117,29.7392
-2348332719,2402,motel,La Quinta,-95.44279,29.72814
-2405569053,2303,cafe,Starbucks,-95.42762,29.72819
-2408157598,2303,cafe,Starbucks,-95.44037,29.70546
-2458410344,2303,cafe,Starbucks,-95.41045,29.74049
-2509551201,2303,cafe,Corner Bakery Cafe,-95.41983,29.7297
-2627543679,2402,motel,Extended Stay America,-95.41463,29.7318
-4317541824,2303,cafe,Starbucks,-95.41713,29.71536
-4473446250,2012,community_centre,West University Community Building and Senior Center,-95.43772,29.71662
-5902127550,2504,mall,Shops at Arrive,-95.41929,29.74089
-6496742448,2083,kindergarten,House at Pooh Corner,-95.42214,29.74064
-6496768936,2303,cafe,Starbucks,-95.42499,29.70489
-1133248078,2084,college,Lone Star College Emergency Services Education Center,-95.6964,29.90823
-5245193867,2501,supermarket,Aldi,-95.68465,29.90456
-5245218894,2303,cafe,Starbucks,-95.68551,29.91181
-5249755440,2082,school,Kumon,-95.68308,29.89579
-6488172027,2303,cafe,Starbucks,-95.71802,29.89083
-6489805694,2303,cafe,Starbucks,-95.68973,29.91847
-356799161,2082,school,Bridge High School,-95.4805,29.72995
-473637075,2303,cafe,Starbucks,-95.47517,29.7313
-5717920201,2082,school,Mandarin Immersion Magnet School,-95.47252,29.73721
-1301295040,2303,cafe,Starbucks,-95.55025,29.76649
-1301298561,2501,supermarket,Rice Epicurean Market,-95.5515,29.76703
-770976316,2303,cafe,Starbucks,-95.17789,29.99778
-986034040,2501,supermarket,H-E-B,-95.18367,30.05301
-4113059980,2303,cafe,Starbucks,-95.18261,30.04832
-4303263159,2303,cafe,Kingwood Bagel & Sandwich,-95.18446,30.04768
-5261521016,2012,community_centre,Eagle Springs Community Center,-95.1882,29.97778
-5315596438,2501,supermarket,Walmart Supercenter,-95.17644,29.99568
-5659611111,2303,cafe,Starbucks,-95.18055,30.05172
-5843069939,2501,supermarket,Aldi,-95.17379,29.99688
-356702796,2082,school,Corpus Christi School,-95.44133,29.67468
-1975611376,2501,supermarket,Fiesta,-95.41512,29.69023
-2678647060,2402,motel,Candlewood Suites Houston Medical Center,-95.42632,29.67582
-3042066133,2402,motel,Sterling Inn and Suites at Reliant and Medical Center Houston,-95.41696,29.6787
-4138961119,2402,motel,Palace Inn Medical Center,-95.42946,29.67648
-4138961120,2402,motel,Motel 6 Houston NRG Park - Reliant Stadium,-95.42952,29.67717
-4138961121,2402,motel,Carefree Inn Houston Medical Center,-95.42773,29.67614
-4138961124,2402,motel,Holiday Inn Express & Suites Houston SW-Medical Ctr Area,-95.42317,29.6841
-4370711277,2402,motel,Raintree Inn & Suites,-95.43472,29.67853
-5604621733,2303,cafe,Starbucks,-95.41517,29.6959
-5604621795,2303,cafe,Starbucks,-95.41857,29.69294
-5604621803,2082,school,UnIted Christian School,-95.41854,29.67865
-6503285221,2082,school,Grace Episcopal Church School & Office Entrance,-95.44403,29.67378
-5244656609,2082,school,Aristoi Classical Academy,-95.8161,29.81696
-6373324336,2303,cafe,Serene Beans,-95.82159,29.78801
-356701204,2082,school,Burnet School,-95.03187,29.75078
-356720880,2082,school,Saint Josephs School,-95.00187,29.72523
-356744852,2082,school,Sacred Heart School,-95.05854,29.91217
-356751590,2082,school,Houston School,-94.97909,29.71773
-356799273,2082,school,Alamo Elementary School,-94.96159,29.74745
-356805089,2082,school,Sterling High School - Goosecreek,-94.96659,29.76995
-356805306,2082,school,San Jacinto Elementary School,-95.00159,29.72578
-356866950,2082,school,Baytown Christian Academy,-94.9711,29.7779
-356867026,2082,school,Crosby Kindergarten,-95.0539,29.9122
-1740679192,2402,motel,,-95.05836,29.65218
-1924168265,2501,supermarket,ALDI,-95.09729,29.66393
-4139523819,2402,motel,Budget Lodge Channelview,-95.09389,29.7899
-4139523820,2402,motel,Texas Inn Channelview,-95.09725,29.78903
-4396402130,2501,supermarket,H-E-B,-95.09734,29.66717
-4484885116,2501,supermarket,Kroger,-95.03219,29.65357
-4729483895,2303,cafe,Starbucks,-94.97825,29.77404
-5254186612,2303,cafe,Krispy Kreme,-94.97692,29.75972
-5315597762,2501,supermarket,Walmart Supercenter,-95.06567,29.89438
-5594780480,2501,supermarket,H-E-B,-94.97985,29.79545
-6269418370,2303,cafe,Starbucks,-94.98296,29.8052
-6269418504,2402,motel,Motel 6 Baytown,-94.98485,29.80487
-6269418633,2402,motel,Palacr Inn Baytown,-94.97828,29.80468
-6273821821,2402,motel,Super 8 by Wyndham Baytown,-95.02921,29.79949
-6348452454,2303,cafe,,-94.97851,29.77959
-6348458727,2110,hospital,,-94.97721,29.78157
-6348472318,2501,supermarket,Aldi Nord,-94.97936,29.78349
-356749782,2082,school,Holy Name School,-95.35522,29.77856
-356802484,2082,school,Harris County Juvenile Justice Charter School,-95.35938,29.75939
-3138508983,2501,supermarket,Phoenicia Speciality Foods,-95.36163,29.75433
-3356779252,2504,mall,Park Shops,-95.36281,29.75508
-3797613673,2303,cafe,"AHH, Coffee!",-95.35495,29.75271
-3797613674,2014,arts_centre,Art Hous,-95.35434,29.75219
-4322377711,2303,cafe,Starbucks,-95.36013,29.75158
-4446394698,2303,cafe,Starbucks,-95.36673,29.75563
-4827132725,2012,community_centre,Lee Castillo Community Center,-95.36707,29.77831
-4849814822,2303,cafe,Boomtown Coffee,-95.361,29.7622
-5774126676,2110,hospital,"Houston Ear, Nose, Throat & Allergy Clinic",-95.36299,29.75495
-6351362485,2303,cafe,Tout Suite,-95.35069,29.75865
-4138826049,2402,motel,Studio 6 Houston West,-95.64622,29.78903
-4138826050,2402,motel,Motel 6 Houston West- Energy Corridor,-95.64624,29.78381
-4138826052,2402,motel,Americas Best Value Inn & Suites - Houston / Katy Fwy,-95.64972,29.78364
-4138826054,2402,motel,La Quinta Inn & Suites Houston West Park 10,-95.65161,29.78368
-4138826055,2402,motel,Extended Stay America - Houston - Katy Freeway - Energy Corridor,-95.6531,29.78366
-4138826057,2402,motel,Red Roof PLUS+ Houston - Energy Corridor,-95.65737,29.78616
-5259108868,2303,cafe,Keo's Donuts,-95.64398,29.75638
-5372641433,2303,cafe,Starbucks,-95.64345,29.77528
-356867089,2082,school,Faith West Academy,-95.7941,29.8055
-2673381613,2402,motel,Springhill Suites by Mariott,-95.80851,29.78217
-2327740930,2303,cafe,Starbucks,-95.54714,29.95933
-2606379766,2303,cafe,Starbucks,-95.54376,29.96412
-5224927502,2303,cafe,Starbucks,-95.53895,29.96006
-6239844340,2303,cafe,Starbucks,-95.68894,29.78932
-368160773,2002,fire_station,Huffman Fire Department,-95.0899,30.02493
-368160998,2002,fire_station,Huffman Volunteer Fire Department,-95.0819,30.0257
-368161210,2002,fire_station,Houston Fire Department Station 65,-95.10309,30.02058
-368161330,2002,fire_station,Houston Fire Station Number 65,-95.106,30.0202
-368161143,2002,fire_station,Missouri City Fire and Rescue Services Station 2,-95.51885,29.63033
-368161240,2002,fire_station,Houston Fire Department Station 82,-95.51134,29.65792
-368161284,2002,fire_station,Fire Station Number 2,-95.5208,29.6308
-368161332,2002,fire_station,Houston Fire Station Number 62,-95.51132,29.65772
-368162248,2001,police,Houston Police Department - Fondren Patrol,-95.50887,29.65887
-368162265,2001,police,Houston Police Department - Westwood,-95.54698,29.67494
-368160790,2002,fire_station,South Houston Fire Department,-95.23887,29.66549
-368161067,2002,fire_station,Houston Fire Department Station 35,-95.338,29.6741
-368161074,2002,fire_station,Houston Fire Department Station 26,-95.30505,29.68175
-368161077,2002,fire_station,Houston Fire Department Station 29,-95.25371,29.684
-368161196,2002,fire_station,Houston Fire Department Station 52,-95.2297,29.63509
-368161199,2002,fire_station,Houston Fire Department Station 55,-95.35617,29.63756
-368161206,2002,fire_station,Houston Fire Department Station 46,-95.36434,29.68593
-368161225,2002,fire_station,Houston Fire Department Station 61,-95.26708,29.62538
-368161243,2002,fire_station,Houston Fire Department Station 81,-95.27841,29.64141
-368161265,2002,fire_station,South Houston Fire Station,-95.2391,29.666
-368161333,2002,fire_station,Houston Fire Station Number 55,-95.3568,29.6402
-368162245,2001,police,Houston Police Department - Southeast Patrol,-95.31644,29.65751
-368162249,2001,police,Houston Police Department - Palm Center,-95.33406,29.69582
-368162258,2001,police,Houston Police Department - Sunnyside,-95.37087,29.65877
-368162275,2001,police,Houston Police Department - Hobby Airport,-95.28021,29.65706
-368162328,2001,police,Houston Police Department - Leija,-95.25397,29.68511
-368162333,2001,police,South Houston Police Department,-95.23932,29.66532
-368162672,2001,police,South Houston Police Station,-95.2394,29.6658
-368162703,2001,police,Houston Police Department - Broadway Square,-95.27678,29.67583
-368160793,2002,fire_station,Jacinto Fire Department,-95.24787,29.76905
-368161066,2002,fire_station,Houston Fire Department Station 34,-95.33885,29.84019
-368161071,2002,fire_station,Houston Fire Department Station 39,-95.31867,29.81284
-368161075,2002,fire_station,Houston Fire Department Station 27,-95.30456,29.77683
-368161080,2002,fire_station,Houston Fire Department Station 32,-95.26544,29.84965
-368161083,2002,fire_station,Houston Fire Department Station 19,-95.33612,29.77722
-368161201,2002,fire_station,Houston Fire Department Station 41,-95.2819,29.7739
-368161203,2002,fire_station,Houston Fire Department Station 43,-95.28404,29.82825
-368161205,2002,fire_station,Houston Fire Department Station 45,-95.26381,29.80525
-368161275,2002,fire_station,City of Jacinto Fire Department,-95.2477,29.7691
-368161323,2002,fire_station,Houston Fire Station Number 45,-95.2644,29.8046
-368161326,2002,fire_station,Houston Fire Station Number 43,-95.284,29.8291
-368161328,2002,fire_station,Houston Fire Station Number 41,-95.2826,29.7733
-368162116,2007,library,Jacinto City Library,-95.2402,29.7731
-368162261,2001,police,Houston Police Department - Northeast Patrol,-95.27329,29.83219
-368162266,2001,police,Jacinto City Police Department,-95.24474,29.76809
-368162286,2001,police,Harris County Sheriff's Office - DARE Program,-95.33425,29.84342
-368162499,2001,police,Houston Police Department - Jensen Street,-95.34362,29.84512
-368162527,2008,town_hall,Jacinto City Hall,-95.2469,29.7669
-368162680,2001,police,Jacinto City Police Station,-95.2453,29.7679
-368162301,2001,police,Houston Police Department - Hiram Clarke,-95.44218,29.61375
-368160975,2002,fire_station,Eastex Freeway Volunteer Fire Department,-95.29602,29.92833
-368161200,2002,fire_station,Houston Fire Department Station 56,-95.30586,29.87088
-368162250,2001,police,Harris County Sheriff's Office - Training,-95.24873,29.96312
-5110005189,2005,post_office,The UPS Store,-95.20259,29.92728
-356866840,2005,post_office,Hufsmith Post Office,-95.5964,30.1236
-368160717,2002,fire_station,Klein Volunteer Fire Department Station 1,-95.53783,30.03987
-368160802,2002,fire_station,Tomball Fire Department,-95.61656,30.09545
-368160897,2002,fire_station,Tomball Fire Department,-95.62866,30.09447
-368161105,2002,fire_station,Klein Volunteer Fire Department Station 5,-95.5426,30.09653
-368161107,2002,fire_station,Klein Volunteer Fire Department Station 3,-95.56604,30.01611
-368161108,2002,fire_station,Klein Volunteer Fire Department Station 4,-95.53011,30.01515
-368161277,2002,fire_station,City of Tomball Fire Department,-95.6338,30.0941
-368161944,2007,library,Chaparral Genealogical Society Library,-95.611,30.0997
-368162262,2001,police,Lakewood Police Department,-95.60651,29.99624
-368162477,2001,police,Tomball Police Department,-95.61661,30.0955
-368162534,2008,town_hall,Tomball City Hall,-95.61684,30.09572
-462587072,2002,fire_station,Klein Volunteer Fire Department Station 6,-95.61078,30.03484
-1137081181,2002,fire_station,Spring VFD,-95.55193,30.12155
-1863699356,2002,fire_station,The Woodlands Fire Station #7,-95.54944,30.14701
-2603503860,2005,post_office,The UPS Store,-95.58266,29.99848
-2605582193,2005,post_office,,-95.62104,29.99495
-4707490472,2001,police,Harris County Sheriff's Office District 5 Substation,-95.59856,30.03
-356866829,2005,post_office,Galnea Park Post Office,-95.2461,29.733
-368160779,2002,fire_station,Galena Park Fire Department Station 1,-95.23877,29.73415
-368161072,2002,fire_station,Houston Fire Department Station 40,-95.32086,29.71016
-368161081,2002,fire_station,Houston Fire Department Station 17,-95.34134,29.75699
-368161086,2002,fire_station,Houston Fire Department Station 20,-95.30069,29.74403
-368161088,2002,fire_station,Houston Fire Department Station 22,-95.28461,29.73056
-368161202,2002,fire_station,Houston Fire Department Station 42,-95.2727,29.74359
-368161297,2002,fire_station,Galena Park Fire Station,-95.2383,29.7341
-368161318,2002,fire_station,Houston Fire Station Number 22,-95.2857,29.7309
-368161320,2002,fire_station,Houston Fire Station Number 20,-95.30046,29.74398
-368161960,2007,library,Galena Park Library,-95.2399,29.7327
-368162237,2001,police,Houston Police Department - Eastside Patrol,-95.29061,29.73443
-368162246,2001,police,Galena Park Police Department,-95.24548,29.73208
-368162464,2001,police,Houston Police Department - Navigation,-95.32758,29.75259
-368162470,2001,police,Harris County Sheriff's Office - Recruiting,-95.32278,29.7535
-368162530,2008,town_hall,Galena Park City Hall,-95.2416,29.7321
-368162694,2001,police,Galena Park Police Station,-95.2416,29.732
-4907004821,2001,police,Best Auto Storage,-95.3116,29.75189
-5661503722,2007,library,Stanaker Library,-95.30294,29.74011
-368160915,2002,fire_station,Seabrook Volunteer Fire Department,-95.05212,29.56492
-368160985,2002,fire_station,Nassau Bay Volunteer Fire Department,-95.08479,29.55182
-368161245,2002,fire_station,Pasadena Fire Department Station 6,-95.05749,29.5831
-368161250,2002,fire_station,Pasadena Fire Department Station 9,-94.99137,29.60008
-368162296,2001,police,Nassau Bay Police Department,-95.08967,29.54913
-368162326,2001,police,Seabrook Police Department,-95.02392,29.56444
-368162345,2001,police,Shoreacres Police Department,-95.01516,29.61989
-368162357,2001,police,Houston Police Department - Clear Lake Patrol,-95.10672,29.57963
-368162437,2001,police,El Lago Police Department,-95.05187,29.56533
-368162538,2008,town_hall,Taylor Lake Village City Hall,-95.05763,29.57339
-3717796608,2007,library,UHCL Neumann Library,-95.09807,29.58216
-5109844537,2005,post_office,Seabrook Post Office,-95.02408,29.56286
-368161247,2002,fire_station,Houston Fire Department Station 102,-95.18699,30.06569
-356749691,2007,library,African-American Library at the Gregory School,-95.38049,29.75412
-356866873,2005,post_office,Westbury Post Office,-95.48054,29.65197
-368161208,2002,fire_station,Houston Fire Department Station 48,-95.48104,29.65335
-368161220,2002,fire_station,Houston Fire Department Station 59,-95.46476,29.62522
-368161321,2002,fire_station,Houston Fire Station Number 48,-95.4812,29.6535
-368162319,2001,police,Houston Police Department - Westbury,-95.47842,29.65135
-368162452,2001,police,Houston Police Department - Southwest Patrol,-95.45776,29.63664
-368162675,2001,police,Westbury Police Station,-95.4804,29.6523
-368161219,2002,fire_station,Houston Fire Department Station 60,-95.52484,29.73318
-368162272,2001,police,Bunker Hill Village Police Department,-95.53871,29.76205
-368162468,2001,police,Houston Police Department - Ranchester,-95.54406,29.70662
-368160917,2002,fire_station,Community Volunteer Fire Department,-95.65254,29.70973
-368161091,2002,fire_station,Houston Fire Department Station 10,-95.55193,29.70659
-368161241,2002,fire_station,Houston Fire Department Station 83,-95.57766,29.72661
-3905959783,2005,post_office,Omega Postal,-95.75125,29.78709
-5721141880,2002,fire_station,HCESD 48 Fire Station #5,-95.7382,29.81615
-368161093,2002,fire_station,Houston Fire Department Station 12,-95.35287,29.79464
-368161095,2002,fire_station,Houston Fire Department Station 15,-95.38674,29.80291
-368161292,2002,fire_station,Houston Fire Station Number 15,-95.3781,29.7949
-368162236,2001,police,Houston Police Department - Independence Heights,-95.388,29.82835
-356866832,2005,post_office,Houston Heights Post Office,-95.4017,29.8023
-368160464,2002,fire_station,Heights Fire Department,-95.3987,29.79238
-368160572,2002,fire_station,Houston Fire Department - Arson Division,-95.43067,29.7913
-368161079,2002,fire_station,Houston Fire Department Station 31,-95.40247,29.82847
-368161221,2002,fire_station,Houston Fire Department Station 62,-95.43774,29.79795
-368161331,2002,fire_station,Houston Fire Station Number 62,-95.4377,29.7986
-368162199,2007,library,Houston Public Library,-95.39731,29.79466
-368162691,2001,police,Houston Heights Police Station,-95.4029,29.8037
-368162696,2001,police,Houston Police Department - Heights,-95.41139,29.78605
-5272982712,2005,post_office,Postal Station 4U,-95.44356,29.8168
-5867045585,2007,library,Oak Forest Neighborhood Library,-95.43402,29.82752
-6778429914,2005,post_office,United States Post Office,-95.40974,29.82171
-6873678465,2005,post_office,The UPS Store,-95.4289,29.81646
-368160911,2002,fire_station,Northeast Fire / Rescue Department,-95.30638,30.01653
-368161227,2002,fire_station,Houston Fire Department Station 63,-95.30947,29.98439
-368161229,2002,fire_station,Houston Fire Department Station 92,-95.32609,29.98104
-368161235,2002,fire_station,Houston Fire Department Station 99,-95.35698,29.9755
-368162708,2001,police,Houston Police Department - Intercontinental Airport,-95.34052,29.98776
-2164861639,2002,fire_station,,-95.3563,29.99925
-3666214996,2005,post_office,,-95.31534,30.00633
-368161082,2002,fire_station,Houston Fire Department Station 16,-95.40233,29.73463
-368161945,2007,library,Clayton Library Center for Genealogical Research,-95.38658,29.72554
-530776608,2007,library,Freed-Montrose Neighborhood Library,-95.39146,29.73555
-1975678661,2007,library,HAM-TMC Library,-95.39682,29.71188
-2091700208,2007,library,Clayton House,-95.38608,29.72617
-4259050522,2007,library,UTHSPH Library,-95.39819,29.70511
-5463802661,2011,embassy,Honorary Consulate of the Czech Republic,-95.38485,29.72893
-368161073,2002,fire_station,Houston Fire Department Station 25,-95.35337,29.71865
-4217652091,2005,post_office,,-95.36302,29.72256
-368160791,2002,fire_station,Jersey Village Fire Department,-95.57127,29.88429
-368160918,2002,fire_station,Cypress Creek Volunteer Fire Station 22,-95.60001,29.95271
-368161113,2002,fire_station,Cy - Fair Volunteer Fire Department Station 10,-95.58955,29.91077
-368161117,2002,fire_station,Cy - Fair Volunteer Fire Department Station 6,-95.60803,29.86888
-368161274,2002,fire_station,City of Jersey Village Fire Department,-95.57127,29.88428
-368162442,2001,police,Texas Highway Patrol Division,-95.59777,29.90128
-368162487,2001,police,Jersey Village Police Department,-95.57064,29.88389
-368162707,2001,police,Jersey Village Police Chief's Office,-95.5712,29.88418
-368161215,2002,fire_station,Houston Fire Department Station 73,-95.57083,29.67278
-368162481,2001,police,Houston Police Department - Richmond,-95.49418,29.7322
-6654320565,2005,post_office,Postal Zone,-95.48644,29.74699
-6917875414,2005,post_office,PostNet,-95.48241,29.75999
-356866853,2005,post_office,Pasadena Post Office,-95.2004,29.6926
-368160241,2002,fire_station,Pasadena Fire Chief,-95.20174,29.7133
-368160520,2009,courthouse,W Kyle Chapman Courthouse,-95.1264,29.6632
-368160736,2002,fire_station,Pasadena Fire Department Station 2,-95.20138,29.70363
-368160737,2002,fire_station,Pasadena Fire Department Station 3,-95.16967,29.69233
-368160772,2002,fire_station,Pasadena Fire Protection Service,-95.20779,29.6875
-368160778,2002,fire_station,Deer Park Fire Department,-95.12422,29.69957
-368160981,2002,fire_station,Pasadena Fire Department Station 4,-95.20798,29.68386
-368161061,2002,fire_station,Pasadena Fire Department Station 5,-95.16328,29.67204
-368161138,2002,fire_station,Pasadena Fire Marshal's Office,-95.20174,29.7133
-368161244,2002,fire_station,Pasadena Fire Department Station 7,-95.18507,29.64042
-368161251,2002,fire_station,Pasadena Fire Department Station 8,-95.14309,29.64873
-368161270,2002,fire_station,City of Pasadena Fire Department,-95.22064,29.71157
-368161272,2002,fire_station,City of Deer Park Fire Department,-95.1235,29.6981
-368161992,2007,library,South Houston Public Library,-95.2208,29.6669
-368162115,2007,library,Mae Hilty Memorial Library,-95.1499,29.665
-368162247,2001,police,Deer Park Police Department - Investigation,-95.12408,29.69818
-368162279,2001,police,Pasadena Police Academy,-95.16881,29.66473
-368162465,2001,police,Pasadena Police Department,-95.19602,29.69341
-368162525,2008,town_hall,Pasadena City Hall,-95.1962,29.69167
-368162745,2099,public_building,Harris County Health Department Southeast Branch,-95.1556,29.6858
-2272855403,2002,fire_station,Deer Park VFD Station #2,-95.11523,29.67969
-2622861518,2009,courthouse,Deer Park Municiple Court,-95.12458,29.69921
-4636481876,2005,post_office,Deer Park Post Office,-95.12234,29.68915
-4636514589,2007,library,Deer Park Library,-95.12284,29.68386
-4636514591,2001,police,Deer Park Police Station,-95.12272,29.68663
-4636525836,2008,town_hall,Deer Park City Hall,-95.11732,29.68907
-368161237,2002,fire_station,Houston Fire Department Station 78,-95.61951,29.77918
-368160871,2002,fire_station,Cy - Fair Volunteer Fire Department Station 3,-95.64936,29.94903
-368161289,2002,fire_station,Cy-Fair Volunteer Fire Station 3,-95.6494,29.9493
-1150393078,2001,police,Cy-Fair ISD Police,-95.64879,29.93867
-368160805,2002,fire_station,Houston Fire Department Station 75,-95.60555,29.74474
-368161218,2002,fire_station,Houston Fire Department Station 57,-95.58028,29.77304
-5790207648,2005,post_office,The UPS Store,-95.59033,29.76997
-368161195,2002,fire_station,Houston Fire Department Station 51,-95.50487,29.70525
-368162450,2001,police,Houston Police Department - Gulfton,-95.48535,29.71699
-368161089,2002,fire_station,Houston Fire Department Station 6,-95.39426,29.76958
-368161094,2002,fire_station,Houston Fire Department Station 11,-95.41761,29.77955
-2349352502,2005,post_office,The UPS Store,-95.41728,29.7608
-368160754,2002,fire_station,Webster Volunteer Fire Department,-95.13132,29.54023
-368160972,2002,fire_station,Webster Fire Department,-95.11682,29.5353
-368161059,2002,fire_station,Forest Bend Volunteer Fire Department Station 1,-95.16115,29.53161
-368161213,2002,fire_station,Houston Fire Department Station 71,-95.12793,29.58196
-368161279,2002,fire_station,Clear Lake City Fire Department,-95.1143,29.5508
-368162243,2001,police,Harris County Sheriff's Office,-95.12025,29.55824
-368162356,2001,police,Webster Police Department,-95.11688,29.53433
-2655405069,2002,fire_station,,-95.14937,29.55674
-3774122675,2009,courthouse,Harris County Courthouse Bay Area Annex,-95.12042,29.55829
-5116182332,2005,post_office,,-95.13928,29.57611
-6190240878,2005,post_office,The UPS Store,-95.13302,29.54477
-368160787,2002,fire_station,Houston Fire Department Station 70,-95.22912,29.60194
-368162367,2001,police,Houston Police Department - Telephone Road,-95.28492,29.61936
-368160748,2002,fire_station,Alief Community Volunteer Fire Department,-95.66763,29.70048
-368160759,2002,fire_station,West I - 10 Volunteer Fire Department Station 2,-95.72956,29.77388
-3905211333,2005,post_office,The UPS Store,-95.71949,29.79265
-368161112,2002,fire_station,Rosehill Fire Department,-95.71779,30.08058
-368161119,2002,fire_station,Cy - Fair Volunteer Fire Department Station 7,-95.73764,29.99244
-368160752,2002,fire_station,Channelview Volunteer Fire Department Station 1,-95.11425,29.77724
-368160903,2002,fire_station,Sheldon Community Volunteer Fire / Rescue Station 2,-95.13659,29.85845
-368160928,2002,fire_station,Galena Park Fire Department Station 2,-95.21383,29.75782
-368161126,2002,fire_station,Channelview Volunteer Fire Department Station 2,-95.11897,29.7889
-368161127,2002,fire_station,Cloverleaf Volunteer Fire Department Station 2,-95.19219,29.80567
-368161128,2002,fire_station,Cloverleaf Fire Department Station 1,-95.17149,29.7791
-368161197,2002,fire_station,Houston Fire Department Station 53,-95.18693,29.77601
-368161204,2002,fire_station,Houston Fire Department Station 44,-95.21809,29.7781
-368161252,2002,fire_station,Channelview Volunteer Fire Department Station 3,-95.14004,29.7895
-368161263,2002,fire_station,Channelview Volunteer Fire Department,-95.1141,29.7767
-368161335,2002,fire_station,Houston Fire Station Number 53,-95.187,29.77603
-368161400,2002,fire_station,Sheldon Community Volunteer Fire and Rescue Station,-95.139,29.8571
-368162289,2001,police,Harris County Sheriff's Office,-95.19401,29.80639
-6179300866,2005,post_office,,-95.12534,29.78187
-368160719,2002,fire_station,Klein Volunteer Fire Department Station 2,-95.49073,29.99357
-368160771,2002,fire_station,Ponderosa Volunteer Fire Department,-95.45475,30.01421
-368160776,2002,fire_station,Champions Volunteer Fire Department,-95.51086,29.97745
-368161111,2002,fire_station,Klein Volunteer Fire Department Station 7,-95.50447,30.03825
-368161198,2002,fire_station,Houston Fire Department Station 54,-95.36947,29.99366
-368162294,2001,police,Harris County Sheriff's Office - Constable Precinct 4,-95.51146,30.01178
-1799737985,2002,fire_station,,-95.48163,30.04447
-368161228,2002,fire_station,Houston Fire Department Station 93,-95.18053,29.5899
-368161267,2002,fire_station,Southeast Volunteer Fire Department,-95.1975,29.5866
-1146654488,2002,fire_station,Southeast Volunteer Fire Department,-95.21628,29.5816
-1146654555,2099,public_building,South Belt-Ellington Chamber of Commerce,-95.21649,29.58126
-368161118,2002,fire_station,Cy - Fair Volunteer Fire Department Station 8,-95.68744,29.88031
-5816033778,2005,post_office,United States Post Office,-95.68452,29.88216
-356866844,2005,post_office,Humble Post Office,-95.2531,29.9988
-368160522,2009,courthouse,Harris County Courthouse Annex,-95.2643,30.0033
-368160715,2002,fire_station,Humble Fire Marshal's Office,-95.26704,29.99911
-368161232,2002,fire_station,Houston Fire Department Station 101,-95.2277,30.05161
-368161246,2002,fire_station,Houston Fire Department Station 104,-95.23857,30.02938
-368161434,2002,fire_station,Humble City Fire Department,-95.26765,29.99936
-368161435,2002,fire_station,Humble Fire Station,-95.26751,29.99933
-368162117,2007,library,Humble Library,-95.2664,29.9987
-368162451,2001,police,Humble City Police Department,-95.26649,30.00063
-368162528,2008,town_hall,Humble City Hall,-95.2683,29.99956
-368161294,2002,fire_station,Harris County Rural Fire Prevention District Number 20 Fire Station,-95.50629,29.92504
-356866870,2005,post_office,Spring Valley Post Office,-95.4927,29.8016
-368161070,2002,fire_station,Houston Fire Department Station 38,-95.46774,29.79019
-368161096,2002,fire_station,Houston Fire Department Station 13,-95.45132,29.83224
-368161209,2002,fire_station,Houston Fire Department Station 66,-95.53989,29.85197
-368161236,2002,fire_station,Houston Fire Department Station 77,-95.54382,29.82235
-368161280,2002,fire_station,City of Piney Point Village Fire Department,-95.5129,29.7821
-368161300,2002,fire_station,Houston Fire Station Number 38,-95.4677,29.79019
-368162268,2001,police,Houston Police Department - Spring Branch,-95.49618,29.80348
-368162324,2001,police,Houston Police Department - Northwest Patrol,-95.53971,29.85706
-368162363,2001,police,Houston Police Department - North Patrol,-95.44674,29.87932
-368162432,2001,police,Spring Valley Police Department,-95.51533,29.78819
-368162459,2001,police,Hedwig Village Police Department,-95.51043,29.7829
-2873198538,2008,town_hall,Hunters Creek Village City Hall,-95.50525,29.77894
-5249115719,2007,library,Ring Public Library,-95.50803,29.80263
-6299359103,2005,post_office,,-95.48768,29.80346
-368160976,2002,fire_station,West I - 10 Volunteer Fire Department Station 5,-95.7204,29.82777
-368162320,2001,police,Harris County Sheriff's Office,-95.71878,29.80242
-368162305,2001,police,Houston Police Department - Near Town,-95.38989,29.74501
-368160749,2002,fire_station,Little York Fire Department,-95.40158,29.90715
-368160886,2002,fire_station,Aldine Community Fire Department,-95.37335,29.93376
-368161212,2002,fire_station,Houston Fire Department Station 67,-95.43605,29.86375
-368161217,2002,fire_station,Houston Fire Department Station 58,-95.3835,29.85708
-368161226,2002,fire_station,Houston Fire Department Station 64,-95.34207,29.9509
-368161238,2002,fire_station,Houston Fire Department Station 74,-95.39154,29.93159
-368161295,2002,fire_station,Harris County Fire Department,-95.3957,29.9412
-368161436,2002,fire_station,Houston Fire Station Number 74,-95.3922,29.9323
-368161440,2002,fire_station,Little York Volunteer Fire Department,-95.4001,29.8894
-368162001,2007,library,Aldine Library,-95.40762,29.92075
-368162254,2001,police,Houston Police Department - Acres Home,-95.42168,29.85748
-368162256,2001,police,Houston Police Department - Aldine Community,-95.41131,29.92427
-368162354,2001,police,Houston Police Department - Greenspoint,-95.41216,29.94483
-368162493,2001,police,Houston Police Department - Northline,-95.39078,29.86715
-4117023678,2007,library,Shepard-Acres Homes Neighborhood Library,-95.43728,29.87094
-368160694,2002,fire_station,Cy - Fair Volunteer Fire Department Station 5,-95.64257,29.83942
-368160756,2002,fire_station,Cy - Fair Volunteer Fire Department Station 9,-95.63936,29.89249
-368161288,2002,fire_station,Cy Fair Volunteer Fire Department,-95.63955,29.89239
-368160634,2002,fire_station,City of Southside Place Fire Department,-95.43359,29.71466
-368161101,2002,fire_station,Houston Fire Department Station 3,-95.43828,29.73789
-368161110,2002,fire_station,West University Place Fire Department,-95.43805,29.71496
-368162292,2001,police,Southside Place Police Department,-95.43345,29.71466
-1810485617,2005,post_office,US Post Office,-95.44287,29.724
-1810677765,2005,post_office,US Post Office,-95.43696,29.7393
-2571540811,2008,town_hall,West University City Hall,-95.43771,29.71495
-2615064417,2008,town_hall,Southside Place City Hall,-95.43366,29.71472
-4470781389,2005,post_office,The UPS Store,-95.42546,29.74246
-4570893047,2005,post_office,The UPS Store,-95.41623,29.72522
-1128966918,2002,fire_station,CY-Fair VFD Station 11,-95.69682,29.90818
-1128969435,2007,library,"Harris County Public Library, CyFair branch",-95.69237,29.91004
-2433577815,2002,fire_station,Cy-Fair Volunteer Fire Department Communications Center,-95.68096,29.9093
-368161076,2002,fire_station,Houston Fire Department Station 28,-95.47688,29.73385
-368161214,2002,fire_station,Houston Fire Department Station 69,-95.55872,29.75096
-368162005,2007,library,Atascocita Library,-95.15424,30.00459
-368162475,2001,police,Houston Police Department - Lake Houston,-95.11376,30.00371
-4113059993,2005,post_office,The UPS Store,-95.18146,30.04993
-368161207,2002,fire_station,Houston Fire Department Station 47,-95.41366,29.63172
-5604621748,2005,post_office,The UPS Store,-95.41179,29.69352
-356866823,2005,post_office,Baytown Post Office,-95.0013,29.7274
-368160269,2001,police,Baytown Area Crime Prevention Office,-94.96995,29.73385
-368160519,2009,courthouse,Harris County Courthouse,-94.9711,29.7687
-368160626,2002,fire_station,Highlands Volunteer Fire Department Station 2,-95.02725,29.81971
-368160649,2002,fire_station,Crosby Fire Department Station 1,-95.0647,29.90729
-368160753,2002,fire_station,Baytown Fire and Rescue Services,-94.96464,29.75535
-368160765,2002,fire_station,La Porte Fire Department Station 1,-95.02161,29.66429
-368160788,2002,fire_station,McNair Volunteer Fire Department,-95.02164,29.80275
-368160950,2002,fire_station,Baytown Fire Department Station 1,-94.97807,29.77663
-368160951,2002,fire_station,Baytown Fire Department Station 2,-94.9966,29.7289
-368160952,2002,fire_station,Baytown Fire Department Station 3,-94.92737,29.76749
-368160953,2002,fire_station,Baytown Fire Department Station 4,-94.95478,29.73543
-368160954,2002,fire_station,Baytown Fire Department Station 5,-95.03156,29.77075
-368160982,2002,fire_station,Highlands Volunteer Fire Department Station 1,-95.05809,29.81567
-368161254,2002,fire_station,La Porte Fire Department Station 2,-95.08581,29.66396
-368161269,2002,fire_station,City of La Porte Fire Department,-95.0253,29.6518
-368161271,2002,fire_station,City of Morgans Point Fire Department,-95.0067,29.6714
-368161293,2002,fire_station,Highlands Volunteer Fire Department,-95.0261,29.8193
-368161912,2007,library,Crosby Branch Library,-95.067,29.92086
-368161949,2007,library,Crosby Library,-95.0634,29.9207
-368161997,2007,library,Stratford Park Library,-95.062,29.8211
-368162255,2001,police,Baytown Police Department,-94.96311,29.75619
-368162290,2001,police,Morgans Point Police Department,-95.00621,29.67251
-368162302,2001,police,Baytown Police Department - Training,-94.96888,29.73007
-368162343,2001,police,La Porte Police Department,-95.02707,29.65396
-368162469,2001,police,La Porte City Marshal's Office,-95.02702,29.65453
-368162498,2001,police,Baytown Police Department Substation,-95.0075,29.73104
-368162535,2008,town_hall,Baytown City Hall,-94.996,29.7279
-368162537,2008,town_hall,Morgans Point City Hall,-95.00665,29.67205
-368162674,2001,police,Baytown Police Station,-95.0006,29.7273
-368162738,2099,public_building,Baytown Department of Public Safety,-95.0322,29.7808
-2615032500,2007,library,Advanced Technology Center & Library,-94.9773,29.73297
-2615032532,2007,library,Sterling Municipal Library,-94.97985,29.7367
-6269418548,2002,fire_station,,-94.98613,29.80658
-368160461,2002,fire_station,Houston Fire Department Station 9,-95.36045,29.77623
-368160494,2009,courthouse,Harris County Courthouse,-95.35883,29.76051
-368160511,2009,courthouse,Harris County Criminal Courts 1 - 15,-95.35762,29.76201
-368160516,2009,courthouse,Harris County Courthouse Annex,-95.35734,29.76077
-368162263,2001,police,Harris County Sheriff's Office,-95.35693,29.76436
-368162312,2001,police,Houston Police Department - Ana Maria Lopez,-95.35867,29.78197
-368162315,2001,police,Harris County Sheriff's Office,-95.3573,29.76281
-368162330,2001,police,Houston Police Department - Headquarters,-95.36745,29.75589
-368162359,2001,police,Harris County Sheriff's Office - Economic Crime,-95.35772,29.76208
-368162701,2001,police,Harris County Sheriff's Office,-95.35684,29.76168
-368162786,2099,public_building,United States Customhouse,-95.36151,29.75765
-4322627983,2007,library,HPL Express,-95.35954,29.75341
-5907104488,2005,post_office,United States Post Office,-95.36328,29.75621
-368161230,2002,fire_station,Houston Fire Department Station 86,-95.63784,29.75629
-368161231,2002,fire_station,Houston Fire Department Station 90,-95.66949,29.78893
-368161234,2002,fire_station,Houston Fire Department Station 96,-95.54079,29.96968
-368162361,2001,police,Houston Police Department - Willowbrook,-95.53861,29.9578
+osm_id,code,fclass,name,point_x,point_y,lon,lat
+356798605,2082,school,Cunningham Middle School,-95.2007926000,29.8023783000,-95.20079,29.80238
+356802183,2082,school,James B Havard Elementary School,-95.1954887000,29.8060592000,-95.19549,29.80606
+356802683,2082,school,Endeavor Schools,-95.1247883000,29.7914287000,-95.12479,29.79143
+356804826,2082,school,Tice Elementary School,-95.1994197000,29.8040537000,-95.19942,29.80405
+356805089,2082,school,Sterling High School - Goosecreek,-94.9665937000,29.7699481000,-94.96659,29.76995
+356866950,2082,school,Baytown Christian Academy,-94.9711000000,29.7779000000,-94.9711,29.7779
+4139523819,2402,motel,Budget Lodge Channelview,-95.0938921000,29.7899036000,-95.09389,29.7899
+4139523820,2402,motel,Texas Inn Channelview,-95.0972492000,29.7890261000,-95.09725,29.78903
+4139523822,2402,motel,Americas Best Value Inn & Suites - Channelview / Houston,-95.1189275000,29.7808543000,-95.11893,29.78085
+4139523823,2402,motel,The Grand Inn,-95.1206406000,29.7800948000,-95.12064,29.78009
+4139523824,2402,motel,Traveler's Inn & Suites,-95.1219100000,29.7798274000,-95.12191,29.77983
+4139523826,2402,motel,Luxury Inn,-95.1206282000,29.7763295000,-95.12063,29.77633
+4139523827,2402,motel,Days Inn & Suites Houston Channelview,-95.1267041000,29.7783405000,-95.1267,29.77834
+4139523828,2402,motel,Scottish Inns Suites Channelview,-95.1264946000,29.7768537000,-95.12649,29.77685
+4139523829,2402,motel,Palace Inn - Channelview,-95.1289717000,29.7777522000,-95.12897,29.77775
+4139523830,2402,motel,Parkway Inn,-95.1318679000,29.7769606000,-95.13187,29.77696
+4139523831,2402,motel,Clarion Inn,-95.1435512000,29.7744468000,-95.14355,29.77445
+4139523832,2402,motel,Interstate Motor Lodge,-95.1918686000,29.7718105000,-95.19187,29.77181
+4139523833,2402,motel,La Quinta Inn & Suites Houston - Normandy,-95.2069677000,29.7729327000,-95.20697,29.77293
+4139523834,2402,motel,Scottish Inns & Suites - I10 East,-95.2091136000,29.7702853000,-95.20911,29.77029
+4139523835,2402,motel,Super 8 Houston/I-10/Federal Road,-95.2126488000,29.7682341000,-95.21265,29.76823
+4139523836,2402,motel,Lamplight Inn,-95.2147924000,29.7695353000,-95.21479,29.76954
+4139523837,2402,motel,Comfort Inn East,-95.2190000000,29.7715986000,-95.219,29.7716
+4139523839,2402,motel,Red Roof Inn Houston East,-95.2252765000,29.7725512000,-95.22528,29.77255
+4139523840,2402,motel,Palace Inn I-10 East,-95.2375212000,29.7745091000,-95.23752,29.77451
+4139523841,2402,motel,Days Inn Houston East,-95.2381610000,29.7745091000,-95.23816,29.77451
+4729483895,2303,cafe,Starbucks,-94.9782478000,29.7740419000,-94.97825,29.77404
+5315602252,2501,supermarket,Walmart Supercenter,-95.1771043000,29.7680323000,-95.1771,29.76803
+5594780480,2501,supermarket,H-E-B,-94.9798488000,29.7954533000,-94.97985,29.79545
+6269418370,2303,cafe,Starbucks,-94.9829575000,29.8051981000,-94.98296,29.8052
+6269418504,2402,motel,Motel 6 Baytown,-94.9848498000,29.8048667000,-94.98485,29.80487
+6269418633,2402,motel,Palacr Inn Baytown,-94.9782838000,29.8046833000,-94.97828,29.80468
+6273821821,2402,motel,Super 8 by Wyndham Baytown,-95.0292113000,29.7994939000,-95.02921,29.79949
+6348452454,2303,cafe,,-94.9785077000,29.7795938000,-94.97851,29.77959
+6348458727,2110,hospital,,-94.9772082000,29.7815725000,-94.97721,29.78157
+6348472318,2501,supermarket,Aldi Nord,-94.9793580000,29.7834931000,-94.97936,29.78349
+356865589,2081,university,The University of Texas Health Science Center,-95.4031517000,29.7029914000,-95.40315,29.70299
+1975476340,2303,cafe,Starbucks,-95.4012266000,29.7096388000,-95.40123,29.70964
+1975596439,2110,hospital,Texas Heart Institute - Denton A. Cooley Building,-95.3994190000,29.7079305000,-95.39942,29.70793
+2408157598,2303,cafe,Starbucks,-95.4403670000,29.7054600000,-95.44037,29.70546
+2678647060,2402,motel,Candlewood Suites Houston Medical Center,-95.4263210000,29.6758237000,-95.42632,29.67582
+4259049650,2081,university,Michael E. Debakey Center,-95.3959487000,29.7114271000,-95.39595,29.71143
+4259049651,2081,university,Cullen Building,-95.3964142000,29.7106671000,-95.39641,29.71067
+4259086218,2110,hospital,Texas Children's Hospital,-95.4008326000,29.7077811000,-95.40083,29.70778
+4288727593,2303,cafe,Pinewood Cafe,-95.3898787000,29.7173958000,-95.38988,29.7174
+4289825235,2303,cafe,Cypress Circle Café,-95.3918059000,29.7136167000,-95.39181,29.71362
+4317541824,2303,cafe,Starbucks,-95.4174337000,29.7156518000,-95.41743,29.71565
+4370711277,2402,motel,Raintree Inn & Suites,-95.4347151000,29.6785267000,-95.43472,29.67853
+4473446250,2012,community_centre,West University Community Building and Senior Center,-95.4377206000,29.7166198000,-95.43772,29.71662
+5604621733,2303,cafe,Starbucks,-95.4151656000,29.6959048000,-95.41517,29.6959
+5604621795,2303,cafe,Starbucks,-95.4185697000,29.6929428000,-95.41857,29.69294
+6204461289,2303,cafe,Twiga Café,-95.3925345000,29.7123409000,-95.39253,29.71234
+6204461382,2303,cafe,Albert and Hazel Herzstein Trading Post,-95.3919725000,29.7116711000,-95.39197,29.71167
+6496768936,2303,cafe,Starbucks,-95.4249877000,29.7048865000,-95.42499,29.70489
+356702796,2082,school,Corpus Christi School,-95.4413296000,29.6746755000,-95.44133,29.67468
+356718805,2082,school,Pilgrim School,-95.4752194000,29.6880087000,-95.47522,29.68801
+356801925,2082,school,Jumpstart Academy,-95.4732750000,29.6696759000,-95.47328,29.66968
+356802414,2082,school,Gulf Shores Alternative School,-95.4666867000,29.6554009000,-95.46669,29.6554
+356804714,2082,school,Wyndam Charter School,-95.4671377000,29.6554380000,-95.46714,29.65544
+356805439,2082,school,Parker Elementary School,-95.4828433000,29.6656209000,-95.48284,29.66562
+1573661275,2082,school,Robert M. Beren Academy,-95.4522030000,29.6541298000,-95.4522,29.65413
+2051347349,2303,cafe,Starbucks,-95.4621141000,29.6888717000,-95.46211,29.68887
+2819459101,2110,hospital,Menninger Clinic,-95.4567128000,29.6497083000,-95.45671,29.64971
+4251878623,2501,supermarket,Joe V's Smart Shop,-95.4775703000,29.6078877000,-95.47757,29.60789
+4711368241,2303,cafe,Berripop Frozen Yogurt,-95.4621051000,29.6887698000,-95.46211,29.68877
+6503285221,2082,school,Grace Episcopal Church School & Office Entrance,-95.4440319000,29.6737840000,-95.44403,29.67378
+356799265,2082,school,Academy of Houston,-95.5254509000,29.6793701000,-95.52545,29.67937
+356802113,2082,school,Impact Charter School,-95.5010537000,29.6382882000,-95.50105,29.63829
+356802620,2082,school,Girls and Boys Prep Academy,-95.5251977000,29.6560201000,-95.5252,29.65602
+356804887,2082,school,Valley West Elementary School,-95.5265616000,29.6635791000,-95.52656,29.66358
+356866906,2082,school,Westbury Christian School,-95.4943120000,29.6677319000,-95.49431,29.66773
+498326886,2303,cafe,Caribbean Cuisine,-95.5125031000,29.6841587000,-95.5125,29.68416
+2408012587,2501,supermarket,Foodarama,-95.4913350000,29.6875540000,-95.49134,29.68755
+2752822192,2501,supermarket,Food Town,-95.5076660000,29.6740230000,-95.50767,29.67402
+2802443617,2082,school,The Shlenker School,-95.4885031000,29.6774948000,-95.4885,29.67749
+3275418261,2501,supermarket,Fiesta,-95.5300380000,29.6723340000,-95.53004,29.67233
+4138933721,2402,motel,Plainfield Inn Southwest,-95.5464007000,29.6733389000,-95.5464,29.67334
+4138933722,2402,motel,America's Inn,-95.5552456000,29.6650368000,-95.55525,29.66504
+4138933725,2402,motel,Comfort Inn Southwest Fwy,-95.5649746000,29.6559612000,-95.56497,29.65596
+5315598265,2501,supermarket,Walmart Neighborhood Market,-95.5300230000,29.6570060000,-95.53002,29.65701
+5315598852,2501,supermarket,Walmart Supercenter,-95.5613180000,29.6792670000,-95.56132,29.67927
+5872004370,2082,school,Kipp SHINE Prep,-95.5656443000,29.6700546000,-95.56564,29.67005
+356860103,2082,school,Lord of Life Lutheran School,-95.1839998000,29.5513010000,-95.184,29.5513
+3128789603,2501,supermarket,Hong Kong Market,-95.2133754000,29.5863444000,-95.21338,29.58634
+4139503012,2402,motel,Studio 6 Houston-Hobby,-95.2132652000,29.6165960000,-95.21327,29.6166
+356749553,2082,school,Elmore High School,-95.2752130000,29.8093928000,-95.27521,29.80939
+356749763,2082,school,Hilliard School,-95.2846575000,29.8224480000,-95.28466,29.82245
+356750120,2082,school,McReynolds Junior High School,-95.3118810000,29.7718942000,-95.31188,29.77189
+356750302,2082,school,Our Mother of Mercy School,-95.3291037000,29.7805051000,-95.3291,29.78051
+356750404,2082,school,Resurrection School,-95.3024363000,29.7718941000,-95.30244,29.77189
+356750517,2082,school,Saint Francis of Assisi School,-95.3102140000,29.8060597000,-95.31021,29.80606
+356750641,2082,school,Settegast School,-95.2768797000,29.8088373000,-95.27688,29.80884
+356750681,2082,school,Smith Junior High School,-95.3354928000,29.7766163000,-95.33549,29.77662
+356797671,2082,school,Elmore Middle School,-95.2760463000,29.8102261000,-95.27605,29.81023
+356798732,2082,school,Mickey Leland College Preparatory Academy for Young Men,-95.3344605000,29.7770716000,-95.33446,29.77707
+356798991,2082,school,Crawford Elementary School,-95.3418819000,29.7746719000,-95.34188,29.77467
+356799014,2082,school,Barbara Jordan High School,-95.3329170000,29.8147368000,-95.33292,29.81474
+356801383,2082,school,McCardell Academy,-95.3418819000,29.7718943000,-95.34188,29.77189
+356801390,2082,school,McDade Elementary School;Kashmere Gardens High School,-95.3302428000,29.8123157000,-95.33024,29.81232
+356801428,2082,school,McReynolds Middle School,-95.3118757000,29.7721160000,-95.31188,29.77212
+356801468,2082,school,Langston Early Child Development Center,-95.3413918000,29.7830302000,-95.34139,29.78303
+356801615,2082,school,Key Middle School,-95.3263818000,29.8137899000,-95.32638,29.81379
+356802075,2082,school,Houston Gardens Elementary School,-95.3010915000,29.8206940000,-95.30109,29.82069
+356802292,2082,school,Hilliard Elementary School,-95.2843798000,29.8221702000,-95.28438,29.82217
+356802421,2082,school,H P Carter High School,-95.3360483000,29.7763386000,-95.33605,29.77634
+356805339,2082,school,Scott Elementary School,-95.3305850000,29.7910935000,-95.33058,29.79109
+356805596,2082,school,Oates Elementary School,-95.2560459000,29.7932822000,-95.25605,29.79328
+4139523842,2402,motel,Hampton Inn Houston I-10 East,-95.2436343000,29.7757130000,-95.24363,29.77571
+4139523843,2402,motel,Premier Inn,-95.2441246000,29.7744483000,-95.24412,29.77445
+4139523844,2402,motel,Quality Inn,-95.2482622000,29.7748942000,-95.24826,29.77489
+4139523845,2402,motel,Motel 7,-95.2485658000,29.7744118000,-95.24857,29.77441
+4139538000,2402,motel,Super 8 Houston/Downtown/I-610,-95.3006502000,29.8085116000,-95.30065,29.80851
+4139538032,2402,motel,Scottish Inn & Suites Houston - Eastex Freeway,-95.3389590000,29.7995685000,-95.33896,29.79957
+5654070247,2303,cafe,Taqueria El Zocalo,-95.3355116000,29.7678707000,-95.33551,29.76787
+5734612280,2303,cafe,Ortega's Kitchen,-95.3407397000,29.7665767000,-95.34074,29.76658
+356749338,2082,school,Christ the King School,-95.3791022000,29.7945551000,-95.3791,29.79456
+356750436,2082,school,Robert Browning School,-95.3785493000,29.7968937000,-95.37855,29.79689
+356799179,2082,school,Browning Elementary School,-95.3779938000,29.7963381000,-95.37799,29.79634
+3494238594,2402,motel,Western Inn Motel,-95.3792150000,29.8133960000,-95.37922,29.8134
+3494239593,2402,motel,Texan Inn,-95.3806920000,29.8236720000,-95.38069,29.82367
+3512738587,2303,cafe,Antidote,-95.3880224000,29.7848946000,-95.38802,29.78489
+4138765936,2402,motel,Sleep Inn & Suites,-95.3726179000,29.7943379000,-95.37262,29.79434
+7061920104,2084,college,Culinary Institute LeNotre,-95.3786564000,29.8235936000,-95.37866,29.82359
+356750557,2082,school,Saint Rose of Lima School,-95.4152169000,29.8199487000,-95.41522,29.81995
+2699368507,2501,supermarket,Kroger,-95.4112065000,29.7896319000,-95.41121,29.78963
+4040988420,2303,cafe,Maryam's Cafe,-95.4020801000,29.8030540000,-95.40208,29.80305
+4040988422,2303,cafe,Boomtown Coffee,-95.4006728000,29.8026862000,-95.40067,29.80269
+4592400303,2501,supermarket,Fortune One Foods,-95.4159097000,29.8020916000,-95.41591,29.80209
+4842212281,2501,supermarket,Aldi,-95.4097761000,29.8229583000,-95.40978,29.82296
+6013901458,2303,cafe,EQ Heights,-95.3973305000,29.7901016000,-95.39733,29.7901
+6252570645,2501,supermarket,H-E-B,-95.4088622000,29.8073613000,-95.40886,29.80736
+6252667381,2501,supermarket,Kroger,-95.4004585000,29.8045727000,-95.40046,29.80457
+6296940101,2303,cafe,The Roastery,-95.4087129000,29.8071647000,-95.40871,29.80716
+6558728505,2303,cafe,Tea + Victory,-95.4266982000,29.8042551000,-95.4267,29.80426
+6597813470,2303,cafe,Green Earth,-95.4097660000,29.8081635000,-95.40977,29.80816
+7079442786,2501,supermarket,Whole Foods Market,-95.3981434000,29.8137026000,-95.39814,29.8137
+7294887688,2501,supermarket,Speedy Mart,-95.4305157000,29.8019686000,-95.43052,29.80197
+4138826038,2402,motel,Scottish Inns & Suites-Jones Road,-95.5850813000,29.9386775000,-95.58508,29.93868
+4369183341,2402,motel,Motel 6,-95.5736027000,29.8850236000,-95.5736,29.88502
+5272957059,2303,cafe,Southern Maid Donuts,-95.5852699000,29.9260836000,-95.58527,29.92608
+7161448227,2083,kindergarten,Kolbe Kids’ Early Childhood Program,-95.5696685000,29.9087573000,-95.56967,29.90876
+523556850,2303,cafe,Starbucks,-95.6457840000,29.8761934000,-95.64578,29.87619
+523558657,2501,supermarket,Food Town,-95.6488309000,29.8779870000,-95.64883,29.87799
+523559953,2303,cafe,Ice Valley Boba Smoothies,-95.6316004000,29.9052530000,-95.6316,29.90525
+1129005658,2083,kindergarten,Children's Courtyard,-95.6574503000,29.8964047000,-95.65745,29.8964
+1150382727,2303,cafe,Starbucks,-95.6163045000,29.9158378000,-95.6163,29.91584
+3306996261,2501,supermarket,Walmart Supercenter,-95.6022495000,29.9199442000,-95.60225,29.91994
+5250817429,2084,college,Regency Beauty Institute,-95.6468179000,29.8720784000,-95.64682,29.87208
+5254071885,2303,cafe,Shipley's Do-Nuts,-95.6447918000,29.8715761000,-95.64479,29.87158
+6489805696,2303,cafe,Starbucks,-95.6470067000,29.8775032000,-95.64701,29.8775
+7161431511,2082,school,Saint Elizabeth Ann Seton Catholic School,-95.6313156000,29.8732666000,-95.63132,29.87327
+7161431527,2083,kindergarten,Saint Elizabeth Educational Day-Out Services,-95.6304280000,29.8729438000,-95.63043,29.87294
+5315598025,2501,supermarket,Walmart Neighborhood Market,-95.6805790000,29.9423800000,-95.68058,29.94238
+356709720,2082,school,Lanier Junior High School,-95.4050875000,29.7419184000,-95.40509,29.74192
+356802082,2082,school,Houston Middle College for Technology,-95.4024393000,29.7343958000,-95.40244,29.7344
+356866968,2082,school,Center For Advanced Legal Studies,-95.4193000000,29.7313000000,-95.4193,29.7313
+566210107,2303,cafe,Brasil,-95.4022465000,29.7426427000,-95.40225,29.74264
+566210425,2303,cafe,Empire Cafe,-95.4034910000,29.7429632000,-95.40349,29.74296
+1455044828,2303,cafe,Black Hole,-95.3949424000,29.7324611000,-95.39494,29.73246
+1474266873,2303,cafe,Starbucks,-95.4172782000,29.7610848000,-95.41728,29.76108
+2180261965,2501,supermarket,Trader Joe's,-95.4111693000,29.7392004000,-95.41117,29.7392
+2458410344,2303,cafe,Starbucks,-95.4104520000,29.7404900000,-95.41045,29.74049
+2509551201,2303,cafe,Corner Bakery Cafe,-95.4198259000,29.7297034000,-95.41983,29.7297
+2627543679,2402,motel,Extended Stay America,-95.4146260000,29.7317950000,-95.41463,29.7318
+2840975401,2303,cafe,Brasserie 19,-95.4073494000,29.7534120000,-95.40735,29.75341
+3379727224,2303,cafe,Bacchus Winebar & Coffee Shop,-95.4022653000,29.7436054000,-95.40227,29.74361
+4035541824,2303,cafe,Common Bond,-95.4022540000,29.7429683000,-95.40225,29.74297
+4736456635,2303,cafe,The Teahouse,-95.4198090000,29.7617654000,-95.41981,29.76177
+5902127550,2504,mall,Shops at Arrive,-95.4192897000,29.7408928000,-95.41929,29.74089
+6496742448,2083,kindergarten,House at Pooh Corner,-95.4221351000,29.7406393000,-95.42214,29.74064
+356798875,2082,school,Cherry Street School,-95.6153498000,30.0951041000,-95.61535,30.0951
+763424822,2303,cafe,Starbucks,-95.5541356000,30.0340075000,-95.55414,30.03401
+1184643083,2501,supermarket,Kroger,-95.6342684000,30.0920482000,-95.63427,30.09205
+1748702815,2501,supermarket,H-E-B,-95.5273282000,30.0222294000,-95.52733,30.02223
+2605582194,2303,cafe,Starbucks,-95.6215914000,29.9943774000,-95.62159,29.99438
+2606379766,2303,cafe,Starbucks,-95.5437566000,29.9641186000,-95.54376,29.96412
+2615158230,2014,arts_centre,Vino Artino,-95.5919098000,29.9971390000,-95.59191,29.99714
+3203992082,2501,supermarket,Kroger,-95.5527100000,30.1145981000,-95.55271,30.1146
+3353169580,2501,supermarket,Walmart Supercenter,-95.6249321000,30.0758191000,-95.62493,30.07582
+4138826036,2402,motel,Super 8 Houston,-95.5592725000,29.9700402000,-95.55927,29.97004
+4398172561,2501,supermarket,H-E-B,-95.6389875000,30.0030358000,-95.63899,30.00304
+5260570955,2303,cafe,Starbucks,-95.5729299000,29.9964332000,-95.57293,29.99643
+5315598276,2501,supermarket,Walmart Supercenter,-95.5506000000,30.1343000000,-95.5506,30.1343
+6078588223,2110,hospital,Copas Dental,-95.6335324000,30.0889496000,-95.63353,30.08895
+6299518385,2501,supermarket,H-E-B,-95.5770341000,30.0537494000,-95.57703,30.05375
+6970641071,2012,community_centre,The Lodge,-95.6547314000,30.0546517000,-95.65473,30.05465
+5315600799,2501,supermarket,Walmart Supercenter,-95.2834870000,30.0090010000,-95.28349,30.009
+7671696273,2303,cafe,Galaxy Smoothies & Nutritional Supplements,-95.2642493000,30.0041639000,-95.26425,30.00416
+7708367452,2110,hospital,Townsen Memorial Hospital,-95.2524779000,30.0049125000,-95.25248,30.00491
+7748134968,2402,motel,Regency Inn & Suites,-95.2694276000,29.9804397000,-95.26943,29.98044
+356750128,2082,school,Memorial Hall School,-95.5110530000,29.7988387000,-95.51105,29.79884
+356750478,2082,school,Saint Cecilias School,-95.5299426000,29.7788394000,-95.52994,29.77884
+356750481,2082,school,Saint Christopher School,-95.5235534000,29.8035608000,-95.52355,29.80356
+356750700,2082,school,Spring Branch High School,-95.5113309000,29.7955055000,-95.51133,29.79551
+356805034,2082,school,Spring Branch Education Center,-95.5112740000,29.7945066000,-95.51127,29.79451
+356805047,2082,school,Spring Branch School of Choice,-95.5114553000,29.7947554000,-95.51146,29.79476
+1301295040,2303,cafe,Starbucks,-95.5502480000,29.7664913000,-95.55025,29.76649
+1301298561,2501,supermarket,Rice Epicurean Market,-95.5515031000,29.7670296000,-95.5515,29.76703
+2661033422,2501,supermarket,El Ahorro,-95.5232432000,29.8225916000,-95.52324,29.82259
+2662073553,2501,supermarket,Thang Hung Food Market,-95.5249442000,29.8210878000,-95.52494,29.82109
+3939540377,2402,motel,,-95.5285216000,29.7832146000,-95.52852,29.78321
+4561043613,2501,supermarket,Seller's Brothers,-95.5256538000,29.8105410000,-95.52565,29.81054
+5027253422,2012,community_centre,Chinese Baptist Church,-95.5049603000,29.7817996000,-95.50496,29.7818
+5463200761,2501,supermarket,Nourish Market,-95.5209816000,29.7911983000,-95.52098,29.7912
+356799161,2082,school,Bridge High School,-95.4804971000,29.7299518000,-95.4805,29.72995
+473637075,2303,cafe,Starbucks,-95.4751697000,29.7312977000,-95.47517,29.7313
+815022059,2303,cafe,Starbucks,-95.4606060000,29.7412300000,-95.46061,29.74123
+4377349307,2501,supermarket,Whole Foods Market,-95.4618721000,29.7495946000,-95.46187,29.74959
+4870638521,2303,cafe,Starbucks,-95.4665679000,29.7410211000,-95.46657,29.74102
+5717920201,2082,school,Mandarin Immersion Magnet School,-95.4725215000,29.7372086000,-95.47252,29.73721
+6437114364,2303,cafe,Merchant,-95.4601018000,29.7493836000,-95.4601,29.74938
+7207414753,2303,cafe,Starbucks,-95.4662733000,29.7490213000,-95.46627,29.74902
+7212933124,2303,cafe,Coffee Mill,-95.4762218000,29.7375031000,-95.47622,29.7375
+356750147,2082,school,Messiah School,-95.4129950000,29.7685614000,-95.413,29.76856
+3136604734,2303,cafe,Starbucks,-95.3983383000,29.7747678000,-95.39834,29.77477
+3235574907,2303,cafe,CoCos Crepes,-95.4183400000,29.7703853000,-95.41834,29.77039
+4040988397,2303,cafe,Chatter's Cafe & Bistro,-95.3976559000,29.7681823000,-95.39766,29.76818
+5218653931,2303,cafe,Cafeza,-95.3722101000,29.7736059000,-95.37221,29.77361
+5693008293,2303,cafe,The Yellow Cup,-95.4220598000,29.7707362000,-95.42206,29.77074
+5744444930,2303,cafe,Catalina Coffee,-95.3806434000,29.7680138000,-95.38064,29.76801
+6840644122,2501,supermarket,H-E-B,-95.3966702000,29.7688019000,-95.39667,29.7688
+7154907620,2303,cafe,Starbucks,-95.3850808000,29.7744169000,-95.38508,29.77442
+7326464557,2303,cafe,Starbucks,-95.4108986000,29.7765090000,-95.4109,29.77651
+3494233094,2402,motel,Gulf Wind Motel,-95.4129720000,29.8848680000,-95.41297,29.88487
+4138765916,2402,motel,Knights Inn Houston,-95.4156283000,29.9508532000,-95.41563,29.95085
+4138765926,2402,motel,Greenchase Inn,-95.4129875000,29.9044651000,-95.41299,29.90447
+4369405106,2402,motel,Wingate by Wyndham Houston Bush Intercontinental Airport IAH,-95.3658583000,29.9380701000,-95.36586,29.93807
+4369405107,2402,motel,Homewood Suites By Hilton HOU Intercontinental Arpt,-95.3650858000,29.9375448000,-95.36509,29.93754
+4369405108,2402,motel,Airport Suites,-95.3645386000,29.9377818000,-95.36454,29.93778
+4369405109,2402,motel,Candlewood Suites Houston Iah / Beltway 8,-95.3629186000,29.9375215000,-95.36292,29.93752
+4369405110,2402,motel,Quality Suites Intercontinental Airport West,-95.3628596000,29.9405331000,-95.36286,29.94053
+4369405111,2402,motel,Palace Inn IAH,-95.3685191000,29.9383529000,-95.36852,29.93835
+4369938101,2402,motel,Super 8 IAH West/Greenspoint,-95.3680126000,29.9381567000,-95.36801,29.93816
+5225743021,2303,cafe,Starbucks,-95.4072426000,29.9470991000,-95.40724,29.9471
+5437174975,2501,supermarket,La Michoacana Meat Market,-95.3916599000,29.8826714000,-95.39166,29.88267
+5461730346,2501,supermarket,Fiesta,-95.4043967000,29.9161600000,-95.4044,29.91616
+7068229149,2402,motel,,-95.4128695000,29.8899785000,-95.41287,29.88998
+7680900722,2303,cafe,Aldine Nutrition,-95.4049563000,29.9185744000,-95.40496,29.91857
+912088391,2303,cafe,Fountain View Cafe,-95.4864717000,29.7482014000,-95.48647,29.7482
+1474266869,2303,cafe,Starbucks,-95.4824123000,29.7601049000,-95.48241,29.7601
+3719376292,2501,supermarket,Whole Foods Market,-95.4999989000,29.7524669000,-95.5,29.75247
+4138933711,2402,motel,Days Inn Houston - Galleria Mall,-95.4838732000,29.7297680000,-95.48387,29.72977
+4138933712,2402,motel,Comfort Suites - Near the Galleria,-95.4912984000,29.7314214000,-95.4913,29.73142
+5470024775,2501,supermarket,Trader Joe's,-95.5016279000,29.7527466000,-95.50163,29.75275
+6654320564,2501,supermarket,Rice Epicurean Market,-95.4863817000,29.7466025000,-95.48638,29.7466
+7147677577,2303,cafe,Starbucks,-95.4998269000,29.7496535000,-95.49983,29.74965
+2704491051,2501,supermarket,Walmart Supercenter,-95.7164480000,29.8606530000,-95.71645,29.86065
+3902117941,2501,supermarket,Fiesta,-95.7220263000,29.8781696000,-95.72203,29.87817
+4306457398,2012,community_centre,Windsong Trail,-95.6756643000,29.8490573000,-95.67566,29.84906
+5243429872,2501,supermarket,Cà Mau Food Market,-95.7002784000,29.8809901000,-95.70028,29.88099
+5248219010,2501,supermarket,Shapla Grocers & Halal Meat,-95.6702815000,29.8657949000,-95.67028,29.86579
+5249290708,2501,supermarket,La Michoacana Meat Market,-95.6839984000,29.8667256000,-95.684,29.86673
+5261521548,2501,supermarket,La Pasadita,-95.6671319000,29.8784732000,-95.66713,29.87847
+5345906739,2012,community_centre,Bear Creek Plantation Community Center,-95.7057502000,29.8662228000,-95.70575,29.86622
+5370765721,2501,supermarket,,-95.6828115000,29.8495263000,-95.68281,29.84953
+5370765723,2501,supermarket,African Market,-95.6824645000,29.8535816000,-95.68246,29.85358
+356744852,2082,school,Sacred Heart School,-95.0585400000,29.9121661000,-95.05854,29.91217
+356867026,2082,school,Crosby Kindergarten,-95.0539000000,29.9122000000,-95.0539,29.9122
+5315597762,2501,supermarket,Walmart Supercenter,-95.0656660000,29.8943780000,-95.06567,29.89438
+2809305840,2501,supermarket,Kroger,-95.4340646000,30.0218444000,-95.43406,30.02184
+2821333703,2402,motel,Baymont Inn and Suites Houston I-45 North,-95.4292155000,30.0153886000,-95.42922,30.01539
+2821337401,2402,motel,Palace Inn,-95.4214340000,30.0243970000,-95.42143,30.0244
+3004832757,2501,supermarket,Food Fair Supermarket,-95.3883542000,30.0486965000,-95.38835,30.0487
+4138765903,2402,motel,Motel 6 Houston North - Spring,-95.4333175000,30.0513229000,-95.43332,30.05132
+4138765907,2402,motel,Studio 6 Houston - Spring,-95.4307217000,30.0181857000,-95.43072,30.01819
+4138826022,2402,motel,Camelot Inn & Suites 1960,-95.4516601000,30.0130078000,-95.45166,30.01301
+5315597609,2501,supermarket,Walmart Neighborhood Market,-95.4059820000,30.0643530000,-95.40598,30.06435
+7660491901,2083,kindergarten,An Amazing Christian Childcare and Preschool,-95.4385221000,30.0246740000,-95.43852,30.02467
+7677670010,2303,cafe,Starbucks,-95.4299095000,30.0509762000,-95.42991,30.05098
+356701204,2082,school,Burnet School,-95.0318735000,29.7507828000,-95.03187,29.75078
+356720880,2082,school,Saint Josephs School,-95.0018726000,29.7252274000,-95.00187,29.72523
+356751590,2082,school,Houston School,-94.9790941000,29.7177272000,-94.97909,29.71773
+356799273,2082,school,Alamo Elementary School,-94.9615936000,29.7474487000,-94.96159,29.74745
+356805306,2082,school,San Jacinto Elementary School,-95.0015948000,29.7257830000,-95.00159,29.72578
+4405245689,2012,community_centre,Seabrook Community House,-95.0247753000,29.5640667000,-95.02478,29.56407
+4484885116,2501,supermarket,Kroger,-95.0321936000,29.6535678000,-95.03219,29.65357
+5254186612,2303,cafe,Krispy Kreme,-94.9769169000,29.7597153000,-94.97692,29.75972
+356749536,2082,school,East Houston School,-95.2682681000,29.8374474000,-95.26827,29.83745
+356798736,2082,school,East Houston Elementary School,-95.2677125000,29.8366141000,-95.26771,29.83661
+2704186654,2303,cafe,Starbucks,-95.2500543000,29.9360606000,-95.25005,29.93606
+4139537999,2402,motel,Lexus Inn,-95.2830869000,29.8262216000,-95.28309,29.82622
+356749880,2082,school,Johnson Memorial School,-95.4486398000,29.8322609000,-95.44864,29.83226
+4085985856,2303,cafe,Charles Donut Shop,-95.4341046000,29.8287455000,-95.4341,29.82875
+5987838685,2082,school,,-95.4427179000,29.8938576000,-95.44272,29.89386
+356700138,2082,school,Bible Institute of Texas,-95.1415987000,29.6827289000,-95.1416,29.68273
+356701541,2082,school,Carpenter Elementary School,-95.1359157000,29.6799267000,-95.13592,29.67993
+356714070,2082,school,Our Lady of Fatima School,-95.2384212000,29.7395116000,-95.23842,29.73951
+356720554,2082,school,Saint Augustine School,-95.2371569000,29.6785631000,-95.23716,29.67856
+356720569,2082,school,Saint Frances Cabrini School,-95.2221402000,29.6363758000,-95.22214,29.63638
+356721095,2082,school,Saint Pius V School,-95.2101019000,29.6992539000,-95.2101,29.69925
+356798800,2082,school,Carpenter Elementary School,-95.1379875000,29.6818956000,-95.13799,29.6819
+356799139,2082,school,Bonnette Junior High School,-95.1379875000,29.6818956000,-95.13799,29.6819
+356802540,2082,school,Harvey Turner Elementary School,-95.1663641000,29.6503813000,-95.16636,29.65038
+1740679192,2402,motel,,-95.0583634000,29.6521839000,-95.05836,29.65218
+1924168265,2501,supermarket,Aldi,-95.0975453000,29.6636848000,-95.09755,29.66368
+1924280269,2303,cafe,Starbucks,-95.1227798000,29.6778062000,-95.12278,29.67781
+1924294724,2501,supermarket,Food Town,-95.1246385000,29.6810897000,-95.12464,29.68109
+1924302158,2303,cafe,Starbucks,-95.1522948000,29.6504114000,-95.15229,29.65041
+3317807677,2501,supermarket,Walmart Supercenter,-95.1613750000,29.6466120000,-95.16138,29.64661
+4139503013,2402,motel,Island Suites Hobby Airport,-95.2296374000,29.6294760000,-95.22964,29.62948
+4396402130,2501,supermarket,H-E-B,-95.0973375000,29.6671680000,-95.09734,29.66717
+4636525837,2012,community_centre,Deer Park Community Center,-95.1186556000,29.6891381000,-95.11866,29.68914
+4640832331,2402,motel,Super 8,-95.1243117000,29.7034106000,-95.12431,29.70341
+4640845253,2012,community_centre,Jimmy Burke Activity Center,-95.1277857000,29.6991990000,-95.12779,29.6992
+5315598308,2501,supermarket,Walmart Supercenter,-95.2376240000,29.6308070000,-95.23762,29.63081
+6351432604,2083,kindergarten,,-95.1441370000,29.7337486000,-95.14414,29.73375
+6924919609,2082,school,Bonnette Junior High,-95.1343534000,29.6807942000,-95.13435,29.68079
+1133248078,2084,college,Lone Star College Emergency Services Education Center,-95.6963950000,29.9082338000,-95.6964,29.90823
+5245193867,2501,supermarket,Aldi,-95.6846537000,29.9045556000,-95.68465,29.90456
+5245218894,2303,cafe,Starbucks,-95.6855128000,29.9118067000,-95.68551,29.91181
+5249755440,2082,school,Kumon,-95.6830772000,29.8957853000,-95.68308,29.89579
+6488172027,2303,cafe,Starbucks,-95.7180193000,29.8908266000,-95.71802,29.89083
+6489805694,2303,cafe,Starbucks,-95.6897317000,29.9184670000,-95.68973,29.91847
+356719350,2082,school,Ralph Waldo Emerson School,-95.5343876000,29.7266189000,-95.53439,29.72662
+356802660,2082,school,Emerson Elementary School,-95.5338319000,29.7271743000,-95.53383,29.72717
+356805323,2082,school,Sandpoint Elementary School,-95.5529992000,29.7210635000,-95.553,29.72106
+356805514,2082,school,Piney Point Elementary School,-95.5210538000,29.7266188000,-95.52105,29.72662
+356866884,2082,school,Alexander Smith Senior High School,-95.5548045000,29.7241404000,-95.5548,29.72414
+629511742,2013,nursing_home,Treemont,-95.5309909000,29.7380700000,-95.53099,29.73807
+3308391695,2303,cafe,Krispy Kreme,-95.5181971000,29.7369525000,-95.5182,29.73695
+3845830309,2303,cafe,Starbucks,-95.5504648000,29.7365323000,-95.55046,29.73653
+4138933719,2402,motel,America's Inn,-95.5282157000,29.6889837000,-95.52822,29.68898
+4535586640,2303,cafe,Java Coffee & Tea Co.,-95.5201308000,29.7364517000,-95.52013,29.73645
+5256551718,2501,supermarket,Jusgo,-95.5468867000,29.7058516000,-95.54689,29.70585
+5315600724,2501,supermarket,Walmart Supercenter,-95.5116920000,29.7354850000,-95.51169,29.73548
+2618871517,2501,supermarket,Raj Grocers,-95.1449250000,29.5658564000,-95.14492,29.56586
+3739511534,2303,cafe,Shipley Do-Nuts,-95.1537446000,29.5827218000,-95.15374,29.58272
+3739511604,2303,cafe,Starbucks,-95.1569716000,29.5782694000,-95.15697,29.57827
+3755266369,2501,supermarket,Kroger,-95.1205712000,29.5779758000,-95.12057,29.57798
+356720610,2082,school,Saint James School,-95.3674384000,29.7171738000,-95.36744,29.71717
+356720982,2082,school,Saint Mary School,-95.3682718000,29.7196737000,-95.36827,29.71967
+356749782,2082,school,Holy Name School,-95.3552155000,29.7785608000,-95.35522,29.77856
+356802484,2082,school,Harris County Juvenile Justice Charter School,-95.3593825000,29.7593948000,-95.35938,29.75939
+3138508983,2501,supermarket,Phoenicia Speciality Foods,-95.3616311000,29.7543255000,-95.36163,29.75433
+3789917424,2014,arts_centre,Aerosol Warfare,-95.3599802000,29.7446527000,-95.35998,29.74465
+3797613673,2303,cafe,"AHH, Coffee!",-95.3549529000,29.7527083000,-95.35495,29.75271
+3797613674,2014,arts_centre,Art Hous,-95.3543438000,29.7521866000,-95.35434,29.75219
+4322377711,2303,cafe,Starbucks,-95.3601287000,29.7515798000,-95.36013,29.75158
+4446394698,2303,cafe,Starbucks,-95.3667303000,29.7556333000,-95.36673,29.75563
+4827132725,2012,community_centre,Lee Castillo Community Center,-95.3670691000,29.7783124000,-95.36707,29.77831
+4849814822,2303,cafe,Boomtown Coffee,-95.3610029000,29.7622022000,-95.361,29.7622
+5774126676,2110,hospital,"Houston Ear, Nose, Throat & Allergy Clinic",-95.3629938000,29.7549499000,-95.36299,29.75495
+6351362485,2303,cafe,Tout Suite,-95.3506867000,29.7586456000,-95.35069,29.75865
+6879700341,2303,cafe,Cafe Cosmopolita,-95.3679437000,29.7519015000,-95.36794,29.7519
+7089701312,2303,cafe,Perk Coffee Shop,-95.3652924000,29.7535592000,-95.36529,29.75356
+4297111823,2501,supermarket,Al-Ahad Meat and Grocers,-95.7046406000,29.8322662000,-95.70464,29.83227
+4297111829,2501,supermarket,Texas Food Supermarket,-95.7085700000,29.8316729000,-95.70857,29.83167
+5370679939,2501,supermarket,Supermercado Gigante,-95.6878846000,29.8111886000,-95.68788,29.81119
+5370764720,2303,cafe,Starbucks,-95.6840642000,29.8326995000,-95.68406,29.8327
+6239844340,2303,cafe,Starbucks,-95.6889363000,29.7893236000,-95.68894,29.78932
+4584106045,2303,cafe,Starbucks,-95.3456975000,29.9858634000,-95.3457,29.98586
+5294707640,2303,cafe,Peet's Coffee,-95.3451276000,29.9867183000,-95.34513,29.98672
+5312125278,2303,cafe,Starbucks,-95.3416193000,29.9893016000,-95.34162,29.9893
+6351326008,2303,cafe,Starbucks,-95.3395315000,29.9858252000,-95.33953,29.98583
+6351326019,2303,cafe,Freshens Fresh Food Studio,-95.3382774000,29.9857959000,-95.33828,29.9858
+6351326036,2303,cafe,Starbucks,-95.3354040000,29.9853309000,-95.3354,29.98533
+7031861189,2303,cafe,Starbucks,-95.3327675000,29.9856326000,-95.33277,29.98563
+7031903586,2303,cafe,Peet's Coffee,-95.3341225000,29.9879086000,-95.33412,29.98791
+7031925986,2303,cafe,Starbucks,-95.3383324000,29.9875881000,-95.33833,29.98759
+7032259885,2303,cafe,World Bean,-95.3429358000,29.9876475000,-95.34294,29.98765
+7032260685,2303,cafe,World Bean,-95.3390793000,29.9877863000,-95.33908,29.98779
+2675804285,2402,motel,Extended Stay America,-95.5789590000,29.7827640000,-95.57896,29.78276
+3204058605,2501,supermarket,Kroger,-95.5994367000,29.7711420000,-95.59944,29.77114
+5790105001,2303,cafe,Tree House - Craft Coffee & Frozen Yogurt,-95.5903681000,29.7716107000,-95.59037,29.77161
+2821133119,2402,motel,Super 8 Houston I-45,-95.4252790000,30.0035600000,-95.42528,30.00356
+2821359101,2402,motel,Days Inn & Suites Houston North/Spring,-95.4272490000,30.0002040000,-95.42725,30.0002
+3494235293,2402,motel,Greenpoint Extended Stay Hotel,-95.4197300000,29.9590690000,-95.41973,29.95907
+3494235393,2402,motel,Palace Inn,-95.4196600000,29.9595330000,-95.41966,29.95953
+4138765910,2402,motel,Value Place Airtex,-95.4206065000,29.9833157000,-95.42061,29.98332
+4138765911,2402,motel,Sleep Inn & Suites I-45 / Airtex,-95.4273967000,29.9819485000,-95.4274,29.98195
+4138765914,2402,motel,Best Classic Inn,-95.4156843000,29.9668593000,-95.41568,29.96686
+4138765915,2402,motel,Scottish Inn & Suites,-95.4146009000,29.9663252000,-95.4146,29.96633
+4219839276,2303,cafe,Starbucks,-95.3498089000,29.9878740000,-95.34981,29.98787
+5669889044,2303,cafe,Starbucks,-95.3497678000,29.9856311000,-95.34977,29.98563
+7735213594,2303,cafe,Donut Shack,-95.3718133000,30.0049630000,-95.37181,30.00496
+2711946397,2303,cafe,Citiline Deli,-95.6219723000,29.7647358000,-95.62197,29.76474
+356709337,2082,school,Kelso School,-95.3335486000,29.6821746000,-95.33355,29.68217
+356799033,2082,school,Bastian Elementary School,-95.3532264000,29.6802591000,-95.35323,29.68026
+356799279,2082,school,Alcott Elementary School,-95.3297198000,29.6671517000,-95.32972,29.66715
+356805380,2082,school,Raul Yzaguirre School for Success,-95.3104924000,29.6657862000,-95.31049,29.66579
+356805694,2082,school,Mount Hebron Academy,-95.3538270000,29.6746750000,-95.35383,29.67468
+1975611376,2501,supermarket,Fiesta,-95.4151183000,29.6902257000,-95.41512,29.69023
+2661120726,2402,motel,Crystal Inn,-95.3570040000,29.6813620000,-95.357,29.68136
+2661120856,2402,motel,Palace Inn,-95.3480730000,29.6842290000,-95.34807,29.68423
+2825549801,2402,motel,La Quinta Inn & Suites Houston Hobby Airport,-95.2615890000,29.6523960000,-95.26159,29.6524
+2825549802,2402,motel,Downtowner Inn and Suites Monroe Rd,-95.2624830000,29.6667267000,-95.26248,29.66673
+2825551501,2402,motel,Camelot Inn & Suites,-95.2723265000,29.6790815000,-95.27233,29.67908
+2936765502,2402,motel,Cullen Inn,-95.3554680000,29.6793670000,-95.35547,29.67937
+3042034936,2402,motel,Palace Inn,-95.3711114000,29.6438047000,-95.37111,29.6438
+3042063233,2402,motel,Bestway Inn,-95.3799160000,29.6748400000,-95.37992,29.67484
+3042066133,2402,motel,Sterling Inn and Suites at Reliant and Medical Center Houston,-95.4169640000,29.6787010000,-95.41696,29.6787
+4138961119,2402,motel,Palace Inn Medical Center,-95.4294646000,29.6764754000,-95.42946,29.67648
+4138961120,2402,motel,Motel 6 Houston NRG Park - Reliant Stadium,-95.4295183000,29.6771652000,-95.42952,29.67717
+4138961121,2402,motel,Carefree Inn Houston Medical Center,-95.4277265000,29.6761399000,-95.42773,29.67614
+4138961124,2402,motel,Holiday Inn Express & Suites Houston SW-Medical Ctr Area,-95.4231689000,29.6840970000,-95.42317,29.6841
+4139503014,2402,motel,Knights Inn Houston Hobby Airport,-95.2484811000,29.6552383000,-95.24848,29.65524
+4139503015,2402,motel,Days Inn and Suites Houston Hobby Airport,-95.2559496000,29.6515111000,-95.25595,29.65151
+4139503016,2402,motel,Comfort Suites Hobby Airport Houston,-95.2553704000,29.6513398000,-95.25537,29.65134
+4139503017,2402,motel,Econo Lodge Houston Lobby,-95.2571081000,29.6516825000,-95.25711,29.65168
+4139503018,2402,motel,Hobby Airport Inn,-95.2610187000,29.6528212000,-95.26102,29.65282
+4139503021,2402,motel,Lee's Inn Motel,-95.2578537000,29.6608393000,-95.25785,29.66084
+4139503023,2402,motel,Moonlight Inn and Suites,-95.2706399000,29.6771821000,-95.27064,29.67718
+5604621803,2082,school,UnIted Christian School,-95.4185396000,29.6786529000,-95.41854,29.67865
+7095227932,2082,school,Seguin Elementary School,-95.3061171000,29.6784598000,-95.30612,29.67846
+356710653,2082,school,MacGregor School,-95.3807721000,29.7280069000,-95.38077,29.72801
+356801334,2082,school,MacGregor Elementary School,-95.3807621000,29.7283171000,-95.38076,29.72832
+356816038,2110,hospital,Plaza Specialty Hospital,-95.3878040000,29.7240827000,-95.3878,29.72408
+4245200731,2303,cafe,MFA Cafe,-95.3892651000,29.7252650000,-95.38927,29.72526
+5263007753,2303,cafe,Cafe 4212,-95.3761710000,29.7310827000,-95.37617,29.73108
+356704784,2082,school,Dominion Montessori School,-95.3796609000,29.7360622000,-95.37966,29.73606
+356705541,2082,school,Fannin School,-95.3789490000,29.7449678000,-95.37895,29.74497
+356708255,2082,school,Holy Rosary School,-95.3804943000,29.7399510000,-95.38049,29.73995
+356711547,2082,school,Montrose School,-95.3890840000,29.7380325000,-95.38908,29.73803
+356802064,2082,school,Houston Can! Academy Charter School,-95.3729940000,29.7474507000,-95.37299,29.74745
+356802387,2082,school,Gregory - Lincoln Education Center,-95.3849876000,29.7561439000,-95.38499,29.75614
+356804727,2082,school,Young Scholars Academy,-95.3724561000,29.7521019000,-95.37246,29.7521
+356805489,2082,school,High School for the Performing & Visual Arts,-95.3884265000,29.7369586000,-95.38843,29.73696
+530778065,2501,supermarket,Kroger,-95.3918683000,29.7429877000,-95.39187,29.74299
+530778143,2303,cafe,Starbucks,-95.3905809000,29.7422052000,-95.39058,29.74221
+2975083419,2082,school,Carnegie Vanguard High School,-95.3848518000,29.7541811000,-95.38485,29.75418
+3136803459,2303,cafe,Blacksmith,-95.3924885000,29.7448122000,-95.39249,29.74481
+3335371394,2303,cafe,Starbucks,-95.3767282000,29.7465706000,-95.37673,29.74657
+3335384117,2303,cafe,Starbucks,-95.3745347000,29.7488130000,-95.37453,29.74881
+3529370900,2303,cafe,Starbucks,-95.3746958000,29.7505266000,-95.3747,29.75053
+3637431631,2303,cafe,Siphon Coffee,-95.3882991000,29.7383874000,-95.3883,29.73839
+3700075595,2405,hostel,Morty Rich Hostel,-95.3875020000,29.7431391000,-95.3875,29.74314
+4074332967,2303,cafe,SouthSide Espresso,-95.3907000000,29.7449924000,-95.3907,29.74499
+5703182723,2303,cafe,Fix Coffeebar,-95.3866269000,29.7442673000,-95.38663,29.74427
+6879700338,2303,cafe,Mademoiselle Louise,-95.3693589000,29.7509775000,-95.36936,29.75098
+770976316,2303,cafe,Starbucks,-95.1778932000,29.9977822000,-95.17789,29.99778
+986034040,2501,supermarket,H-E-B,-95.1836677000,30.0530128000,-95.18367,30.05301
+3802417675,2083,kindergarten,La Petite Academy,-95.2168999000,30.0696586000,-95.2169,30.06966
+3903671109,2501,supermarket,Kroger,-95.1871315000,30.0666789000,-95.18713,30.06668
+3903671110,2303,cafe,Starbucks,-95.1874435000,30.0668526000,-95.18744,30.06685
+4252070152,2303,cafe,Starbucks,-95.2163387000,30.0696677000,-95.21634,30.06967
+4252070153,2501,supermarket,Walmart Neighborhood Market,-95.2145140000,30.0693331000,-95.21451,30.06933
+4274826138,2303,cafe,Citizen Donuts,-95.1889457000,30.0658704000,-95.18895,30.06587
+4303263159,2303,cafe,Kingwood Bagel & Sandwich,-95.1844576000,30.0476822000,-95.18446,30.04768
+5261521016,2012,community_centre,Eagle Springs Community Center,-95.1881953000,29.9777795000,-95.1882,29.97778
+5315596438,2501,supermarket,Walmart Supercenter,-95.1764440000,29.9956770000,-95.17644,29.99568
+5659611111,2303,cafe,Starbucks,-95.1805463000,30.0517187000,-95.18055,30.05172
+5843069939,2501,supermarket,Aldi,-95.1737907000,29.9968821000,-95.17379,29.99688
+6183318294,2110,hospital,"Westbridge Recovery Center, Inc",-95.1722775000,30.0722720000,-95.17228,30.07227
+356750558,2082,school,Saint Theresa School,-95.4302928000,29.7732666000,-95.43029,29.77327
+356802614,2082,school,High Point Alternative School - Sheldon,-95.1851520000,29.8406763000,-95.18515,29.84068
+356805276,2082,school,Royalwood Elementary School,-95.1879882000,29.8374471000,-95.18799,29.83745
+2642333041,2012,community_centre,Club Summerwood,-95.1857195000,29.9211206000,-95.18572,29.92112
+4709604946,2303,cafe,Starbucks,-95.1971223000,29.9254380000,-95.19712,29.92544
+4739964047,2082,school,Cravens Early Childhood Academy,-95.1998497000,29.8514072000,-95.19985,29.85141
+356827376,2303,cafe,Chama,-95.7202310000,29.8030294000,-95.72023,29.80303
+3903896556,2501,supermarket,Randalls,-95.7170091000,29.7794337000,-95.71701,29.77943
+3903896960,2501,supermarket,Target,-95.7160541000,29.7821551000,-95.71605,29.78216
+3903913977,2303,cafe,Starbucks,-95.7165598000,29.7821097000,-95.71656,29.78211
+3905103773,2501,supermarket,H-E-B,-95.7167418000,29.7892877000,-95.71674,29.78929
+3905211326,2501,supermarket,Kroger,-95.7213141000,29.7911709000,-95.72131,29.79117
+3905211331,2303,cafe,Starbucks,-95.7205277000,29.7906436000,-95.72053,29.79064
+4138864449,2402,motel,Days Inn & Suites Katy,-95.7373715000,29.7876515000,-95.73737,29.78765
+4302909216,2303,cafe,El Kiosko Frutas Y Helados #12,-95.7200700000,29.8014065000,-95.72007,29.80141
+5315598023,2501,supermarket,Walmart Neighborhood Market,-95.7310610000,29.7586200000,-95.73106,29.75862
+4003638119,2303,cafe,Starbucks,-95.4985434000,29.9872831000,-95.49854,29.98728
+4138826024,2402,motel,Northgate Inn and Suites Houston,-95.4654788000,30.0046742000,-95.46548,30.00467
+4138826025,2402,motel,Comfort Inn & Suites FM1960-Champions,-95.4833424000,29.9946301000,-95.48334,29.99463
+4138826026,2402,motel,Holiday Inn Express - Houston,-95.4979228000,29.9899561000,-95.49792,29.98996
+6292849026,2402,motel,Champions Lodge,-95.5027900000,29.9868634000,-95.50279,29.98686
+6292849034,2303,cafe,Starbucks,-95.5092875000,29.9796814000,-95.50929,29.97968
+7552744911,2501,supermarket,,-95.4800154000,30.0299302000,-95.48002,30.02993
+2327740930,2303,cafe,Starbucks,-95.5471363000,29.9593293000,-95.54714,29.95933
+4369181582,2402,motel,Comfort Inn Hwy. 290/Nw,-95.5106528000,29.8501115000,-95.51065,29.85011
+4369183303,2402,motel,Crossland Houston - Northwest,-95.5158416000,29.8535378000,-95.51584,29.85354
+4369183339,2402,motel,Palace Inn Fairbanks,-95.5185979000,29.8555549000,-95.5186,29.85555
+4679286708,2303,cafe,Off the Wall Work and Play Cafe,-95.5238541000,29.8832597000,-95.52385,29.88326
+4679286711,2083,kindergarten,Laugh N' Discover,-95.5237621000,29.8832603000,-95.52376,29.88326
+5179403020,2402,motel,InTown Suites,-95.5216766000,29.8572398000,-95.52168,29.85724
+5224927502,2303,cafe,Starbucks,-95.5389516000,29.9600646000,-95.53895,29.96006
+7741856630,2303,cafe,Best Donuts & Kolaches,-95.5110450000,29.8503485000,-95.51104,29.85035
+1406368108,2303,cafe,Z Pizza,-95.4423565000,29.7212834000,-95.44236,29.72128
+2348332719,2402,motel,La Quinta,-95.4427870000,29.7281410000,-95.44279,29.72814
+2352000322,2402,motel,La Quinta Inn & Suites Houston Galleria Area,-95.4547398000,29.7502953000,-95.45474,29.7503
+2405569053,2303,cafe,Starbucks,-95.4276170000,29.7281940000,-95.42762,29.72819
+2922351167,2303,cafe,Starbucks,-95.4548472000,29.7476663000,-95.45485,29.74767
+5370659658,2501,supermarket,Westcreek Market & Deli,-95.4548384000,29.7414683000,-95.45484,29.74147
+6374953396,2303,cafe,Sprinkles Cupcakes,-95.4459805000,29.7419351000,-95.44598,29.74194
+7237854042,2303,cafe,Starbucks,-95.4475589000,29.7414215000,-95.44756,29.74142
+356799346,2082,school,Askew Elementary School,-95.5779997000,29.7524515000,-95.578,29.75245
+356805171,2082,school,Shadowbriar Elementary School,-95.5982782000,29.7368966000,-95.59828,29.7369
+356805176,2082,school,Shadowbriar Middle School,-95.5982782000,29.7368966000,-95.59828,29.7369
+4725183390,2501,supermarket,,-95.6261710000,29.7340890000,-95.62617,29.73409
+4725183393,2012,community_centre,Ashrod Building,-95.6072040000,29.7535480000,-95.6072,29.75355
+4725188790,2012,community_centre,the commons,-95.6241730000,29.7376970000,-95.62417,29.7377
+4725188792,2082,school,Ray Daily Elem. School,-95.6158440000,29.7540900000,-95.61584,29.75409
+5256569179,2501,supermarket,Vishala Grocery,-95.6247919000,29.7381154000,-95.62479,29.73812
+7152422424,2501,supermarket,Whole Foods Market,-95.5705068000,29.7350969000,-95.57051,29.7351
+356802948,2082,school,Gallegos Elementary School,-95.2928108000,29.7337851000,-95.29281,29.73379
+3799590576,2303,cafe,Starbucks,-95.2977735000,29.6978076000,-95.29777,29.69781
+3832800108,2501,supermarket,99 Cent Only Store,-95.2957092000,29.7182183000,-95.29571,29.71822
+5244656609,2082,school,Aristoi Classical Academy,-95.8161005000,29.8169640000,-95.8161,29.81696
+6144223917,2082,school,Mirus Academy,-95.8205399000,29.7879675000,-95.82054,29.78797
+6373324336,2303,cafe,Serene Beans,-95.8215887000,29.7880065000,-95.82159,29.78801
+6887378342,2084,college,Lone Star College - Creekside Center,-95.5535045000,30.1414811000,-95.5535,30.14148
+4138826049,2402,motel,Studio 6 Houston West,-95.6462219000,29.7890349000,-95.64622,29.78903
+4138826052,2402,motel,Americas Best Value Inn & Suites - Houston / Katy Fwy,-95.6497151000,29.7836363000,-95.64972,29.78364
+4138826054,2402,motel,La Quinta Inn & Suites Houston West Park 10,-95.6516111000,29.7836849000,-95.65161,29.78368
+4138826055,2402,motel,Extended Stay America - Houston - Katy Freeway - Energy Corridor,-95.6530961000,29.7836606000,-95.6531,29.78366
+4138826057,2402,motel,Red Roof PLUS+ Houston - Energy Corridor,-95.6573691000,29.7861608000,-95.65737,29.78616
+5259108868,2303,cafe,Keo's Donuts,-95.6439766000,29.7563825000,-95.64398,29.75638
+5372641433,2303,cafe,Starbucks,-95.6434503000,29.7752825000,-95.64345,29.77528
+356814337,2082,school,I T Holleman Elementary School,-95.9193983000,30.0663303000,-95.9194,30.06633
+356814343,2082,school,Schultz Middle School,-95.9088424000,30.0513309000,-95.90884,30.05133
+2375548177,2402,motel,America's Best Value Inn,-95.9097940000,30.0610370000,-95.90979,30.06104
+356707514,2082,school,Harris County Youth Village,-95.0679321000,29.5704944000,-95.06793,29.57049
+356867239,2082,school,Lunar and Planetary Institute Rice University,-95.0752000000,29.5615000000,-95.0752,29.5615
+356867243,2082,school,Lunar Science Institute Rice University,-95.0747000000,29.5610000000,-95.0747,29.561
+2336544962,2082,school,Robinson Elementary School,-95.0598231000,29.5711798000,-95.05982,29.57118
+4534248983,2501,supermarket,Arlan's Market,-95.0594094000,29.5673222000,-95.05941,29.56732
+356867089,2082,school,Faith West Academy,-95.7941000000,29.8055000000,-95.7941,29.8055
+3911060265,2501,supermarket,Fiesta Mart,-95.7490959000,29.7809732000,-95.7491,29.78097
+3916915535,2303,cafe,Starbucks,-95.7503329000,29.7768405000,-95.75033,29.77684
+3917249546,2303,cafe,Begal Cafe,-95.7503846000,29.7730357000,-95.75038,29.77304
+5246578669,2501,supermarket,Kroger,-95.7701896000,29.8126507000,-95.77019,29.81265
+356743886,2082,school,Recreation Acres School,-95.4791069000,29.9063352000,-95.47911,29.90634
+356750477,2082,school,Saint Ambrose School,-95.4632738000,29.8288375000,-95.46327,29.82884
+356750538,2082,school,Saint Mark School,-95.4943860000,29.7974497000,-95.49439,29.79745
+356802069,2082,school,Houston Educational Learning Enrichment,-95.4657739000,29.8177268000,-95.46577,29.81773
+356867250,2082,school,Memorial Hall School,-95.4659268000,29.8113906000,-95.46593,29.81139
+1920554546,2082,school,Big Little School,-95.4860242000,29.7894508000,-95.48602,29.78945
+1935628499,2082,school,School of the Woods,-95.4855202000,29.7936734000,-95.48552,29.79367
+4368695812,2402,motel,Quality Inn & Suites Hwy 290 - Brookhollow,-95.4874160000,29.8356112000,-95.48742,29.83561
+4368695827,2402,motel,Americas Best Value Inn & Suites-Houston-Northwest Brookhollow,-95.4832126000,29.8339993000,-95.48321,29.834
+4368695844,2402,motel,Econo Lodge,-95.4880593000,29.8388283000,-95.48806,29.83883
+4368695846,2402,motel,Regency Inn & Suites,-95.4900703000,29.8378554000,-95.49007,29.83786
+4368695850,2402,motel,Sleep Inn & Suites Hwy 290/Nw Freeway,-95.4955093000,29.8450510000,-95.49551,29.84505
+5461897702,2402,motel,Hotel Bella,-95.4849805000,29.9156853000,-95.48498,29.91569
+5461897709,2501,supermarket,Aldi,-95.4857985000,29.9161014000,-95.4858,29.9161
+5462330386,2402,motel,Palace Inn,-95.5015705000,29.9260905000,-95.50157,29.92609
+6298445528,2012,community_centre,Trini Mendenhall Community Center,-95.4841621000,29.7957932000,-95.48416,29.79579
+6299354185,2501,supermarket,Kroger,-95.4864439000,29.7968241000,-95.48644,29.79682
+7043112595,2303,cafe,Dolce & Cafe,-95.4675812000,29.7858758000,-95.46758,29.78588
+7142779740,2402,motel,Motel 6,-95.4707878000,29.8189066000,-95.47079,29.81891
+7330326431,2501,supermarket,Joe V's,-95.4837172000,29.8316278000,-95.48372,29.83163
+7330326432,2303,cafe,Starbucks,-95.4827812000,29.8314744000,-95.48278,29.83147
+356799298,2082,school,Alief Montessori Community School,-95.5918892000,29.7127307000,-95.59189,29.71273
+2626629156,2501,supermarket,H-E-B,-95.6416641000,29.7056997000,-95.64166,29.7057
+4728685193,2012,community_centre,Ahead 29 Apartments,-95.6281500000,29.6905655000,-95.62815,29.69057
+5280612996,2501,supermarket,Hong Kong Food Market,-95.5773981000,29.7013659000,-95.5774,29.70137
+356859368,2082,school,Saint Thomas the Apostle Episcopal School,-95.0879670000,29.5462031000,-95.08797,29.5462
+356859921,2082,school,Gloria Dei Christian School,-95.0888899000,29.5477738000,-95.08889,29.54777
+356749204,2082,school,Bowie School,-95.3382702000,29.8271703000,-95.33827,29.82717
+356750476,2082,school,Sacred Heart School,-95.3868823000,29.8718914000,-95.38688,29.87189
+356750480,2082,school,Saint Charles School,-95.3689142000,29.8475616000,-95.36891,29.84756
+356750567,2082,school,Sam Houston High School,-95.3615336000,29.8496236000,-95.36153,29.84962
+356798662,2082,school,Dechaumes Elementary School,-95.3769666000,29.8611209000,-95.37697,29.86112
+356798754,2082,school,Burbank Middle School,-95.3705664000,29.8388674000,-95.37057,29.83887
+356799099,2082,school,Berry Elementary School,-95.3500478000,29.8365948000,-95.35005,29.83659
+356799150,2082,school,Bowie Elementary School,-95.3377146000,29.8274481000,-95.33771,29.82745
+356805542,2082,school,North District Alternative Elementary School,-95.3502115000,29.8366251000,-95.35021,29.83663
+2327714259,2501,supermarket,El Ahorro Supermarket,-95.3857097000,29.8606458000,-95.38571,29.86065
+2739347276,2082,school,KIPP Dream,-95.3692115000,29.8454026000,-95.36921,29.8454
+3247844075,2082,school,KIPP 3D,-95.3692136000,29.8453191000,-95.36921,29.84532
+3247844076,2082,school,KIPP Generations,-95.3692107000,29.8452337000,-95.36921,29.84523
+6433378317,2303,cafe,Raspas Flamingo Chill,-95.3840658000,29.8584800000,-95.38407,29.85848
+6433472288,2501,supermarket,Fiesta,-95.3852806000,29.8367058000,-95.38528,29.83671
+7528299723,2402,motel,Crystal Inn,-95.3879437000,29.8395620000,-95.38794,29.83956
+356750304,2082,school,Our Savior School,-95.4116056000,29.8299483000,-95.41161,29.82995
+356801573,2082,school,Kay On - Going Education Center,-95.4111207000,29.8288964000,-95.41112,29.8289
+356805606,2082,school,On - Going Middle School,-95.4111368000,29.8287196000,-95.41114,29.82872
+2821133101,2501,supermarket,Food Town,-95.4061220000,29.8711790000,-95.40612,29.87118
+4138765927,2402,motel,Palace Inn,-95.4109983000,29.8694359000,-95.411,29.86944
+4138765929,2402,motel,Town Inn Houston,-95.4000790000,29.8544461000,-95.40008,29.85445
+4138765930,2402,motel,Guest Inn And Suites,-95.3991177000,29.8535055000,-95.39912,29.85351
+4138765931,2402,motel,Southwind Motel,-95.3956916000,29.8485511000,-95.39569,29.84855
+4138826044,2402,motel,Scottish Inns & Suites Timber,-95.6435930000,29.8569801000,-95.64359,29.85698
+4138826046,2402,motel,Bear Creek Inn,-95.6454122000,29.8339137000,-95.64541,29.83391
+4138826047,2402,motel,Palace Inn,-95.6466792000,29.8316847000,-95.64668,29.83168
+4289437579,2501,supermarket,Fiesta Mart,-95.6446754000,29.8368658000,-95.64468,29.83687
+4291218847,2303,cafe,El Klosko Frutas y Helados,-95.6468709000,29.8356315000,-95.64687,29.83563
+4291218854,2501,supermarket,Dong Khanh Market,-95.6483971000,29.8356222000,-95.6484,29.83562
+4291218858,2303,cafe,Cafe Giot Dang,-95.6479760000,29.8352406000,-95.64798,29.83524
+356859498,2082,school,Bay Area Montessori School House,-95.1166653000,29.5505224000,-95.11667,29.55052
+356859580,2082,school,Bruk Academy,-95.1228728000,29.5368893000,-95.12287,29.53689
+356859842,2082,school,Westminster Academy,-95.1151722000,29.5481992000,-95.11517,29.5482
+356860086,2082,school,Houston Learning Academy,-95.1180298000,29.5366536000,-95.11803,29.53665
+356860269,2082,school,Galloway Upper School,-95.1168998000,29.5503699000,-95.1169,29.55037
+1086344290,2303,cafe,Enlighten Coffee Roasters,-95.1258591000,29.5326871000,-95.12586,29.53269
+3390498259,2501,supermarket,Kroger,-95.1247749000,29.5585930000,-95.12477,29.55859
+3390500125,2501,supermarket,Food Town,-95.1401204000,29.5602361000,-95.14012,29.56024
+3774122725,2303,cafe,Starbucks,-95.1262036000,29.5516681000,-95.1262,29.55167
+4770537553,2303,cafe,Kolache Factory,-95.1346764000,29.5451523000,-95.13468,29.54515
+4770537556,2303,cafe,Starbucks,-95.1498220000,29.5564406000,-95.14982,29.55644
+6656078772,2084,college,Remington College Webster Campus,-95.1235322000,29.5253204000,-95.12353,29.52532
+6656205004,2082,school,CCISD Teacher Center,-95.1387276000,29.5176924000,-95.13873,29.51769
+356803034,2082,school,George I Sanchez - Alternative School,-95.3179925000,29.7430062000,-95.31799,29.74301
+356805241,2082,school,Ripley House Alternative School,-95.3288198000,29.7514962000,-95.32882,29.7515
+2661121270,2501,supermarket,Fiesta,-95.3284480000,29.6933480000,-95.32845,29.69335
+2723953871,2504,mall,David Center,-95.3402235000,29.7370361000,-95.34022,29.73704
+3679718633,2303,cafe,The Nook Cafe,-95.3372392000,29.7225331000,-95.33724,29.72253
+3708629757,2501,supermarket,Sellers Bros Food Market,-95.3128462000,29.7117132000,-95.31285,29.71171
+3818254202,2303,cafe,Chocolate Wasted Ice Cream,-95.3309446000,29.7345428000,-95.33094,29.73454
+356708249,2082,school,Holy Ghost School,-95.4770179000,29.7045658000,-95.47702,29.70457
+356799074,2082,school,Benavidez Elementary School,-95.4924419000,29.7166190000,-95.49244,29.71662
+356801488,2082,school,Las Americas Newcomer Middle School,-95.4867377000,29.7199349000,-95.48674,29.71993
+356805153,2082,school,Ser - Ninos Charter Elementary School,-95.4807751000,29.7091191000,-95.48078,29.70912
+356815851,2110,hospital,Cornerstone Hospital Houston – Bellaire,-95.4732700000,29.7080100000,-95.47327,29.70801
+2346493081,2501,supermarket,El Ahorra Supermarket,-95.4834830000,29.6988360000,-95.48348,29.69884
+2383851268,2303,cafe,Starbucks,-95.4982689000,29.7166362000,-95.49827,29.71664
+2614136116,2303,cafe,Starbucks,-95.4683074000,29.7072708000,-95.46831,29.70727
+2696705132,2303,cafe,Honduras Maya Cafe & Bar,-95.4863540000,29.7051820000,-95.48635,29.70518
+3454500693,2402,motel,Bellaire Inn,-95.4722250000,29.7076820000,-95.47222,29.70768
+4138933716,2402,motel,La Quinta Inn & Suites Houston Southwest,-95.5037493000,29.7141296000,-95.50375,29.71413
+4138933717,2402,motel,Limited Houston Sharpstown,-95.5040183000,29.7107360000,-95.50402,29.71074
+4138933718,2402,motel,Red Carpet Inn Houston,-95.5031335000,29.7102011000,-95.50313,29.7102
+5465702596,2110,hospital,Behavioral Hospital of Bellaire,-95.4732361000,29.7084045000,-95.47324,29.7084
+6790672428,2501,supermarket,Aldi,-95.5015487000,29.6894869000,-95.50155,29.68949
+7087365623,2303,cafe,Starbucks,-95.4676456000,29.7233225000,-95.46765,29.72332
+368160519,2009,courthouse,Harris County Courthouse,-94.9711000000,29.7687000000,-94.9711,29.7687
+368160626,2002,fire_station,Highlands Volunteer Fire Department Station 2,-95.0272458000,29.8197148000,-95.02725,29.81971
+368160752,2002,fire_station,Channelview Volunteer Fire Department Station 1,-95.1142532000,29.7772447000,-95.11425,29.77724
+368160788,2002,fire_station,McNair Volunteer Fire Department,-95.0216382000,29.8027470000,-95.02164,29.80275
+368160950,2002,fire_station,Baytown Fire Department Station 1,-94.9780672000,29.7766316000,-94.97807,29.77663
+368160952,2002,fire_station,Baytown Fire Department Station 3,-94.9273655000,29.7674929000,-94.92737,29.76749
+368160954,2002,fire_station,Baytown Fire Department Station 5,-95.0315570000,29.7707505000,-95.03156,29.77075
+368160982,2002,fire_station,Highlands Volunteer Fire Department Station 1,-95.0580872000,29.8156722000,-95.05809,29.81567
+368161126,2002,fire_station,Channelview Volunteer Fire Department Station 2,-95.1189664000,29.7888996000,-95.11897,29.7889
+368161127,2002,fire_station,Cloverleaf Volunteer Fire Department Station 2,-95.1921870000,29.8056718000,-95.19219,29.80567
+368161128,2002,fire_station,Cloverleaf Fire Department Station 1,-95.1714905000,29.7790955000,-95.17149,29.7791
+368161197,2002,fire_station,Houston Fire Department Station 53,-95.1869272000,29.7760066000,-95.18693,29.77601
+368161204,2002,fire_station,Houston Fire Department Station 44,-95.2180868000,29.7781007000,-95.21809,29.7781
+368161252,2002,fire_station,Channelview Volunteer Fire Department Station 3,-95.1400382000,29.7894993000,-95.14004,29.7895
+368161263,2002,fire_station,Channelview Volunteer Fire Department,-95.1141000000,29.7767000000,-95.1141,29.7767
+368161293,2002,fire_station,Highlands Volunteer Fire Department,-95.0261000000,29.8193000000,-95.0261,29.8193
+368161335,2002,fire_station,Houston Fire Station Number 53,-95.1869953000,29.7760278000,-95.187,29.77603
+368161997,2007,library,Stratford Park Library,-95.0620000000,29.8211000000,-95.062,29.8211
+368162116,2007,library,Jacinto City Library,-95.2402000000,29.7731000000,-95.2402,29.7731
+368162289,2001,police,Harris County Sheriff's Office,-95.1940111000,29.8063925000,-95.19401,29.80639
+368162738,2099,public_building,Baytown Department of Public Safety,-95.0322000000,29.7808000000,-95.0322,29.7808
+6179300866,2005,post_office,,-95.1253447000,29.7818749000,-95.12534,29.78187
+6269418548,2002,fire_station,,-94.9861276000,29.8065811000,-94.98613,29.80658
+368160634,2002,fire_station,City of Southside Place Fire Department,-95.4335888000,29.7146581000,-95.43359,29.71466
+368161110,2002,fire_station,West University Place Fire Department,-95.4380504000,29.7149564000,-95.43805,29.71496
+368162292,2001,police,Southside Place Police Department,-95.4334494000,29.7146616000,-95.43345,29.71466
+1975678661,2007,library,HAM-TMC Library,-95.3968178000,29.7118780000,-95.39682,29.71188
+2571540811,2008,town_hall,West University City Hall,-95.4377124000,29.7149471000,-95.43771,29.71495
+2615064417,2008,town_hall,Southside Place City Hall,-95.4336639000,29.7147222000,-95.43366,29.71472
+4259050522,2007,library,UTHSPH Library,-95.3981880000,29.7051135000,-95.39819,29.70511
+5604621748,2005,post_office,The UPS Store,-95.4117882000,29.6935247000,-95.41179,29.69352
+356866873,2005,post_office,Westbury Post Office,-95.4805382000,29.6519699000,-95.48054,29.65197
+368161208,2002,fire_station,Houston Fire Department Station 48,-95.4810438000,29.6533460000,-95.48104,29.65335
+368161220,2002,fire_station,Houston Fire Department Station 59,-95.4647593000,29.6252180000,-95.46476,29.62522
+368161321,2002,fire_station,Houston Fire Station Number 48,-95.4812000000,29.6535000000,-95.4812,29.6535
+368162301,2001,police,Houston Police Department - Hiram Clarke,-95.4421789000,29.6137466000,-95.44218,29.61375
+368162319,2001,police,Houston Police Department - Westbury,-95.4784206000,29.6513496000,-95.47842,29.65135
+368162452,2001,police,Houston Police Department - Southwest Patrol,-95.4577617000,29.6366438000,-95.45776,29.63664
+368162675,2001,police,Westbury Police Station,-95.4804000000,29.6523000000,-95.4804,29.6523
+368161143,2002,fire_station,Missouri City Fire and Rescue Services Station 2,-95.5188497000,29.6303327000,-95.51885,29.63033
+368161215,2002,fire_station,Houston Fire Department Station 73,-95.5708276000,29.6727760000,-95.57083,29.67278
+368161240,2002,fire_station,Houston Fire Department Station 82,-95.5113360000,29.6579157000,-95.51134,29.65792
+368161284,2002,fire_station,Fire Station Number 2,-95.5208000000,29.6308000000,-95.5208,29.6308
+368161332,2002,fire_station,Houston Fire Station Number 62,-95.5113197000,29.6577235000,-95.51132,29.65772
+368162248,2001,police,Houston Police Department - Fondren Patrol,-95.5088654000,29.6588714000,-95.50887,29.65887
+368162265,2001,police,Houston Police Department - Westwood,-95.5469822000,29.6749377000,-95.54698,29.67494
+368160787,2002,fire_station,Houston Fire Department Station 70,-95.2291175000,29.6019414000,-95.22912,29.60194
+368161228,2002,fire_station,Houston Fire Department Station 93,-95.1805305000,29.5898977000,-95.18053,29.5899
+368161267,2002,fire_station,Southeast Volunteer Fire Department,-95.1975000000,29.5866000000,-95.1975,29.5866
+1146654488,2002,fire_station,Southeast Volunteer Fire Department,-95.2162825000,29.5816005000,-95.21628,29.5816
+1146654555,2099,public_building,South Belt-Ellington Chamber of Commerce,-95.2164907000,29.5812583000,-95.21649,29.58126
+368160793,2002,fire_station,Jacinto Fire Department,-95.2478658000,29.7690513000,-95.24787,29.76905
+368161071,2002,fire_station,Houston Fire Department Station 39,-95.3186692000,29.8128414000,-95.31867,29.81284
+368161075,2002,fire_station,Houston Fire Department Station 27,-95.3045561000,29.7768315000,-95.30456,29.77683
+368161083,2002,fire_station,Houston Fire Department Station 19,-95.3361182000,29.7772172000,-95.33612,29.77722
+368161201,2002,fire_station,Houston Fire Department Station 41,-95.2819016000,29.7739036000,-95.2819,29.7739
+368161205,2002,fire_station,Houston Fire Department Station 45,-95.2638103000,29.8052501000,-95.26381,29.80525
+368161275,2002,fire_station,City of Jacinto Fire Department,-95.2477000000,29.7691000000,-95.2477,29.7691
+368161323,2002,fire_station,Houston Fire Station Number 45,-95.2644000000,29.8046000000,-95.2644,29.8046
+368161328,2002,fire_station,Houston Fire Station Number 41,-95.2826000000,29.7733000000,-95.2826,29.7733
+368162266,2001,police,Jacinto City Police Department,-95.2447422000,29.7680944000,-95.24474,29.76809
+368162527,2008,town_hall,Jacinto City Hall,-95.2468996000,29.7668965000,-95.2469,29.7669
+368162680,2001,police,Jacinto City Police Station,-95.2453000000,29.7679000000,-95.2453,29.7679
+368161093,2002,fire_station,Houston Fire Department Station 12,-95.3528703000,29.7946413000,-95.35287,29.79464
+368161095,2002,fire_station,Houston Fire Department Station 15,-95.3867388000,29.8029134000,-95.38674,29.80291
+368161292,2002,fire_station,Houston Fire Station Number 15,-95.3781000000,29.7949000000,-95.3781,29.7949
+356866832,2005,post_office,Houston Heights Post Office,-95.4017000000,29.8023000000,-95.4017,29.8023
+368160464,2002,fire_station,Heights Fire Department,-95.3986973000,29.7923813000,-95.3987,29.79238
+368160572,2002,fire_station,Houston Fire Department - Arson Division,-95.4306662000,29.7913041000,-95.43067,29.7913
+368161221,2002,fire_station,Houston Fire Department Station 62,-95.4377415000,29.7979520000,-95.43774,29.79795
+368161331,2002,fire_station,Houston Fire Station Number 62,-95.4377000000,29.7986000000,-95.4377,29.7986
+368162199,2007,library,Houston Public Library,-95.3973094000,29.7946625000,-95.39731,29.79466
+368162691,2001,police,Houston Heights Police Station,-95.4029000000,29.8037000000,-95.4029,29.8037
+368162696,2001,police,Houston Police Department - Heights,-95.4113904000,29.7860468000,-95.41139,29.78605
+5272982712,2005,post_office,Postal Station 4U,-95.4435619000,29.8168004000,-95.44356,29.8168
+6778429914,2005,post_office,United States Post Office,-95.4097495000,29.8217091000,-95.40975,29.82171
+6873678465,2005,post_office,The UPS Store,-95.4288411000,29.8164613000,-95.42884,29.81646
+368160791,2002,fire_station,Jersey Village Fire Department,-95.5712655000,29.8842890000,-95.57127,29.88429
+368161113,2002,fire_station,Cy - Fair Volunteer Fire Department Station 10,-95.5895501000,29.9107742000,-95.58955,29.91077
+368161274,2002,fire_station,City of Jersey Village Fire Department,-95.5712748000,29.8842832000,-95.57127,29.88428
+368162487,2001,police,Jersey Village Police Department,-95.5706361000,29.8838891000,-95.57064,29.88389
+368162707,2001,police,Jersey Village Police Chief's Office,-95.5712044000,29.8841764000,-95.5712,29.88418
+7161448228,2007,library,Williford Parish Library,-95.5693909000,29.9087725000,-95.56939,29.90877
+368160756,2002,fire_station,Cy - Fair Volunteer Fire Department Station 9,-95.6393572000,29.8924869000,-95.63936,29.89249
+368160871,2002,fire_station,Cy - Fair Volunteer Fire Department Station 3,-95.6493596000,29.9490312000,-95.64936,29.94903
+368160918,2002,fire_station,Cypress Creek Volunteer Fire Station 22,-95.6000089000,29.9527092000,-95.60001,29.95271
+368161117,2002,fire_station,Cy - Fair Volunteer Fire Department Station 6,-95.6080345000,29.8688794000,-95.60803,29.86888
+368161288,2002,fire_station,Cy Fair Volunteer Fire Department,-95.6395503000,29.8923939000,-95.63955,29.89239
+368161289,2002,fire_station,Cy-Fair Volunteer Fire Station 3,-95.6494000000,29.9493000000,-95.6494,29.9493
+368162442,2001,police,Texas Highway Patrol Division,-95.5977696000,29.9012777000,-95.59777,29.90128
+1150393078,2001,police,Cy-Fair ISD Police,-95.6487889000,29.9386727000,-95.64879,29.93867
+368161112,2002,fire_station,Rosehill Fire Department,-95.7177912000,30.0805850000,-95.71779,30.08058
+368161119,2002,fire_station,Cy - Fair Volunteer Fire Department Station 7,-95.7376351000,29.9924430000,-95.73764,29.99244
+368161082,2002,fire_station,Houston Fire Department Station 16,-95.4023308000,29.7346299000,-95.40233,29.73463
+2349352502,2005,post_office,The UPS Store,-95.4172790000,29.7608008000,-95.41728,29.7608
+4570893047,2005,post_office,The UPS Store,-95.4162324000,29.7252210000,-95.41623,29.72522
+356866840,2005,post_office,Hufsmith Post Office,-95.5964000000,30.1236000000,-95.5964,30.1236
+368160717,2002,fire_station,Klein Volunteer Fire Department Station 1,-95.5378338000,30.0398742000,-95.53783,30.03987
+368160802,2002,fire_station,Tomball Fire Department,-95.6165624000,30.0954501000,-95.61656,30.09545
+368160897,2002,fire_station,Tomball Fire Department,-95.6286592000,30.0944656000,-95.62866,30.09447
+368161105,2002,fire_station,Klein Volunteer Fire Department Station 5,-95.5425964000,30.0965280000,-95.5426,30.09653
+368161107,2002,fire_station,Klein Volunteer Fire Department Station 3,-95.5660376000,30.0161056000,-95.56604,30.01611
+368161108,2002,fire_station,Klein Volunteer Fire Department Station 4,-95.5301110000,30.0151537000,-95.53011,30.01515
+368161234,2002,fire_station,Houston Fire Department Station 96,-95.5407893000,29.9696784000,-95.54079,29.96968
+368161277,2002,fire_station,City of Tomball Fire Department,-95.6338000000,30.0941000000,-95.6338,30.0941
+368161944,2007,library,Chaparral Genealogical Society Library,-95.6110000000,30.0997000000,-95.611,30.0997
+368162262,2001,police,Lakewood Police Department,-95.6065091000,29.9962443000,-95.60651,29.99624
+368162477,2001,police,Tomball Police Department,-95.6166139000,30.0955040000,-95.61661,30.0955
+368162534,2008,town_hall,Tomball City Hall,-95.6168361000,30.0957208000,-95.61684,30.09572
+462587072,2002,fire_station,Klein Volunteer Fire Department Station 6,-95.6107754000,30.0348450000,-95.61078,30.03484
+1137081181,2002,fire_station,Spring VFD,-95.5519317000,30.1215473000,-95.55193,30.12155
+2603503860,2005,post_office,The UPS Store,-95.5826569000,29.9984807000,-95.58266,29.99848
+2605582193,2005,post_office,,-95.6210384000,29.9949452000,-95.62104,29.99495
+4707490472,2001,police,Harris County Sheriff's Office District 5 Substation,-95.5985614000,30.0300032000,-95.59856,30.03
+356866844,2005,post_office,Humble Post Office,-95.2531000000,29.9988000000,-95.2531,29.9988
+368160522,2009,courthouse,Harris County Courthouse Annex,-95.2643000000,30.0033000000,-95.2643,30.0033
+368160715,2002,fire_station,Humble Fire Marshal's Office,-95.2670359000,29.9991117000,-95.26704,29.99911
+368160911,2002,fire_station,Northeast Fire / Rescue Department,-95.3063847000,30.0165333000,-95.30638,30.01653
+368161227,2002,fire_station,Houston Fire Department Station 63,-95.3094668000,29.9843898000,-95.30947,29.98439
+368161434,2002,fire_station,Humble City Fire Department,-95.2676534000,29.9993569000,-95.26765,29.99936
+368161435,2002,fire_station,Humble Fire Station,-95.2675052000,29.9993346000,-95.26751,29.99933
+368162117,2007,library,Humble Library,-95.2664000000,29.9987000000,-95.2664,29.9987
+368162250,2001,police,Harris County Sheriff's Office - Training,-95.2487268000,29.9631168000,-95.24873,29.96312
+368162451,2001,police,Humble City Police Department,-95.2664915000,30.0006290000,-95.26649,30.00063
+368162528,2008,town_hall,Humble City Hall,-95.2685722000,29.9995451000,-95.26857,29.99955
+3666214996,2005,post_office,,-95.3153380000,30.0063270000,-95.31534,30.00633
+368161236,2002,fire_station,Houston Fire Department Station 77,-95.5438158000,29.8223466000,-95.54382,29.82235
+368161280,2002,fire_station,City of Piney Point Village Fire Department,-95.5129000000,29.7821000000,-95.5129,29.7821
+368162272,2001,police,Bunker Hill Village Police Department,-95.5387096000,29.7620539000,-95.53871,29.76205
+368162459,2001,police,Hedwig Village Police Department,-95.5104339000,29.7828987000,-95.51043,29.7829
+2873198538,2008,town_hall,Hunters Creek Village City Hall,-95.5052509000,29.7789442000,-95.50525,29.77894
+5249115719,2007,library,Ring Public Library,-95.5080315000,29.8026308000,-95.50803,29.80263
+368161076,2002,fire_station,Houston Fire Department Station 28,-95.4768810000,29.7338524000,-95.47688,29.73385
+7025124503,2005,post_office,FedEx Office,-95.4604352000,29.7495116000,-95.46044,29.74951
+7025124505,2005,post_office,UPS Store,-95.4601211000,29.7495648000,-95.46012,29.74956
+7207414752,2005,post_office,Parcel Plus,-95.4663646000,29.7490201000,-95.46636,29.74902
+368161089,2002,fire_station,Houston Fire Department Station 6,-95.3942605000,29.7695805000,-95.39426,29.76958
+368161094,2002,fire_station,Houston Fire Department Station 11,-95.4176074000,29.7795547000,-95.41761,29.77955
+368160749,2002,fire_station,Little York Fire Department,-95.4015778000,29.9071516000,-95.40158,29.90715
+368160886,2002,fire_station,Aldine Community Fire Department,-95.3733517000,29.9337586000,-95.37335,29.93376
+368161226,2002,fire_station,Houston Fire Department Station 64,-95.3420667000,29.9508972000,-95.34207,29.9509
+368161238,2002,fire_station,Houston Fire Department Station 74,-95.3915413000,29.9315890000,-95.39154,29.93159
+368161295,2002,fire_station,Harris County Fire Department,-95.3957000000,29.9412000000,-95.3957,29.9412
+368161440,2002,fire_station,Little York Volunteer Fire Department,-95.4001000000,29.8894000000,-95.4001,29.8894
+368162001,2007,library,Aldine Library,-95.4076153000,29.9207481000,-95.40762,29.92075
+368162256,2001,police,Houston Police Department - Aldine Community,-95.4113088000,29.9242746000,-95.41131,29.92427
+368162354,2001,police,Houston Police Department - Greenspoint,-95.4121634000,29.9448311000,-95.41216,29.94483
+368162481,2001,police,Houston Police Department - Richmond,-95.4941756000,29.7322035000,-95.49418,29.7322
+6654320565,2005,post_office,Postal Zone,-95.4864406000,29.7469872000,-95.48644,29.74699
+6917875414,2005,post_office,PostNet,-95.4824115000,29.7599878000,-95.48241,29.75999
+368161118,2002,fire_station,Cy - Fair Volunteer Fire Department Station 8,-95.6874432000,29.8803117000,-95.68744,29.88031
+5816033778,2005,post_office,United States Post Office,-95.6845223000,29.8821631000,-95.68452,29.88216
+368160649,2002,fire_station,Crosby Fire Department Station 1,-95.0646969000,29.9072888000,-95.0647,29.90729
+368160903,2002,fire_station,Sheldon Community Volunteer Fire / Rescue Station 2,-95.1365864000,29.8584458000,-95.13659,29.85845
+368160998,2002,fire_station,Huffman Volunteer Fire Department,-95.0818968000,30.0256950000,-95.0819,30.0257
+368161210,2002,fire_station,Houston Fire Department Station 65,-95.1030934000,30.0205762000,-95.10309,30.02058
+368161330,2002,fire_station,Houston Fire Station Number 65,-95.1060000000,30.0202000000,-95.106,30.0202
+368161400,2002,fire_station,Sheldon Community Volunteer Fire and Rescue Station,-95.1390000000,29.8571000000,-95.139,29.8571
+368161912,2007,library,Crosby Branch Library,-95.0670004000,29.9208619000,-95.067,29.92086
+368161949,2007,library,Crosby Library,-95.0634000000,29.9207000000,-95.0634,29.9207
+368162475,2001,police,Houston Police Department - Lake Houston,-95.1137616000,30.0037137000,-95.11376,30.00371
+368160771,2002,fire_station,Ponderosa Volunteer Fire Department,-95.4547485000,30.0142068000,-95.45475,30.01421
+356866823,2005,post_office,Baytown Post Office,-95.0013000000,29.7274000000,-95.0013,29.7274
+368160269,2001,police,Baytown Area Crime Prevention Office,-94.9699516000,29.7338492000,-94.96995,29.73385
+368160753,2002,fire_station,Baytown Fire and Rescue Services,-94.9646350000,29.7553504000,-94.96464,29.75535
+368160765,2002,fire_station,La Porte Fire Department Station 1,-95.0216094000,29.6642923000,-95.02161,29.66429
+368160951,2002,fire_station,Baytown Fire Department Station 2,-94.9965976000,29.7288993000,-94.9966,29.7289
+368160953,2002,fire_station,Baytown Fire Department Station 4,-94.9547846000,29.7354323000,-94.95478,29.73543
+368161250,2002,fire_station,Pasadena Fire Department Station 9,-94.9913742000,29.6000766000,-94.99137,29.60008
+368161269,2002,fire_station,City of La Porte Fire Department,-95.0253000000,29.6518000000,-95.0253,29.6518
+368161271,2002,fire_station,City of Morgans Point Fire Department,-95.0067000000,29.6714000000,-95.0067,29.6714
+368162255,2001,police,Baytown Police Department,-94.9631097000,29.7561909000,-94.96311,29.75619
+368162290,2001,police,Morgans Point Police Department,-95.0062121000,29.6725082000,-95.00621,29.67251
+368162302,2001,police,Baytown Police Department - Training,-94.9688779000,29.7300692000,-94.96888,29.73007
+368162326,2001,police,Seabrook Police Department,-95.0239206000,29.5644392000,-95.02392,29.56444
+368162343,2001,police,La Porte Police Department,-95.0270706000,29.6539624000,-95.02707,29.65396
+368162345,2001,police,Shoreacres Police Department,-95.0151649000,29.6198945000,-95.01516,29.61989
+368162469,2001,police,La Porte City Marshal's Office,-95.0270242000,29.6545284000,-95.02702,29.65453
+368162498,2001,police,Baytown Police Department Substation,-95.0075001000,29.7310417000,-95.0075,29.73104
+368162535,2008,town_hall,Baytown City Hall,-94.9960000000,29.7279000000,-94.996,29.7279
+368162537,2008,town_hall,Morgans Point City Hall,-95.0066458000,29.6720536000,-95.00665,29.67205
+368162674,2001,police,Baytown Police Station,-95.0006000000,29.7273000000,-95.0006,29.7273
+2615032500,2007,library,Advanced Technology Center & Library,-94.9772967000,29.7329690000,-94.9773,29.73297
+2615032532,2007,library,Sterling Municipal Library,-94.9798475000,29.7366955000,-94.97985,29.7367
+368160975,2002,fire_station,Eastex Freeway Volunteer Fire Department,-95.2960162000,29.9283334000,-95.29602,29.92833
+368161080,2002,fire_station,Houston Fire Department Station 32,-95.2654428000,29.8496523000,-95.26544,29.84965
+368161200,2002,fire_station,Houston Fire Department Station 56,-95.3058616000,29.8708850000,-95.30586,29.87088
+368161203,2002,fire_station,Houston Fire Department Station 43,-95.2840392000,29.8282469000,-95.28404,29.82825
+368161326,2002,fire_station,Houston Fire Station Number 43,-95.2840000000,29.8291000000,-95.284,29.8291
+368162261,2001,police,Houston Police Department - Northeast Patrol,-95.2732908000,29.8321940000,-95.27329,29.83219
+7786346223,2005,post_office,PostNet,-95.2502217000,29.9361641000,-95.25022,29.93616
+368161096,2002,fire_station,Houston Fire Department Station 13,-95.4513248000,29.8322409000,-95.45132,29.83224
+368161212,2002,fire_station,Houston Fire Department Station 67,-95.4360520000,29.8637512000,-95.43605,29.86375
+368162254,2001,police,Houston Police Department - Acres Home,-95.4216752000,29.8574824000,-95.42168,29.85748
+368162363,2001,police,Houston Police Department - North Patrol,-95.4467386000,29.8793208000,-95.44674,29.87932
+4117023678,2007,library,Shepard-Acres Homes Neighborhood Library,-95.4372776000,29.8709430000,-95.43728,29.87094
+5867045585,2007,library,Oak Forest Neighborhood Library,-95.4340203000,29.8275217000,-95.43402,29.82752
+7323671821,2005,post_office,PostNet,-95.4318065000,29.8275481000,-95.43181,29.82755
+356866853,2005,post_office,Pasadena Post Office,-95.2004000000,29.6926000000,-95.2004,29.6926
+368160241,2002,fire_station,Pasadena Fire Chief,-95.2017432000,29.7132978000,-95.20174,29.7133
+368160520,2009,courthouse,W Kyle Chapman Courthouse,-95.1264000000,29.6632000000,-95.1264,29.6632
+368160736,2002,fire_station,Pasadena Fire Department Station 2,-95.2013830000,29.7036322000,-95.20138,29.70363
+368160737,2002,fire_station,Pasadena Fire Department Station 3,-95.1696733000,29.6923324000,-95.16967,29.69233
+368160772,2002,fire_station,Pasadena Fire Protection Service,-95.2077920000,29.6874962000,-95.20779,29.6875
+368160778,2002,fire_station,Deer Park Fire Department,-95.1242234000,29.6995742000,-95.12422,29.69957
+368160779,2002,fire_station,Galena Park Fire Department Station 1,-95.2387738000,29.7341510000,-95.23877,29.73415
+368160790,2002,fire_station,South Houston Fire Department,-95.2388682000,29.6654895000,-95.23887,29.66549
+368160928,2002,fire_station,Galena Park Fire Department Station 2,-95.2138322000,29.7578186000,-95.21383,29.75782
+368160981,2002,fire_station,Pasadena Fire Department Station 4,-95.2079795000,29.6838622000,-95.20798,29.68386
+368161061,2002,fire_station,Pasadena Fire Department Station 5,-95.1632803000,29.6720398000,-95.16328,29.67204
+368161138,2002,fire_station,Pasadena Fire Marshal's Office,-95.2017432000,29.7132978000,-95.20174,29.7133
+368161196,2002,fire_station,Houston Fire Department Station 52,-95.2297040000,29.6350864000,-95.2297,29.63509
+368161244,2002,fire_station,Pasadena Fire Department Station 7,-95.1850739000,29.6404200000,-95.18507,29.64042
+368161251,2002,fire_station,Pasadena Fire Department Station 8,-95.1430865000,29.6487336000,-95.14309,29.64873
+368161254,2002,fire_station,La Porte Fire Department Station 2,-95.0858097000,29.6639588000,-95.08581,29.66396
+368161265,2002,fire_station,South Houston Fire Station,-95.2391000000,29.6660000000,-95.2391,29.666
+368161270,2002,fire_station,City of Pasadena Fire Department,-95.2206450000,29.7115660000,-95.22064,29.71157
+368161272,2002,fire_station,City of Deer Park Fire Department,-95.1235000000,29.6981000000,-95.1235,29.6981
+368161297,2002,fire_station,Galena Park Fire Station,-95.2383000000,29.7341000000,-95.2383,29.7341
+368161960,2007,library,Galena Park Library,-95.2399000000,29.7327000000,-95.2399,29.7327
+368161992,2007,library,South Houston Public Library,-95.2208000000,29.6669000000,-95.2208,29.6669
+368162115,2007,library,Mae Hilty Memorial Library,-95.1499000000,29.6650000000,-95.1499,29.665
+368162247,2001,police,Deer Park Police Department - Investigation,-95.1240798000,29.6981835000,-95.12408,29.69818
+368162279,2001,police,Pasadena Police Academy,-95.1688134000,29.6647278000,-95.16881,29.66473
+368162333,2001,police,South Houston Police Department,-95.2393166000,29.6653154000,-95.23932,29.66532
+368162465,2001,police,Pasadena Police Department,-95.1960244000,29.6934079000,-95.19602,29.69341
+368162525,2008,town_hall,Pasadena City Hall,-95.1961981000,29.6916727000,-95.1962,29.69167
+368162672,2001,police,South Houston Police Station,-95.2394000000,29.6658000000,-95.2394,29.6658
+368162745,2099,public_building,Harris County Health Department Southeast Branch,-95.1556000000,29.6858000000,-95.1556,29.6858
+2272855403,2002,fire_station,Deer Park VFD Station #2,-95.1152276000,29.6796896000,-95.11523,29.67969
+2622861518,2009,courthouse,Deer Park Municiple Court,-95.1245784000,29.6992140000,-95.12458,29.69921
+4636481876,2005,post_office,Deer Park Post Office,-95.1223362000,29.6891534000,-95.12234,29.68915
+4636514589,2007,library,Deer Park Library,-95.1228358000,29.6838588000,-95.12284,29.68386
+4636514591,2001,police,Deer Park Police Station,-95.1227231000,29.6866317000,-95.12272,29.68663
+4636525836,2008,town_hall,Deer Park City Hall,-95.1173223000,29.6890691000,-95.11732,29.68907
+1128966918,2002,fire_station,CY-Fair VFD Station 11,-95.6968187000,29.9081819000,-95.69682,29.90818
+1128969435,2007,library,"Harris County Public Library, CyFair branch",-95.6923684000,29.9100372000,-95.69237,29.91004
+2433577815,2002,fire_station,Cy-Fair Volunteer Fire Department Communications Center,-95.6809640000,29.9092980000,-95.68096,29.9093
+368161091,2002,fire_station,Houston Fire Department Station 10,-95.5519251000,29.7065882000,-95.55193,29.70659
+368161195,2002,fire_station,Houston Fire Department Station 51,-95.5048712000,29.7052476000,-95.50487,29.70525
+368161214,2002,fire_station,Houston Fire Department Station 69,-95.5587163000,29.7509617000,-95.55872,29.75096
+368161219,2002,fire_station,Houston Fire Department Station 60,-95.5248414000,29.7331826000,-95.52484,29.73318
+368162468,2001,police,Houston Police Department - Ranchester,-95.5440621000,29.7066176000,-95.54406,29.70662
+368160748,2002,fire_station,Alief Community Volunteer Fire Department,-95.6676274000,29.7004770000,-95.66763,29.70048
+368161213,2002,fire_station,Houston Fire Department Station 71,-95.1279285000,29.5819627000,-95.12793,29.58196
+368162357,2001,police,Houston Police Department - Clear Lake Patrol,-95.1067229000,29.5796298000,-95.10672,29.57963
+3717796608,2007,library,UHCL Neumann Library,-95.0980698000,29.5821580000,-95.09807,29.58216
+5116182332,2005,post_office,,-95.1392770000,29.5761137000,-95.13928,29.57611
+368160461,2002,fire_station,Houston Fire Department Station 9,-95.3604454000,29.7762310000,-95.36045,29.77623
+368160494,2009,courthouse,Harris County Courthouse,-95.3588269000,29.7605059000,-95.35883,29.76051
+368160511,2009,courthouse,Harris County Criminal Courts 1 - 15,-95.3576156000,29.7620091000,-95.35762,29.76201
+368160516,2009,courthouse,Harris County Courthouse Annex,-95.3573429000,29.7607705000,-95.35734,29.76077
+368161073,2002,fire_station,Houston Fire Department Station 25,-95.3533667000,29.7186504000,-95.35337,29.71865
+368162263,2001,police,Harris County Sheriff's Office,-95.3569288000,29.7643591000,-95.35693,29.76436
+368162312,2001,police,Houston Police Department - Ana Maria Lopez,-95.3586726000,29.7819689000,-95.35867,29.78197
+368162315,2001,police,Harris County Sheriff's Office,-95.3572980000,29.7628066000,-95.3573,29.76281
+368162330,2001,police,Houston Police Department - Headquarters,-95.3674520000,29.7558880000,-95.36745,29.75589
+368162359,2001,police,Harris County Sheriff's Office - Economic Crime,-95.3577236000,29.7620822000,-95.35772,29.76208
+368162701,2001,police,Harris County Sheriff's Office,-95.3568397000,29.7616785000,-95.35684,29.76168
+368162786,2099,public_building,United States Customhouse,-95.3615081000,29.7576507000,-95.36151,29.75765
+4217652091,2005,post_office,,-95.3630180000,29.7225555000,-95.36302,29.72256
+4322627983,2007,library,HPL Express,-95.3595422000,29.7534071000,-95.35954,29.75341
+5907104488,2005,post_office,United States Post Office,-95.3632783000,29.7562118000,-95.36328,29.75621
+368161231,2002,fire_station,Houston Fire Department Station 90,-95.6694929000,29.7889282000,-95.66949,29.78893
+368161229,2002,fire_station,Houston Fire Department Station 92,-95.3260887000,29.9810448000,-95.32609,29.98104
+368162708,2001,police,Houston Police Department - Intercontinental Airport,-95.3405178000,29.9877649000,-95.34052,29.98776
+368161218,2002,fire_station,Houston Fire Department Station 57,-95.5802762000,29.7730364000,-95.58028,29.77304
+5790207648,2005,post_office,The UPS Store,-95.5903271000,29.7699690000,-95.59033,29.76997
+368161198,2002,fire_station,Houston Fire Department Station 54,-95.3694656000,29.9936638000,-95.36947,29.99366
+368161235,2002,fire_station,Houston Fire Department Station 99,-95.3569762000,29.9755041000,-95.35698,29.9755
+2164861639,2002,fire_station,,-95.3563020000,29.9992460000,-95.3563,29.99925
+368161237,2002,fire_station,Houston Fire Department Station 78,-95.6195056000,29.7791754000,-95.61951,29.77918
+368161067,2002,fire_station,Houston Fire Department Station 35,-95.3380004000,29.6741004000,-95.338,29.6741
+368161074,2002,fire_station,Houston Fire Department Station 26,-95.3050493000,29.6817492000,-95.30505,29.68175
+368161077,2002,fire_station,Houston Fire Department Station 29,-95.2537059000,29.6840001000,-95.25371,29.684
+368161199,2002,fire_station,Houston Fire Department Station 55,-95.3561700000,29.6375591000,-95.35617,29.63756
+368161206,2002,fire_station,Houston Fire Department Station 46,-95.3643446000,29.6859295000,-95.36434,29.68593
+368161207,2002,fire_station,Houston Fire Department Station 47,-95.4136631000,29.6317186000,-95.41366,29.63172
+368161225,2002,fire_station,Houston Fire Department Station 61,-95.2670824000,29.6253833000,-95.26708,29.62538
+368161243,2002,fire_station,Houston Fire Department Station 81,-95.2784065000,29.6414096000,-95.27841,29.64141
+368161333,2002,fire_station,Houston Fire Station Number 55,-95.3568000000,29.6402000000,-95.3568,29.6402
+368162245,2001,police,Houston Police Department - Southeast Patrol,-95.3164366000,29.6575066000,-95.31644,29.65751
+368162258,2001,police,Houston Police Department - Sunnyside,-95.3708717000,29.6587680000,-95.37087,29.65877
+368162275,2001,police,Houston Police Department - Hobby Airport,-95.2802056000,29.6570556000,-95.28021,29.65706
+368162328,2001,police,Houston Police Department - Leija,-95.2539724000,29.6851134000,-95.25397,29.68511
+368162367,2001,police,Houston Police Department - Telephone Road,-95.2849214000,29.6193584000,-95.28492,29.61936
+368162703,2001,police,Houston Police Department - Broadway Square,-95.2767752000,29.6758300000,-95.27678,29.67583
+7229355385,2002,fire_station,City of Houston Fire Station 24,-95.3899701000,29.6580290000,-95.38997,29.65803
+368161945,2007,library,Clayton Library Center for Genealogical Research,-95.3865811000,29.7255398000,-95.38658,29.72554
+2091700208,2007,library,Clayton House,-95.3860786000,29.7261687000,-95.38608,29.72617
+356749691,2007,library,African-American Library at the Gregory School,-95.3804942000,29.7541173000,-95.38049,29.75412
+368162305,2001,police,Houston Police Department - Near Town,-95.3898927000,29.7450136000,-95.38989,29.74501
+530776608,2007,library,Freed-Montrose Neighborhood Library,-95.3914623000,29.7355464000,-95.39146,29.73555
+6988914748,2001,police,Houston Police Station,-95.3706247000,29.7649432000,-95.37062,29.76494
+368161232,2002,fire_station,Houston Fire Department Station 101,-95.2276997000,30.0516145000,-95.2277,30.05161
+368161246,2002,fire_station,Houston Fire Department Station 104,-95.2385682000,30.0293757000,-95.23857,30.02938
+368161247,2002,fire_station,Houston Fire Department Station 102,-95.1869886000,30.0656872000,-95.18699,30.06569
+368162005,2007,library,Atascocita Library,-95.1542400000,30.0045946000,-95.15424,30.00459
+4113059993,2005,post_office,The UPS Store,-95.1814636000,30.0499341000,-95.18146,30.04993
+5110005189,2005,post_office,The UPS Store,-95.2025823000,29.9272814000,-95.20258,29.92728
+368160759,2002,fire_station,West I - 10 Volunteer Fire Department Station 2,-95.7295619000,29.7738800000,-95.72956,29.77388
+368160976,2002,fire_station,West I - 10 Volunteer Fire Department Station 5,-95.7203995000,29.8277735000,-95.7204,29.82777
+368162320,2001,police,Harris County Sheriff's Office,-95.7187794000,29.8024228000,-95.71878,29.80242
+3905211333,2005,post_office,The UPS Store,-95.7194854000,29.7926457000,-95.71949,29.79265
+5721141880,2002,fire_station,HCESD 48 Fire Station #5,-95.7381973000,29.8161466000,-95.7382,29.81615
+368160719,2002,fire_station,Klein Volunteer Fire Department Station 2,-95.4907348000,29.9935702000,-95.49073,29.99357
+368160776,2002,fire_station,Champions Volunteer Fire Department,-95.5108565000,29.9774549000,-95.51086,29.97745
+368161111,2002,fire_station,Klein Volunteer Fire Department Station 7,-95.5044737000,30.0382549000,-95.50447,30.03825
+368162294,2001,police,Harris County Sheriff's Office - Constable Precinct 4,-95.5114598000,30.0117848000,-95.51146,30.01178
+1799737985,2002,fire_station,,-95.4816258000,30.0444688000,-95.48163,30.04447
+368161209,2002,fire_station,Houston Fire Department Station 66,-95.5398900000,29.8519736000,-95.53989,29.85197
+368161294,2002,fire_station,Harris County Rural Fire Prevention District Number 20 Fire Station,-95.5062908000,29.9250445000,-95.50629,29.92504
+368162324,2001,police,Houston Police Department - Northwest Patrol,-95.5397144000,29.8570626000,-95.53971,29.85706
+368162361,2001,police,Houston Police Department - Willowbrook,-95.5386066000,29.9578016000,-95.53861,29.9578
+7308064370,2007,library,,-95.5662248000,29.8983176000,-95.56622,29.89832
+368161101,2002,fire_station,Houston Fire Department Station 3,-95.4382826000,29.7378928000,-95.43828,29.73789
+1810485617,2005,post_office,United States Post Office,-95.4428700000,29.7240031000,-95.44287,29.724
+1810677765,2005,post_office,United States Post Office,-95.4369579000,29.7393044000,-95.43696,29.7393
+4470781389,2005,post_office,The UPS Store,-95.4254575000,29.7424585000,-95.42546,29.74246
+7122289687,2005,post_office,Postal Station,-95.4493595000,29.7469814000,-95.44936,29.74698
+368160805,2002,fire_station,Houston Fire Department Station 75,-95.6055496000,29.7447398000,-95.60555,29.74474
+368161241,2002,fire_station,Houston Fire Department Station 83,-95.5776574000,29.7266058000,-95.57766,29.72661
+356866829,2005,post_office,Galnea Park Post Office,-95.2461000000,29.7330000000,-95.2461,29.733
+368161086,2002,fire_station,Houston Fire Department Station 20,-95.3006886000,29.7440258000,-95.30069,29.74403
+368161088,2002,fire_station,Houston Fire Department Station 22,-95.2846118000,29.7305612000,-95.28461,29.73056
+368161202,2002,fire_station,Houston Fire Department Station 42,-95.2726953000,29.7435910000,-95.2727,29.74359
+368161318,2002,fire_station,Houston Fire Station Number 22,-95.2857000000,29.7309000000,-95.2857,29.7309
+368161320,2002,fire_station,Houston Fire Station Number 20,-95.3004633000,29.7439792000,-95.30046,29.74398
+368162237,2001,police,Houston Police Department - Eastside Patrol,-95.2906143000,29.7344260000,-95.29061,29.73443
+368162246,2001,police,Galena Park Police Department,-95.2454830000,29.7320843000,-95.24548,29.73208
+368162530,2008,town_hall,Galena Park City Hall,-95.2416000000,29.7321000000,-95.2416,29.7321
+368162694,2001,police,Galena Park Police Station,-95.2416000000,29.7320000000,-95.2416,29.732
+5661503722,2007,library,Stanaker Library,-95.3029416000,29.7401096000,-95.30294,29.74011
+7598641486,2005,post_office,,-95.8223415000,29.7889652000,-95.82234,29.78897
+1863699356,2002,fire_station,The Woodlands Fire Station #7,-95.5494367000,30.1470057000,-95.54944,30.14701
+368161230,2002,fire_station,Houston Fire Department Station 86,-95.6378446000,29.7562869000,-95.63784,29.75629
+368160915,2002,fire_station,Seabrook Volunteer Fire Department,-95.0521157000,29.5649176000,-95.05212,29.56492
+368161245,2002,fire_station,Pasadena Fire Department Station 6,-95.0574877000,29.5830955000,-95.05749,29.5831
+368162437,2001,police,El Lago Police Department,-95.0518692000,29.5653334000,-95.05187,29.56533
+368162538,2008,town_hall,Taylor Lake Village City Hall,-95.0576340000,29.5733948000,-95.05763,29.57339
+3905959783,2005,post_office,Omega Postal,-95.7512536000,29.7870859000,-95.75125,29.78709
+356866870,2005,post_office,Spring Valley Post Office,-95.4927000000,29.8016000000,-95.4927,29.8016
+368161070,2002,fire_station,Houston Fire Department Station 38,-95.4677444000,29.7901872000,-95.46774,29.79019
+368161300,2002,fire_station,Houston Fire Station Number 38,-95.4677045000,29.7901909000,-95.4677,29.79019
+368162268,2001,police,Houston Police Department - Spring Branch,-95.4961808000,29.8034752000,-95.49618,29.80348
+6299352101,2008,town_hall,Hilshire Village City Hall,-95.4931440000,29.7945290000,-95.49314,29.79453
+6299359103,2005,post_office,,-95.4876830000,29.8034575000,-95.48768,29.80346
+368160917,2002,fire_station,Community Volunteer Fire Department,-95.6525442000,29.7097268000,-95.65254,29.70973
+368160985,2002,fire_station,Nassau Bay Volunteer Fire Department,-95.0847895000,29.5518228000,-95.08479,29.55182
+368162296,2001,police,Nassau Bay Police Department,-95.0896711000,29.5491255000,-95.08967,29.54913
+368161066,2002,fire_station,Houston Fire Department Station 34,-95.3388471000,29.8401944000,-95.33885,29.84019
+368162236,2001,police,Houston Police Department - Independence Heights,-95.3880039000,29.8283477000,-95.388,29.82835
+368162286,2001,police,Harris County Sheriff's Office - DARE Program,-95.3342513000,29.8434157000,-95.33425,29.84342
+368162499,2001,police,Houston Police Department - Jensen Street,-95.3436164000,29.8451211000,-95.34362,29.84512
+368161079,2002,fire_station,Houston Fire Department Station 31,-95.4024686000,29.8284690000,-95.40247,29.82847
+368160694,2002,fire_station,Cy - Fair Volunteer Fire Department Station 5,-95.6425734000,29.8394162000,-95.64257,29.83942
+368160754,2002,fire_station,Webster Volunteer Fire Department,-95.1313222000,29.5402347000,-95.13132,29.54023
+368160972,2002,fire_station,Webster Fire Department,-95.1148491000,29.5335358000,-95.11485,29.53354
+368161059,2002,fire_station,Forest Bend Volunteer Fire Department Station 1,-95.1611516000,29.5316114000,-95.16115,29.53161
+368161279,2002,fire_station,Clear Lake City Fire Department,-95.1143000000,29.5508000000,-95.1143,29.5508
+368162243,2001,police,Harris County Sheriff's Office,-95.1202480000,29.5582352000,-95.12025,29.55824
+368162356,2001,police,Webster Police Department,-95.1168774000,29.5343326000,-95.11688,29.53433
+2655405069,2002,fire_station,,-95.1493680000,29.5567430000,-95.14937,29.55674
+3774122675,2009,courthouse,Harris County Courthouse Bay Area Annex,-95.1204197000,29.5582912000,-95.12042,29.55829
+6190240878,2005,post_office,The UPS Store,-95.1330238000,29.5447717000,-95.13302,29.54477
+368161072,2002,fire_station,Houston Fire Department Station 40,-95.3208582000,29.7101583000,-95.32086,29.71016
+368161081,2002,fire_station,Houston Fire Department Station 17,-95.3413450000,29.7569907000,-95.34134,29.75699
+368162249,2001,police,Houston Police Department - Palm Center,-95.3340619000,29.6958228000,-95.33406,29.69582
+368162464,2001,police,Houston Police Department - Navigation,-95.3275790000,29.7525853000,-95.32758,29.75259
+368162470,2001,police,Harris County Sheriff's Office - Recruiting,-95.3227812000,29.7535046000,-95.32278,29.7535
+4907004821,2001,police,Best Auto Storage,-95.3116037000,29.7518882000,-95.3116,29.75189
+368162450,2001,police,Houston Police Department - Gulfton,-95.4853497000,29.7169926000,-95.48535,29.71699
