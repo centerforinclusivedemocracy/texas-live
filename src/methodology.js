@@ -13,6 +13,7 @@ function initFillScopeLists () {
         switch (countyinfo.profile) {
             case 'fullmodel':
             case 'fullmodelCID':
+            case 'harris':
                 $targetlist = $listing_full;
                 break;
             case 'lite':

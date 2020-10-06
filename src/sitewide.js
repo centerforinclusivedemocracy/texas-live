@@ -30,7 +30,7 @@ const PARTICIPATING_COUNTIES = [
     { countyfp: "183", name: "Gregg", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
     { countyfp: "187", name: "Guadalupe", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
     { countyfp: "199", name: "Hardin", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "201", name: "Harris", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "201", name: "Harris", profile: 'harris', outoforder:"", datafootnote:"", exceptlayers: []  },
     { countyfp: "203", name: "Harrison", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
     { countyfp: "209", name: "Hays", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
     { countyfp: "213", name: "Henderson", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
@@ -615,7 +615,11 @@ DATA_PROFILES.lite.sitingcriteria = [
     DATA_LAYERS.popdens,
     DATA_LAYERS.vbm_rate_tot, DATA_LAYERS.vbm_rate_asn, DATA_LAYERS.vbm_rate_lat, DATA_LAYERS.vbm_rate_youth,
 ];
-
+DATA_PROFILES.harris = Object.assign({}, DATA_PROFILES.fullmodel);
+DATA_PROFILES.harris.pointsofinterest = [
+    DATA_LAYERS.pricenter2020, 
+    DATA_LAYERS.poi_govish, DATA_LAYERS.poi_misc, DATA_LAYERS.poi,
+];
 
 // popup hacks: some counties need random hacks to their popup content, e.g. Los Angeles 2020 Primary Vote Center Locations has a bunch of extra fields
 // define this callback-style function to do postprocessing on the HTML of the popup content
