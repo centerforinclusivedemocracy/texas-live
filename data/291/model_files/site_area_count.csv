@@ -1,7 +1,7 @@
 file,count
-additional_sites_distance,0
-additional_sites_model,8
+additional_sites_distance,2
+additional_sites_model,2
 all_sites_scored,99
-early_voting_day_sites,0
-election_day_sites,71
+early_voting_day_sites,4
+election_day_sites,20
 dropbox_sites,0
