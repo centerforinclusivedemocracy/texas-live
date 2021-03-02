@@ -29,7 +29,7 @@ function initCountyInfo () {
     if (COUNTYINFO.outoforder) $('#outoforder').text(COUNTYINFO.outoforder);
     else $('#outoforder').remove();
 
-    if (COUNTYINFO.profile === "fullmodelCID") {
+    if (COUNTYINFO.profile === "fullmodel_pp") {
         $('#suggestedHeader').text("Suggested Votings Locations")
         $('#suggestedAdditionalHeader').text("Additional Voting Location Options")
         var replaced = $("body").html().replace(/Vote Center/g,'Voting Location');

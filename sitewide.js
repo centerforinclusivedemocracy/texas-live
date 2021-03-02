@@ -10,68 +10,69 @@
 // outoforder = optional message to display in top-left of county page, indicating that this county data are questionable
 // exceptlayers = skip these layers when loading the data profile, for counties to opt-out from individual layers
 const PARTICIPATING_COUNTIES = [
-    { countyfp: "001", name: "Anderson", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "005", name: "Angelina", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "021", name: "Bastrop", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "027", name: "Bell", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "029", name: "Bexar", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "037", name: "Bowie", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "039", name: "Brazoria", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "041", name: "Brazos", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "061", name: "Cameron", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "073", name: "Cherokee", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "085", name: "Collin", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "091", name: "Comal", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "099", name: "Coryell", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "113", name: "Dallas", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "121", name: "Denton", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "135", name: "Ector", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "139", name: "Ellis", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "141", name: "El Paso", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "157", name: "Fort Bend", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "167", name: "Galveston", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "181", name: "Grayson", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "183", name: "Gregg", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "187", name: "Guadalupe", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "199", name: "Hardin", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
+    //SSS// TX has 3 classes: fullmodel_vc for vote centers, fullmodel_pp for polling places, and harris for Harris county (VC)
+    { countyfp: "001", name: "Anderson", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "005", name: "Angelina", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "021", name: "Bastrop", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "027", name: "Bell", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "029", name: "Bexar", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "037", name: "Bowie", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "039", name: "Brazoria", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "041", name: "Brazos", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "061", name: "Cameron", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "073", name: "Cherokee", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "085", name: "Collin", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "091", name: "Comal", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "099", name: "Coryell", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "113", name: "Dallas", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "121", name: "Denton", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "135", name: "Ector", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "139", name: "Ellis", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "141", name: "El Paso", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "157", name: "Fort Bend", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "167", name: "Galveston", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "181", name: "Grayson", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "183", name: "Gregg", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "187", name: "Guadalupe", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "199", name: "Hardin", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
     { countyfp: "201", name: "Harris", profile: 'harris', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "203", name: "Harrison", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "209", name: "Hays", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "213", name: "Henderson", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "215", name: "Hidalgo", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "221", name: "Hood", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "231", name: "Hunt", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "245", name: "Jefferson", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "251", name: "Johnson", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "257", name: "Kauffman", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "291", name: "Liberty", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "303", name: "Lubbock", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "309", name: "McLennan", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "323", name: "Maverick", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "329", name: "Midland", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "339", name: "Montgomery", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "347", name: "Nacogdoches", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "355", name: "Nueces", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "361", name: "Orange", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "367", name: "Parker", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "375", name: "Potter", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "381", name: "Randall", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "397", name: "Rockwall", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "401", name: "Rusk", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "409", name: "San Patricio", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "423", name: "Smith", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "427", name: "Starr", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "439", name: "Tarrant", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "441", name: "Taylor", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "451", name: "Tom Green", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "453", name: "Travis", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "467", name: "Van Zandt", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "469", name: "Victoria", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "471", name: "Walker", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "479", name: "Webb", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "485", name: "Wichita", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "491", name: "Williamson", profile: 'fullmodel', outoforder:"", datafootnote:"", exceptlayers: []  },
-    { countyfp: "497", name: "Wise", profile: 'fullmodelCID', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "203", name: "Harrison", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "209", name: "Hays", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "213", name: "Henderson", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "215", name: "Hidalgo", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "221", name: "Hood", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "231", name: "Hunt", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "245", name: "Jefferson", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "251", name: "Johnson", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "257", name: "Kauffman", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "291", name: "Liberty", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "303", name: "Lubbock", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "309", name: "McLennan", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "323", name: "Maverick", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "329", name: "Midland", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "339", name: "Montgomery", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "347", name: "Nacogdoches", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "355", name: "Nueces", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "361", name: "Orange", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "367", name: "Parker", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "375", name: "Potter", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "381", name: "Randall", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "397", name: "Rockwall", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "401", name: "Rusk", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "409", name: "San Patricio", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "423", name: "Smith", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "427", name: "Starr", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "439", name: "Tarrant", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "441", name: "Taylor", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "451", name: "Tom Green", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "453", name: "Travis", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "467", name: "Van Zandt", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "469", name: "Victoria", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "471", name: "Walker", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "479", name: "Webb", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "485", name: "Wichita", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "491", name: "Williamson", profile: 'fullmodel_vc', outoforder:"", datafootnote:"", exceptlayers: []  },
+    { countyfp: "497", name: "Wise", profile: 'fullmodel_pp', outoforder:"", datafootnote:"", exceptlayers: []  },
 ];
 
 const getParticipatingCountyInfo = function (countyfp) {
@@ -229,7 +230,7 @@ const SITE_SCORING_FIELDS = [
 // radiogroup = layers matching the same radiogroup will behave similarly to radio buttons: turning on one will turn off others in this same group
 const DATA_LAYERS = {};
 
-DATA_LAYERS.election_day_sites = {
+DATA_LAYERS.election_day_sites_vc = {
     id: 'election_day_sites',
     title: "Suggested Areas for Election Day Vote Centers",
     csvfile: 'model_files/election_day_sites.csv',
@@ -239,7 +240,7 @@ DATA_LAYERS.election_day_sites = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/election_day_sites_shp.zip',
 };
-DATA_LAYERS.election_day_sitesCID = {
+DATA_LAYERS.election_day_sites_pp = {
     id: 'election_day_sites',
     title: "Suggested Areas for Election Day Voting Locations",
     csvfile: 'model_files/election_day_sites.csv',
@@ -249,7 +250,7 @@ DATA_LAYERS.election_day_sitesCID = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/election_day_sites_shp.zip',
 };
-DATA_LAYERS.early_voting_day_sites = {
+DATA_LAYERS.early_voting_day_sites_vc = {
     id: 'early_voting_day_sites',
     title: "Suggested Areas for Early Vote Centers",
     csvfile: 'model_files/early_voting_day_sites.csv',
@@ -259,7 +260,7 @@ DATA_LAYERS.early_voting_day_sites = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/early_voting_day_sites_shp.zip',
 };
-DATA_LAYERS.early_voting_day_sitesCID = {
+DATA_LAYERS.early_voting_day_sites_pp = {
     id: 'early_voting_day_sites',
     title: "Suggested Areas for Early Voting Locations",
     csvfile: 'model_files/early_voting_day_sites.csv',
@@ -290,7 +291,7 @@ DATA_LAYERS.all_sites_scored = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/all_sites_scored_shp.zip',
 };
-DATA_LAYERS.additional_sites_model = {
+DATA_LAYERS.additional_sites_model_vc = {
     id: 'additional_sites_model',
     title: "Additional Vote Center Options Based on Model",
     csvfile: 'model_files/additional_sites_model.csv',
@@ -300,7 +301,7 @@ DATA_LAYERS.additional_sites_model = {
     legendformat: 'lowtohigh',
     downloadfile: 'model_files/additional_sites_model_shp.zip',
 };
-DATA_LAYERS.additional_sites_modelCID = {
+DATA_LAYERS.additional_sites_model_pp = {
     id: 'additional_sites_model',
     title: "Additional Voting Location Options Based on Model",
     csvfile: 'model_files/additional_sites_model.csv',
@@ -553,12 +554,12 @@ DATA_LAYERS.supervisorydistricts201 = {
 // lite = all layers EXCEPT suggested areas
 const DATA_PROFILES = {};
 
-DATA_PROFILES.fullmodel = {
+DATA_PROFILES.fullmodel_vc = {
     suggestedareas: [
-        DATA_LAYERS.election_day_sites, DATA_LAYERS.early_voting_day_sites, DATA_LAYERS.all_sites_scored,
+        DATA_LAYERS.election_day_sites_vc, DATA_LAYERS.early_voting_day_sites_vc, DATA_LAYERS.all_sites_scored,
     ],
     additionalareas: [
-        DATA_LAYERS.additional_sites_model
+        DATA_LAYERS.additional_sites_model_vc
     ],
     sitingcriteria: [
         DATA_LAYERS.cvapdens, DATA_LAYERS.job_dens,
@@ -585,12 +586,12 @@ DATA_PROFILES.fullmodel = {
     ],
 };
 
-DATA_PROFILES.fullmodelCID = {
+DATA_PROFILES.fullmodel_pp = {
     suggestedareas: [
-        DATA_LAYERS.election_day_sitesCID, DATA_LAYERS.early_voting_day_sitesCID, DATA_LAYERS.all_sites_scored,
+        DATA_LAYERS.election_day_sites_pp, DATA_LAYERS.early_voting_day_sites_pp, DATA_LAYERS.all_sites_scored,
     ],
     additionalareas: [
-        DATA_LAYERS.additional_sites_modelCID
+        DATA_LAYERS.additional_sites_model_pp
     ],
     sitingcriteria: [
         DATA_LAYERS.cvapdens, DATA_LAYERS.job_dens,
@@ -617,7 +618,7 @@ DATA_PROFILES.fullmodelCID = {
     ],
 };
 
-DATA_PROFILES.lite = Object.assign({}, DATA_PROFILES.fullmodel);
+DATA_PROFILES.lite = Object.assign({}, DATA_PROFILES.fullmodel_vc);
 DATA_PROFILES.lite.suggestedareas = [];
 DATA_PROFILES.lite.additionalareas = [];
 DATA_PROFILES.lite.pointsofinterest = [
@@ -631,7 +632,7 @@ DATA_PROFILES.lite.sitingcriteria = [
     DATA_LAYERS.popdens,
     DATA_LAYERS.vbm_rate_tot, DATA_LAYERS.vbm_rate_asn, DATA_LAYERS.vbm_rate_lat, DATA_LAYERS.vbm_rate_youth,
 ];
-DATA_PROFILES.harris = Object.assign({}, DATA_PROFILES.fullmodel);
+DATA_PROFILES.harris = Object.assign({}, DATA_PROFILES.fullmodel_vc);
 DATA_PROFILES.harris.pointsofinterest = [
     DATA_LAYERS.pricenter2020, 
     DATA_LAYERS.transit_stops,
