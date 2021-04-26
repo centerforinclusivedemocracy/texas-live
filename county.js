@@ -708,6 +708,19 @@ function refreshMapLegend () {
             // add the No Data swatch to the end
             $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${NODATA_COLOR};"></div> No Data</div>`).appendTo($legend);
         }
+        else if (breaks.length > 1 && breaks.length < 5){
+            // SSS // if between 2-4 breaks, print the actual values for the tracts rather than a Jenks break
+            for (var i=0, l=breaks.length; i<l; i++) {
+                const color = colors[i];
+                const value = breaks[i];
+                const valuetext = formatValue(value, layerinfo.legendformat);
+                const text = `${valuetext}`;
+                $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${color};"></div> ${text}</div>`).appendTo($legend);
+            }
+
+            // add the No Data swatch to the end
+            $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${NODATA_COLOR};"></div> No Data</div>`).appendTo($legend);
+        }
         else {
             // hey, real data with breaks that we can color and print out
             for (var i=0, l=breaks.length; i<l; i++) {
@@ -1032,7 +1045,7 @@ function calculateModifiedJenksBreaks (values, howmanybreaks) {
     let breaks = null;
     try { breaks = ss.jenks(values, howmanybreaksforreal); } catch (err) {}
 
-    if (breaks) {
+    if (breaks.length > 5) {
         // got breaks; good, but still need to clean up the results
         // then ss.jenks() has some quirky behaviors with monotonous data: undefined breaks, same break numbers, 0s as breaks, ... try to prune these out
         breaks.length = breaks.length - 1;  // trim the last (max value, not a break)
@@ -1042,6 +1055,11 @@ function calculateModifiedJenksBreaks (values, howmanybreaks) {
         breaks = breaks.unique();  // remove duplicate break values (data with insufficient variation)
 
         breaks.splice(0, 0, 0);  // prepend a 0 so color array is aligned: color 0 = "up to" 1stbreak value
+    }
+    else if (breaks.length > 1 && breaks.length < 5) {
+        // SSS // if we've got between 2-4 breaks (rural counties), need a different method - simply use the raw values
+        breaks = values
+        breaks = breaks.unique();  // remove duplicate break values 
     }
     else if (values.length) {
         // didn't get breaks but we did have data
@@ -1056,7 +1074,6 @@ function calculateModifiedJenksBreaks (values, howmanybreaks) {
     // done
     return breaks;
 }
-
 
 function pickColorByValue (value, breaks, colors) {
     if (! breaks || isNaN(value)) return NODATA_COLOR;
