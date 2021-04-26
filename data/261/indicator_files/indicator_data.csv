@@ -1,3 +1,3 @@
 geoid,countyfp,prc_nonengprof_final,prc_nonengprof_final_unreliable_flag,prc_caraccess_final,prc_caraccess_final_unreliable_flag,prcdisabled_final,prcdisabled_final_unreliable_flag,prc_pov_final,prc_pov_final_unreliable_flag,prc_youth_final,prc_youth_final_unreliable_flag,prc_asian,prc_asian_unreliable_flag,prc_black,prc_black_unreliable_flag,prc_latino,prc_latino_unreliable_flag,prc_white,prc_white_unreliable_flag,cvapdens,cvapdens_unreliable_flag,tot_elignonreg_prc_final,tot_elignonreg_prc_final_unreliable_flag,job_dens,pollvoter_dens,pop10,areakm,popdens,vbm_rate_tot,vbm_rate_lat,vbm_rate_asn,vbm_rate_youth
-48261950100,261,0.53632,0,0.92386,0,0.10843,1,0.05458,1,0.03169,1,0.0,1,0.0,1,0.94718,0,0.05282,1,1.0,0,0.30385,0,1.0,0.94994,416,4644.92612,0.08956,0.06415,0.07448,0.0,0.0
-48261990000,261,,1,,1,,1,,1,,1,,1,,1,,1,,1,0.0,1,0.0,1,,0.05006,0,394.65978,0.0,0.06833,0.06137,0.0,0.0
+48261950100,261,0.53632,0,0.92386,0,0.10843,1,0.05458,1,0.03169,1,0.0,1,0.0,1,0.94718,0,0.05282,1,1.0,0,0.29909,0,1.0,0.94882,416,4644.92612,0.08956,0.0639,0.07357,0.0,0.0
+48261990000,261,,1,,1,,1,,1,,1,,1,,1,,1,,1,0.0,1,0.0,1,,0.05118,0,394.65978,0.0,0.06661,0.05927,0.0,0.0
