@@ -4,7 +4,7 @@ const QUANTILEBREAKS = {};  // see initLoadQuantileBreaks() and circleSymbolizer
 const INDICATORS_BY_TRACT = {};  // see initLoadQuantileBreaks() and addIndicatorChoroplethToMap()
 const SITESCOREBREAKS = {};  // see initLoadQuantileBreaks() and showSuggestedSiteInfo()
 const SITESCORES = {}; // // see initLoadQuantileBreaks() and showSuggestedSiteInfo()
-var RAWVALS = false; // KA keep track of whether to use raw vals or jenks breaks in indicator legend
+var rawvals = false; // KA keep track of whether to use raw vals or jenks breaks in indicator legend
 
 
 $(document).ready(function () {
@@ -681,8 +681,8 @@ function refreshMapLegend () {
         if (! layerinfo.legendformat) return;  // no legend format given, skip it
         if (! layerinfo.quantilefield) return;  // not a quantiled color ramp legend, so skip it
         if (layerinfo.legendformat == 'lowtohigh') return;  // uses the simpler low-to-high legend, not a detailed one like for demographics
-
-        const title = layerinfo.title;
+        
+        const title = layerinfo.title; 
         const breaks = QUANTILEBREAKS[layerinfo.id];
         const colors = layerinfo.quantilecolors;
 
@@ -705,7 +705,7 @@ function refreshMapLegend () {
             // add the No Data swatch to the end
             $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${NODATA_COLOR};"></div> No Data</div>`).appendTo($legend);
         }
-        else if (RAWVALS == true){
+        else if (rawvals == true){
             // KA // if breaks contains raw values rather than Jenks breaks have legend show these vals 
             for (var i=0, l=breaks.length; i<l; i++) {
                 const color = colors[i];
@@ -1039,6 +1039,7 @@ function calculateModifiedJenksBreaks (values, howmanybreaks) {
     // if there aren't enough data points, try making fewer classes, sometimes it works
     let howmanybreaksforreal = howmanybreaks;
     if (howmanybreaks > values.length && values.length >= 1) howmanybreaksforreal = values.length;
+    var unq_vals = values.unique()
     let breaks = null;
     try { breaks = ss.jenks(values, howmanybreaksforreal); } catch (err) {}
 
@@ -1059,20 +1060,20 @@ function calculateModifiedJenksBreaks (values, howmanybreaks) {
             // SSS // if we've got between 2-4 breaks (rural counties), need a different method - simply use the raw values
             breaks = values;
             breaks = breaks.unique();  // remove duplicate break values 
-            RAWVALS = true;
+            rawvals = true;
         }
     }
-    else if (values.length) {
+    else if (unq_vals.length > 1) {
+        // KA // if no breaks but unique values then create breaks based on values
+        breaks = values;
+        breaks = breaks.unique();  // remove duplicate break values 
+    }
+    else {
         // didn't get breaks but we did have data
         // this means insufficient data values or variation, for Jenks breaks to even give back quirky results
         // make up a single-value set of breaks, so we can move on
-        breaks = [ values[values.length - 1] ];
+        breaks = [ values[values.length - 1] ]; 
     }
-    // else
-    // we didn't get back breaks, because we had no real data values (0 length or all null/nodata)
-    // just leave it at null, and callers will need to handle that condition
-
-    // done
     return breaks;
 }
 
