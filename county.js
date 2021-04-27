@@ -687,6 +687,7 @@ function refreshMapLegend () {
         if (layerinfo.legendformat == 'lowtohigh') return;  // uses the simpler low-to-high legend, not a detailed one like for demographics
 
         const title = layerinfo.title;
+        RAWVALS = false; // reset RAWVALS for each indicator layer 
         const breaks = QUANTILEBREAKS[layerinfo.id];
         const colors = layerinfo.quantilecolors;
 
@@ -1045,6 +1046,7 @@ function calculateModifiedJenksBreaks (values, howmanybreaks) {
     if (howmanybreaks > values.length && values.length >= 1) howmanybreaksforreal = values.length;
     let breaks = null;
     try { breaks = ss.jenks(values, howmanybreaksforreal); } catch (err) {}
+    const unq_vals = values.unique()
 
     if (breaks) {
         if (breaks.length >= 5) {
@@ -1066,17 +1068,16 @@ function calculateModifiedJenksBreaks (values, howmanybreaks) {
             RAWVALS = true;
         }
     }
-    else if (values.length) {
-        // didn't get breaks but we did have data
-        // this means insufficient data values or variation, for Jenks breaks to even give back quirky results
-        // make up a single-value set of breaks, so we can move on
+    else if (unq_vals.length > 1) {
+        // KA // if no breaks but unique values then also use the raw values
+        breaks = values;
+        breaks = breaks.unique();  // remove duplicate break values 
+        RAWVALS = true;
+    }
+    else {
+        // if all values are equal
         breaks = [ values[values.length - 1] ];
     }
-    // else
-    // we didn't get back breaks, because we had no real data values (0 length or all null/nodata)
-    // just leave it at null, and callers will need to handle that condition
-
-    // done
     return breaks;
 }
 
