@@ -1059,6 +1059,7 @@ function calculateModifiedJenksBreaks (values, howmanybreaks) {
             breaks = breaks.unique();  // remove duplicate break values (data with insufficient variation)
 
             breaks.splice(0, 0, 0);  // prepend a 0 so color array is aligned: color 0 = "up to" 1stbreak value
+            rawvals = false;
         }
         else if (breaks.length > 1 && breaks.length < 5) {
             // SSS // if we've got between 2-4 breaks (rural counties), need a different method - simply use the raw values
@@ -1071,12 +1072,14 @@ function calculateModifiedJenksBreaks (values, howmanybreaks) {
         // KA // if no breaks but unique values then create breaks based on values
         breaks = values;
         breaks = breaks.unique();  // remove duplicate break values 
+        rawvals = true;
     }
     else {
         // didn't get breaks but we did have data
         // this means insufficient data values or variation, for Jenks breaks to even give back quirky results
         // make up a single-value set of breaks, so we can move on
         breaks = [ values[values.length - 1] ]; 
+        rawvals = false;
     }
     return breaks;
 }
