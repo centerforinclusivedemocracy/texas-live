@@ -4,6 +4,7 @@ const QUANTILEBREAKS = {};  // see initLoadQuantileBreaks() and circleSymbolizer
 const INDICATORS_BY_TRACT = {};  // see initLoadQuantileBreaks() and addIndicatorChoroplethToMap()
 const SITESCOREBREAKS = {};  // see initLoadQuantileBreaks() and showSuggestedSiteInfo()
 const SITESCORES = {}; // // see initLoadQuantileBreaks() and showSuggestedSiteInfo()
+var RAWVALS = false; // KA keep track of whether to use raw vals or jenks breaks in indicator legend
 
 
 $(document).ready(function () {
@@ -704,8 +705,8 @@ function refreshMapLegend () {
             // add the No Data swatch to the end
             $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${NODATA_COLOR};"></div> No Data</div>`).appendTo($legend);
         }
-        else if (breaks.length > 1 && breaks.length < 5){
-            // SSS // if between 2-4 breaks, print the actual values for the tracts rather than a Jenks break
+        else if (RAWVALS == true){
+            // KA // if breaks contains raw values rather than Jenks breaks have legend show these vals 
             for (var i=0, l=breaks.length; i<l; i++) {
                 const color = colors[i];
                 const value = breaks[i];
@@ -1037,25 +1038,29 @@ function calculateModifiedJenksBreaks (values, howmanybreaks) {
     // run ss.jenks() and let it stay null if there was some critical failure
     // if there aren't enough data points, try making fewer classes, sometimes it works
     let howmanybreaksforreal = howmanybreaks;
-    if (howmanybreaks > values.length && values.length > 1) howmanybreaksforreal = values.length;
+    if (howmanybreaks > values.length && values.length >= 1) howmanybreaksforreal = values.length;
     let breaks = null;
     try { breaks = ss.jenks(values, howmanybreaksforreal); } catch (err) {}
 
-    if (breaks.length > 5) {
-        // got breaks; good, but still need to clean up the results
-        // then ss.jenks() has some quirky behaviors with monotonous data: undefined breaks, same break numbers, 0s as breaks, ... try to prune these out
-        breaks.length = breaks.length - 1;  // trim the last (max value, not a break)
-        breaks.splice(0, 1);  // trim the first (min value, not a break)
+    if (breaks) {
+        if (breaks.length >= 5) {
+            // for counties with 4 or more tracts (jenks adds 1 undefined values so breaks.length >= 5)
+            // got breaks; good, but still need to clean up the results
+            // then ss.jenks() has some quirky behaviors with monotonous data: undefined breaks, same break numbers, 0s as breaks, ... try to prune these out
+            breaks.length = breaks.length - 1;  // trim the last (max value, not a break)
+            breaks.splice(0, 1);  // trim the first (min value, not a break)
 
-        breaks = breaks.filter(function (value) { return value; }); // remove undefined break points (data with insufficient variation and/or length)
-        breaks = breaks.unique();  // remove duplicate break values (data with insufficient variation)
+            breaks = breaks.filter(function (value) { return value; }); // remove undefined break points (data with insufficient variation and/or length)
+            breaks = breaks.unique();  // remove duplicate break values (data with insufficient variation)
 
-        breaks.splice(0, 0, 0);  // prepend a 0 so color array is aligned: color 0 = "up to" 1stbreak value
-    }
-    else if (breaks.length > 1 && breaks.length < 5) {
-        // SSS // if we've got between 2-4 breaks (rural counties), need a different method - simply use the raw values
-        breaks = values
-        breaks = breaks.unique();  // remove duplicate break values 
+            breaks.splice(0, 0, 0);  // prepend a 0 so color array is aligned: color 0 = "up to" 1stbreak value
+        }
+        else if (breaks.length > 1 && breaks.length < 5) {
+            // SSS // if we've got between 2-4 breaks (rural counties), need a different method - simply use the raw values
+            breaks = values;
+            breaks = breaks.unique();  // remove duplicate break values 
+            RAWVALS = true;
+        }
     }
     else if (values.length) {
         // didn't get breaks but we did have data
