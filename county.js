@@ -1072,9 +1072,9 @@ function calculateModifiedJenksBreaks (values, howmanybreaks) {
         // KA // if no breaks but unique values then create breaks based on values
         breaks = values;
         breaks = breaks.unique();  // remove duplicate break values 
-        rawvals = true;
+        rawvals = false; // KA // for some reason doesn't work when set to true so settle for under/higher legend language
     }
-    else {
+    else if (values.length) {
         // didn't get breaks but we did have data
         // this means insufficient data values or variation, for Jenks breaks to even give back quirky results
         // make up a single-value set of breaks, so we can move on
