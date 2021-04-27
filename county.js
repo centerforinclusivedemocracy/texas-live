@@ -709,6 +709,19 @@ function refreshMapLegend () {
             // add the No Data swatch to the end
             $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${NODATA_COLOR};"></div> No Data</div>`).appendTo($legend);
         }
+        else if (breaks.length == 2) {
+            // just show raw values for two breaks
+            for (var i=0, l=breaks.length; i<l; i++) {
+                const color = colors[i];
+                const value = breaks[i];
+                const valuetext = formatValue(value, layerinfo.legendformat);
+                const text = `${valuetext}`;
+                $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${color};"></div> ${text}</div>`).appendTo($legend);
+            }
+
+            // add the No Data swatch to the end
+            $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${NODATA_COLOR};"></div> No Data</div>`).appendTo($legend);
+        }
         else if (rawvals == true){
             // KA // if breaks contains raw values rather than Jenks breaks have legend show these vals 
             for (var i=0, l=breaks.length; i<l; i++) {
