@@ -623,7 +623,7 @@ DATA_LAYERS.prc_youth_final = {
 };
 DATA_LAYERS.pollvoter_dens = {
     id: 'pollvoter_dens',
-    title: "2016 Polling Place Voter Percentage",
+    title: "2020 Polling Place Voter Percentage",
     scoresource: 'indicatordata', scorefield:  'pollvoter_dens',
     quantilefield: 'pollvoter_dens', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
     legendformat: 'percent',
@@ -639,7 +639,7 @@ DATA_LAYERS.popdens = {
 };
 DATA_LAYERS.vbm_rate_tot = {
     id: 'vbm_rate_tot',
-    title: "2016 Vote by Mail Rate (Total)",
+    title: "2020 Vote by Mail Rate (Total)",
     scoresource: 'indicatordata', scorefield:  'vbm_rate_tot',
     quantilefield: 'vbm_rate_tot', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
     legendformat: 'percent',
@@ -647,7 +647,7 @@ DATA_LAYERS.vbm_rate_tot = {
 };
 DATA_LAYERS.vbm_rate_asn = {
     id: 'vbm_rate_asn',
-    title: "2016 Vote by Mail Rate (Asian-American)",
+    title: "2020 Vote by Mail Rate (Asian-American)",
     scoresource: 'indicatordata', scorefield:  'vbm_rate_asn',
     quantilefield: 'vbm_rate_asn', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
     legendformat: 'percent',
@@ -655,15 +655,15 @@ DATA_LAYERS.vbm_rate_asn = {
 };
 DATA_LAYERS.vbm_rate_lat = {
     id: 'vbm_rate_lat',
-    title: "2016 Vote by Mail Rate (Latino)",
+    title: "2020 Vote by Mail Rate (Latino)",
     scoresource: 'indicatordata', scorefield:  'vbm_rate_lat',
     quantilefield: 'vbm_rate_lat', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
     legendformat: 'percent',
     radiogroup: 'tractchoropleths',
 };
 DATA_LAYERS.vbm_rate_youth = {
-    id: '2016 vbm_rate_youth',
-    title: "2016 Vote by Mail Rate (Youth)",
+    id: '2020 vbm_rate_youth',
+    title: "2020 Vote by Mail Rate (Youth)",
     scoresource: 'indicatordata', scorefield:  'vbm_rate_youth',
     quantilefield: 'vbm_rate_youth', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
     legendformat: 'percent',
