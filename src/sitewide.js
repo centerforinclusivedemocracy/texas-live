@@ -667,7 +667,7 @@ DATA_LAYERS.vbm_rate_youth = {
 };
 DATA_LAYERS.prc_black = {
     id: 'prc_black',
-    title: "African-American Percent of Population",
+    title: "Black Percent of Population",
     scoresource: 'indicatordata', scorefield: 'prc_black',
     quantilefield: 'prc_black', quantilecolors: CRITERIA_COLOR_RAMP, breaksource: 'indicatordata', // because fillColor == quantile
     legendformat: 'percent',
