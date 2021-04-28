@@ -96,7 +96,7 @@ function initLoadQuantileBreaks () {
                         });
 
                         const values = results.data.map(function (row) { return parseFloat(row[layerinfo.quantilefield]); }).filter(function (value) { return ! isNaN(value); });
-                        values.sort();
+                        values.sort(function(a,b) { return a - b;});
                         const howmanybreaks = layerinfo.quantilecolors.length;
                         const breaks = calculateModifiedJenksBreaks(values, howmanybreaks, layerinfo.legendformat);
 
@@ -1062,10 +1062,9 @@ function calculateModifiedJenksBreaks (values, howmanybreaks, legendformat) {
 
     // run ss.jenks() and let it stay null if there was some critical failure
     // if there aren't enough data points, try making fewer classes, sometimes it works
-    values = values.sort()
     let howmanybreaksforreal = howmanybreaks;
     if (howmanybreaks > values.length && values.length >= 1) howmanybreaksforreal = values.length;
-    var uniquevalues = values.unique()
+    var uniquevalues = values.unique();
     let breaks = null;
     if (uniquevalues.length > 3) {
         for (i = 0; i < values.length; i++) {
@@ -1107,7 +1106,7 @@ function calculateModifiedJenksBreaks (values, howmanybreaks, legendformat) {
     }
     else if (uniquevalues.length > 1) {
         // KA // if no breaks but unique values then create breaks based on values
-        breaks = values.sort();
+        breaks = values;
         breaks = breaks.unique();  // remove duplicate break values 
         rawvals = true; // KA // for some reason doesn't work when set to true so settle for under/higher legend language
     }
