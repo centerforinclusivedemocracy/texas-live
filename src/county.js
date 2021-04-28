@@ -744,13 +744,21 @@ function refreshMapLegend () {
                 const valuetext = formatValue(value, layerinfo.legendformat);
                 const nextvaluetext = formatValue(nextvalue, layerinfo.legendformat);
 
-                let text;
-                if (isthefirst) text = `Under ${nextvaluetext}`;
-                else if (isthelast) text = `${valuetext} or higher`;
-                else text = `${valuetext} - ${nextvaluetext}`;
-                $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${color};"></div> ${text}</div>`).appendTo($legend);
+                if (valuetext == nextvaluetext) {
+                    let text;
+                    if (isthefirst) text = `Under ${nextvaluetext}`;
+                    else if (isthelast) text = `${valuetext} or higher`;
+                    else text = `${valuetext}`;
+                    $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${color};"></div> ${text}</div>`).appendTo($legend);
+                }
+                else {    
+                    let text;
+                    if (isthefirst) text = `Under ${nextvaluetext}`;
+                    else if (isthelast) text = `${valuetext} or higher`;
+                    else text = `${valuetext} - ${nextvaluetext}`;
+                    $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${color};"></div> ${text}</div>`).appendTo($legend);
+                }
             }
-
             // add the No Data swatch to the end
             $(`<div class="legend-entry"><div class="legend-swatch" style="background-color: ${NODATA_COLOR};"></div> No Data</div>`).appendTo($legend);
         }
