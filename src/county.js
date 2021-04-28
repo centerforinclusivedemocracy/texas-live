@@ -94,7 +94,7 @@ function initLoadQuantileBreaks () {
                         const values = results.data.map(function (row) { return parseFloat(row[layerinfo.quantilefield]); }).filter(function (value) { return ! isNaN(value); });
                         values.sort();
                         const howmanybreaks = layerinfo.quantilecolors.length;
-                        const breaks = calculateModifiedJenksBreaks(values, howmanybreaks);
+                        const breaks = calculateModifiedJenksBreaks(values, howmanybreaks, layerinfo.legendformat);
 
                         QUANTILEBREAKS[layerinfo.id] = breaks;
                     });
@@ -151,7 +151,7 @@ function initLoadQuantileBreaks () {
                         const values = results.data.map(function (row) { return parseFloat(row[layerinfo.quantilefield]); }).filter(function (value) { return ! isNaN(value); });
                         values.sort();
                         const howmanybreaks = layerinfo.quantilecolors.length;
-                        const breaks = calculateModifiedJenksBreaks(values, howmanybreaks);
+                        const breaks = calculateModifiedJenksBreaks(values, howmanybreaks, layerinfo.legendformat);
 
                         QUANTILEBREAKS[layerinfo.id] = breaks;
                     });
@@ -1051,18 +1051,34 @@ function formatValue (value, legendformat) {
 }
 
 
-function calculateModifiedJenksBreaks (values, howmanybreaks) {
+function calculateModifiedJenksBreaks (values, howmanybreaks, legendformat) {
     // ss.jenks() has weird failure modes when fed some non-ideal data, and we get plenty of that!
     // even with good data, it has some quirky behaviors such as undefined breaks, repeated break values, ...
     // and we work around those to give back nice, clean breaks ... or else a null
 
     // run ss.jenks() and let it stay null if there was some critical failure
     // if there aren't enough data points, try making fewer classes, sometimes it works
+    values = values.sort()
     let howmanybreaksforreal = howmanybreaks;
     if (howmanybreaks > values.length && values.length >= 1) howmanybreaksforreal = values.length;
-    var unq_vals = values.unique()
+    var uniquevalues = values.unique()
     let breaks = null;
-    try { breaks = ss.jenks(values, howmanybreaksforreal); } catch (err) {}
+    if (uniquevalues.length > 3) {
+        for (i = 0; i < values.length; i++) {
+            switch (legendformat) {
+                case 'decimal':
+                    values[i] = values[i].toFixed(1);
+                    break;
+                case 'percent':
+                    values[i] = values[i].toFixed(3);
+                    break;
+                case 'integer':
+                    values[i] = Math.round(values[i]);
+                    break;
+                }
+            }
+        try { breaks = ss.jenks(values, howmanybreaksforreal); } catch (err) {}
+        }
 
     if (breaks) {
         if (breaks.length >= 5) {
@@ -1085,11 +1101,11 @@ function calculateModifiedJenksBreaks (values, howmanybreaks) {
             rawvals = true;
         }
     }
-    else if (unq_vals.length > 1) {
+    else if (uniquevalues.length > 1) {
         // KA // if no breaks but unique values then create breaks based on values
-        breaks = values;
+        breaks = values.sort();
         breaks = breaks.unique();  // remove duplicate break values 
-        rawvals = false; // KA // for some reason doesn't work when set to true so settle for under/higher legend language
+        rawvals = true; // KA // for some reason doesn't work when set to true so settle for under/higher legend language
     }
     else if (values.length) {
         // didn't get breaks but we did have data
