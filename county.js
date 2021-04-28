@@ -800,7 +800,18 @@ function addIndicatorChoroplethToMap (layerinfo) {
                 const geoid = parseInt(feature.properties.geoid);  // indicator_data.csv omits leading 0, work around by treating geoids as integers (smh)
                 const indicators = INDICATORS_BY_TRACT[geoid];
                 if (! indicators) { console.debug(`No INDICATORS_BY_TRACT entry for ${geoid}`); return style; }
-                const value = parseFloat(indicators[layerinfo.scorefield]);
+                var value = parseFloat(indicators[layerinfo.scorefield]);
+                switch (layerinfo.legendformat) {
+                    case 'decimal':
+                        value = value.toFixed(1);
+                        break;
+                    case 'percent':
+                        value = value.toFixed(3);
+                        break;
+                    case 'integer':
+                        value = Math.round(value);
+                        break;
+                    }
                 const breaks = QUANTILEBREAKS[layerinfo.id];
                 const colors = layerinfo.quantilecolors;
                 const thiscolor = pickColorByValue(value, breaks, colors);
@@ -1066,20 +1077,22 @@ function calculateModifiedJenksBreaks (values, howmanybreaks, legendformat) {
     if (howmanybreaks > values.length && values.length >= 1) howmanybreaksforreal = values.length;
     var uniquevalues = values.unique();
     let breaks = null;
-    if (uniquevalues.length > 3) {
-        for (i = 0; i < values.length; i++) {
-            switch (legendformat) {
-                case 'decimal':
-                    values[i] = values[i].toFixed(1);
-                    break;
-                case 'percent':
-                    values[i] = values[i].toFixed(3);
-                    break;
-                case 'integer':
-                    values[i] = Math.round(values[i]);
-                    break;
-                }
+    
+    for (i = 0; i < values.length; i++) {
+        switch (legendformat) {
+            case 'decimal':
+                values[i] = values[i].toFixed(1);
+                break;
+            case 'percent':
+                values[i] = values[i].toFixed(3);
+                break;
+            case 'integer':
+                values[i] = Math.round(values[i]);
+                break;
             }
+        }
+
+    if (uniquevalues.length > 3) {
         try { breaks = ss.jenks(values, howmanybreaksforreal); } catch (err) {}
         }
 
