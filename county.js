@@ -1075,7 +1075,6 @@ function calculateModifiedJenksBreaks (values, howmanybreaks, legendformat) {
     // if there aren't enough data points, try making fewer classes, sometimes it works
     let howmanybreaksforreal = howmanybreaks;
     if (howmanybreaks > values.length && values.length >= 1) howmanybreaksforreal = values.length;
-    var uniquevalues = values.unique();
     let breaks = null;
     
     for (i = 0; i < values.length; i++) {
@@ -1091,7 +1090,7 @@ function calculateModifiedJenksBreaks (values, howmanybreaks, legendformat) {
                 break;
             }
         }
-
+    var uniquevalues = values.unique();
     if (uniquevalues.length > 3) {
         try { breaks = ss.jenks(values, howmanybreaksforreal); } catch (err) {}
         }
